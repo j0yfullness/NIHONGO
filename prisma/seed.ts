@@ -21,7 +21,10 @@ import workInterview from "../data/work/interview.json";
 import workVocab from "../data/work/vocabulary.json";
 import workResume from "../data/work/resume.json";
 
-const adapter = new PrismaLibSql({ url: process.env.DATABASE_URL! });
+const adapter = new PrismaLibSql({
+  url: process.env.DATABASE_URL!,
+  authToken: process.env.TURSO_AUTH_TOKEN || undefined,
+});
 const prisma = new PrismaClient({ adapter });
 
 async function main() {

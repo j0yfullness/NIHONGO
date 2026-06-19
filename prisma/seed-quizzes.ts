@@ -2,7 +2,10 @@ import "dotenv/config";
 import { PrismaClient, QuestionType, LessonCategory } from "@prisma/client";
 import { PrismaLibSql } from "@prisma/adapter-libsql";
 
-const adapter = new PrismaLibSql({ url: process.env.DATABASE_URL! });
+const adapter = new PrismaLibSql({
+  url: process.env.DATABASE_URL!,
+  authToken: process.env.TURSO_AUTH_TOKEN || undefined,
+});
 const prisma = new PrismaClient({ adapter });
 
 function shuffle<T>(arr: T[]): T[] {
