@@ -31,3 +31,16 @@ Each wave = 1 checkpoint file. Resume reads checkpoint + 1-2 working files.
 - 2,700 vocabulary items (N5: 804, N4: 1,011, N3: 388, N2: 258, N1: 239)
 - 582 kanji characters (N5: 112, N4: 286, N3: 81, N2: 61, N1: 42)
 - 294 grammar points (N5: 90, N4: 104, N3: 44, N2: 31, N1: 25)
+- 15 lessons (3 per JLPT level)
+- 8 quizzes (6 lesson + 2 advancement)
+
+### Deployment
+- **Vercel** (https://nihongo-nu.vercel.app) — deployed, HTTP 200
+- **Turso** — NOT SET UP YET (placeholder SQLite)
+- **GitHub** (https://github.com/j0yfullness/NIHONGO) — connected, auto-deploy enabled
+
+### Remaining (next session "lanjutkan")
+1. Create Turso database at https://turso.tech
+2. Update `DATABASE_URL` on Vercel with Turso URL
+3. Seed production database
+4. Redeploy
