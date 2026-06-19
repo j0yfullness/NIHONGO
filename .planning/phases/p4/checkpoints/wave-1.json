@@ -1,0 +1,36 @@
+{
+  "wave": 1,
+  "phase": "P4 (Auth & Progress)",
+  "completed": [
+    "NextAuth.js v5 configured with Credentials + Google providers",
+    "PrismaAdapter with SQLite (PrismaLibSql)",
+    "JWT session strategy",
+    "Register API (create user with hashed password)",
+    "Login page with email/password form",
+    "Register page with name/email/password form",
+    "Google OAuth sign-in button",
+    "Dashboard page with stats (quizzes passed, lessons, bookmarks)",
+    "JLPT level links in dashboard",
+    "Progress API (save quiz results, get progress)",
+    "Bookmark API (toggle, list)",
+    "BookmarkButton component on vocab/kanji/grammar detail pages",
+    "QuizClient saves progress to API on submission",
+    "Homepage nav shows auth state (Sign In / Dashboard + Sign Out)",
+    "Build passes: TypeScript + compilation OK"
+  ],
+  "next": [
+    "Phase 5: Work/business content (keigo, interview, phrases)"
+  ],
+  "file_state": {
+    "src/lib/auth.ts": "COMPLETE",
+    "src/app/api/auth/[...nextauth]/route.ts": "COMPLETE",
+    "src/app/api/auth/register/route.ts": "COMPLETE",
+    "src/app/api/bookmark/route.ts": "COMPLETE",
+    "src/app/api/progress/route.ts": "COMPLETE",
+    "src/app/auth/login/page.tsx": "COMPLETE",
+    "src/app/auth/register/page.tsx": "COMPLETE",
+    "src/app/dashboard/page.tsx": "COMPLETE",
+    "src/components/BookmarkButton.tsx": "COMPLETE",
+    "src/app/page.tsx": "COMPLETE (auth-aware nav)"
+  }
+}

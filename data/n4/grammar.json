@@ -1,0 +1,730 @@
+[
+  {
+    "pattern": "〜てみる",
+    "explanation": "Try doing something; do something to see what happens.",
+    "usageRules": "Verb-て form + みる",
+    "exampleSentence": "この新しいレストランに行ってみたいです。",
+    "exampleTranslation": "I want to try going to this new restaurant."
+  },
+  {
+    "pattern": "〜ておく",
+    "explanation": "Do something in advance; do something for future convenience.",
+    "usageRules": "Verb-て form + おく",
+    "exampleSentence": "旅行の前に切符を買っておきます。",
+    "exampleTranslation": "I will buy tickets in advance before the trip."
+  },
+  {
+    "pattern": "〜てしまう",
+    "explanation": "Complete something; or expresses regret that something has happened.",
+    "usageRules": "Verb-て form + しまう",
+    "exampleSentence": "宿題を全部忘れてしまいました。",
+    "exampleTranslation": "I ended up forgetting all my homework."
+  },
+  {
+    "pattern": "〜てくる",
+    "explanation": "Come doing; indicates an action toward the speaker or a change that has started.",
+    "usageRules": "Verb-て form + くる",
+    "exampleSentence": "日本語の勉強を続けてきました。",
+    "exampleTranslation": "I have continued studying Japanese (up to now)."
+  },
+  {
+    "pattern": "〜ていく",
+    "explanation": "Go doing; indicates an action away from the speaker or a continuation into the future.",
+    "usageRules": "Verb-て form + いく",
+    "exampleSentence": "これからも頑張っていきます。",
+    "exampleTranslation": "I will continue to do my best from now on."
+  },
+  {
+    "pattern": "〜てある",
+    "explanation": "Indicates a state resulting from a deliberate action; has been done.",
+    "usageRules": "Verb-て form + ある",
+    "exampleSentence": "窓が開けてあります。",
+    "exampleTranslation": "The window has been opened (by someone on purpose)."
+  },
+  {
+    "pattern": "〜てほしい",
+    "explanation": "Want someone else to do something.",
+    "usageRules": "Verb-て form + ほしい",
+    "exampleSentence": "ちょっと手伝ってほしいんです。",
+    "exampleTranslation": "I want you to help me a little."
+  },
+  {
+    "pattern": "〜たがっている",
+    "explanation": "Indicates that a third person appears to want to do something.",
+    "usageRules": "Verb-ます stem + たがっている",
+    "exampleSentence": "子供が新しいおもちゃを欲しがっています。",
+    "exampleTranslation": "The child seems to want a new toy."
+  },
+  {
+    "pattern": "〜そうだ",
+    "explanation": "Appears to be; seems like (based on appearance, not direct evidence).",
+    "usageRules": "Verb-ます stem / Adj stem + そうだ",
+    "exampleSentence": "この料理はおいしそうです。",
+    "exampleTranslation": "This dish looks delicious."
+  },
+  {
+    "pattern": "〜ようだ",
+    "explanation": "Seems like; appears; similar to (based on speaker's judgment).",
+    "usageRules": "Plain form noun + の / na-adj + な / i-adj / verb + ようだ",
+    "exampleSentence": "誰かが外で待っているようです。",
+    "exampleTranslation": "It seems someone is waiting outside."
+  },
+  {
+    "pattern": "〜らしい",
+    "explanation": "Seems; typical of; having the qualities of.",
+    "usageRules": "Plain form + らしい",
+    "exampleSentence": "今日は春らしい暖かい天気です。",
+    "exampleTranslation": "Today is warm weather typical of spring."
+  },
+  {
+    "pattern": "〜みたいだ",
+    "explanation": "Looks like; similar to (casual version of ようだ).",
+    "usageRules": "Plain form / noun + みたいだ",
+    "exampleSentence": "あの雲は馬みたいですね。",
+    "exampleTranslation": "That cloud looks like a horse."
+  },
+  {
+    "pattern": "〜すぎる",
+    "explanation": "Too much; excessively.",
+    "usageRules": "Verb-ます stem / Adj stem + すぎる",
+    "exampleSentence": "最近食べすぎて太りました。",
+    "exampleTranslation": "I've been eating too much lately and gained weight."
+  },
+  {
+    "pattern": "〜やすい",
+    "explanation": "Easy to do; indicates that an action is easy or likely.",
+    "usageRules": "Verb-ます stem + やすい",
+    "exampleSentence": "このペンは書きやすいです。",
+    "exampleTranslation": "This pen is easy to write with."
+  },
+  {
+    "pattern": "〜にくい",
+    "explanation": "Difficult to do; hard to do.",
+    "usageRules": "Verb-ます stem + にくい",
+    "exampleSentence": "この漢字は覚えにくいです。",
+    "exampleTranslation": "This kanji is difficult to remember."
+  },
+  {
+    "pattern": "〜方",
+    "explanation": "Way of doing; method of doing.",
+    "usageRules": "Verb-ます stem + 方",
+    "exampleSentence": "この料理の作り方を教えてください。",
+    "exampleTranslation": "Please teach me how to make this dish."
+  },
+  {
+    "pattern": "〜ながら",
+    "explanation": "While doing; simultaneously.",
+    "usageRules": "Verb-ます stem + ながら",
+    "exampleSentence": "音楽を聞きながら勉強します。",
+    "exampleTranslation": "I study while listening to music."
+  },
+  {
+    "pattern": "〜たまま",
+    "explanation": "Leave as is; indicating a state continues without change.",
+    "usageRules": "Verb-た form + まま",
+    "exampleSentence": "靴を履いたまま部屋に入ってしまいました。",
+    "exampleTranslation": "I entered the room with my shoes still on."
+  },
+  {
+    "pattern": "〜ばかり",
+    "explanation": "Just did; only; nothing but.",
+    "usageRules": "Verb-た form / noun + ばかり",
+    "exampleSentence": "彼はゲームばかりしています。",
+    "exampleTranslation": "He does nothing but play games."
+  },
+  {
+    "pattern": "〜ところ",
+    "explanation": "About to do; just did; in the middle of doing (depending on tense).",
+    "usageRules": "Verb dictionary form / ている / た + ところ",
+    "exampleSentence": "今、駅に着いたところです。",
+    "exampleTranslation": "I have just arrived at the station."
+  },
+  {
+    "pattern": "〜たばかり",
+    "explanation": "Just did; indicates an action was completed very recently.",
+    "usageRules": "Verb-た form + ばかり",
+    "exampleSentence": "このスマホは買ったばかりです。",
+    "exampleTranslation": "I just bought this smartphone."
+  },
+  {
+    "pattern": "〜はず",
+    "explanation": "Should be; expected to be (based on logic or prior knowledge).",
+    "usageRules": "Plain form + はず",
+    "exampleSentence": "彼はもう帰ったはずです。",
+    "exampleTranslation": "He should have already gone home."
+  },
+  {
+    "pattern": "〜わけ",
+    "explanation": "Reason; meaning; conclusion that something is the case.",
+    "usageRules": "Plain form + わけ",
+    "exampleSentence": "彼女は日本に三年いたので、日本語が上手なわけです。",
+    "exampleTranslation": "She was in Japan for three years, so it's natural she is good at Japanese."
+  },
+  {
+    "pattern": "〜べき",
+    "explanation": "Should do; moral obligation; it is advisable to.",
+    "usageRules": "Verb dictionary form + べき",
+    "exampleSentence": "もっと運動するべきです。",
+    "exampleTranslation": "You should exercise more."
+  },
+  {
+    "pattern": "〜のに",
+    "explanation": "Even though; although (expresses frustration or contradiction).",
+    "usageRules": "Plain form + のに",
+    "exampleSentence": "勉強したのに、テストに合格できませんでした。",
+    "exampleTranslation": "Even though I studied, I couldn't pass the test."
+  },
+  {
+    "pattern": "〜につれて",
+    "explanation": "As; along with; indicating change over time in proportion.",
+    "usageRules": "Verb dictionary form / noun + につれて",
+    "exampleSentence": "技術が進むにつれて、生活が便利になりました。",
+    "exampleTranslation": "As technology advances, life has become more convenient."
+  },
+  {
+    "pattern": "〜にしたがって",
+    "explanation": "According to; following; as instructed.",
+    "usageRules": "Verb dictionary form / noun + にしたがって",
+    "exampleSentence": "先生の指示にしたがって実験を行いました。",
+    "exampleTranslation": "We conducted the experiment according to the teacher's instructions."
+  },
+  {
+    "pattern": "〜にともなって",
+    "explanation": "Along with; accompanying a change.",
+    "usageRules": "Verb dictionary form / noun + にともなって",
+    "exampleSentence": "人口の増加にともなって、交通問題が深刻になっている。",
+    "exampleTranslation": "Along with the population increase, traffic problems are becoming serious."
+  },
+  {
+    "pattern": "〜によって",
+    "explanation": "Depending on; by means of; due to; according to.",
+    "usageRules": "Noun + によって",
+    "exampleSentence": "国によって習慣が違います。",
+    "exampleTranslation": "Customs differ depending on the country."
+  },
+  {
+    "pattern": "〜にとって",
+    "explanation": "For; from the perspective of.",
+    "usageRules": "Noun + にとって",
+    "exampleSentence": "これは子供にとって危険です。",
+    "exampleTranslation": "This is dangerous for children."
+  },
+  {
+    "pattern": "〜において",
+    "explanation": "At; in; on (formal, setting a location/time for an event).",
+    "usageRules": "Noun + において",
+    "exampleSentence": "会議は東京において行われます。",
+    "exampleTranslation": "The meeting will be held in Tokyo."
+  },
+  {
+    "pattern": "〜に対して",
+    "explanation": "Toward; against; in contrast to.",
+    "usageRules": "Noun + に対して",
+    "exampleSentence": "質問に対して答えました。",
+    "exampleTranslation": "I answered the question."
+  },
+  {
+    "pattern": "〜について",
+    "explanation": "About; concerning; regarding.",
+    "usageRules": "Noun + について",
+    "exampleSentence": "日本の文化について勉強しています。",
+    "exampleTranslation": "I am studying about Japanese culture."
+  },
+  {
+    "pattern": "〜にかんして",
+    "explanation": "Regarding; concerning; with regard to.",
+    "usageRules": "Noun + にかんして",
+    "exampleSentence": "この問題に関して、意見があります。",
+    "exampleTranslation": "I have an opinion regarding this issue."
+  },
+  {
+    "pattern": "〜をとおして",
+    "explanation": "Through; throughout; via.",
+    "usageRules": "Noun + をとおして",
+    "exampleSentence": "一年を通して暖かい地域です。",
+    "exampleTranslation": "It is a warm region throughout the year."
+  },
+  {
+    "pattern": "〜をもとに",
+    "explanation": "Based on; drawing on; using as a basis.",
+    "usageRules": "Noun + をもとに",
+    "exampleSentence": "この映画は実際の話をもとに作られました。",
+    "exampleTranslation": "This movie was made based on a true story."
+  },
+  {
+    "pattern": "〜に基づいて",
+    "explanation": "Based on; founded on.",
+    "usageRules": "Noun + に基づいて",
+    "exampleSentence": "法律に基づいて処理されます。",
+    "exampleTranslation": "It will be handled based on the law."
+  },
+  {
+    "pattern": "〜に比べて",
+    "explanation": "Compared to; in comparison with.",
+    "usageRules": "Noun + に比べて",
+    "exampleSentence": "去年に比べて、今年は暑いです。",
+    "exampleTranslation": "Compared to last year, this year is hot."
+  },
+  {
+    "pattern": "〜に加えて",
+    "explanation": "In addition to; besides.",
+    "usageRules": "Noun + に加えて",
+    "exampleSentence": "日本語に加えて、英語も勉強しています。",
+    "exampleTranslation": "In addition to Japanese, I am also studying English."
+  },
+  {
+    "pattern": "〜にかわって",
+    "explanation": "Instead of; in place of; on behalf of.",
+    "usageRules": "Noun + にかわって",
+    "exampleSentence": "社長にかわって、私が挨拶します。",
+    "exampleTranslation": "I will give a speech on behalf of the president."
+  },
+  {
+    "pattern": "〜として",
+    "explanation": "As; in the capacity of; as a role.",
+    "usageRules": "Noun + として",
+    "exampleSentence": "彼は通訳として働いています。",
+    "exampleTranslation": "He works as an interpreter."
+  },
+  {
+    "pattern": "〜を中心に",
+    "explanation": "Centered on; with a focus on; around.",
+    "usageRules": "Noun + を中心に",
+    "exampleSentence": "このグループは環境問題を中心に活動しています。",
+    "exampleTranslation": "This group is active centered on environmental issues."
+  },
+  {
+    "pattern": "〜をはじめ",
+    "explanation": "Starting with; including; as a leading example.",
+    "usageRules": "Noun + をはじめ",
+    "exampleSentence": "東京をはじめ、日本の大都市は人口が多いです。",
+    "exampleTranslation": "Starting with Tokyo, Japan's major cities have large populations."
+  },
+  {
+    "pattern": "〜からなる",
+    "explanation": "Consisting of; composed of; made up of.",
+    "usageRules": "Noun + からなる",
+    "exampleSentence": "この委員会は十人のメンバーからなっています。",
+    "exampleTranslation": "This committee consists of ten members."
+  },
+  {
+    "pattern": "〜にわたって",
+    "explanation": "Over a period of; spanning; throughout.",
+    "usageRules": "Noun + にわたって",
+    "exampleSentence": "三日間にわたって会議が開かれました。",
+    "exampleTranslation": "The meeting was held over a period of three days."
+  },
+  {
+    "pattern": "〜を通じて",
+    "explanation": "Through; via; by means of; throughout.",
+    "usageRules": "Noun + を通じて",
+    "exampleSentence": "インターネットを通じて世界中と繋がれます。",
+    "exampleTranslation": "You can connect with the whole world through the internet."
+  },
+  {
+    "pattern": "〜にこたえて",
+    "explanation": "In response to; in answer to (expectations, requests).",
+    "usageRules": "Noun + にこたえて",
+    "exampleSentence": "お客様のご要望にこたえて、新しいサービスを始めました。",
+    "exampleTranslation": "In response to customer requests, we started a new service."
+  },
+  {
+    "pattern": "〜とともに",
+    "explanation": "Together with; along with; at the same time as.",
+    "usageRules": "Noun / verb dictionary form + とともに",
+    "exampleSentence": "家族とともに日本へ引っ越しました。",
+    "exampleTranslation": "I moved to Japan together with my family."
+  },
+  {
+    "pattern": "〜ば〜ほど",
+    "explanation": "The more... the more; as one does more, the more something happens.",
+    "usageRules": "Verb-ば form + same verb dictionary form + ほど",
+    "exampleSentence": "練習すればするほど上手になります。",
+    "exampleTranslation": "The more you practice, the better you become."
+  },
+  {
+    "pattern": "〜さ",
+    "explanation": "Makes i-adjectives into nouns indicating degree or measurement.",
+    "usageRules": "い-Adj stem + さ",
+    "exampleSentence": "この部屋の広さはどのくらいですか。",
+    "exampleTranslation": "How spacious is this room? (lit. How much is the spaciousness?)"
+  },
+  {
+    "pattern": "〜み",
+    "explanation": "Makes adjectives into nouns expressing a subjective quality or feeling.",
+    "usageRules": "い-Adj stem + み",
+    "exampleSentence": "このスープは深みがあります。",
+    "exampleTranslation": "This soup has depth of flavor."
+  },
+  {
+    "pattern": "〜的",
+    "explanation": "Makes nouns into na-adjectives; -ic, -ical, -like.",
+    "usageRules": "Noun + 的",
+    "exampleSentence": "これは政治的な問題です。",
+    "exampleTranslation": "This is a political issue."
+  },
+  {
+    "pattern": "〜中",
+    "explanation": "During; throughout; in the middle of; while.",
+    "usageRules": "Noun / verb-ます stem + 中",
+    "exampleSentence": "授業中は静かにしてください。",
+    "exampleTranslation": "Please be quiet during class."
+  },
+  {
+    "pattern": "〜代",
+    "explanation": "Decade of age; era; period; cost.",
+    "usageRules": "Number counter + 代",
+    "exampleSentence": "彼女はまだ二十代です。",
+    "exampleTranslation": "She is still in her twenties."
+  },
+  {
+    "pattern": "〜目",
+    "explanation": "Ordinal suffix; indicates order (first, second, etc.).",
+    "usageRules": "Number counter + 目",
+    "exampleSentence": "これは三回目の挑戦です。",
+    "exampleTranslation": "This is the third attempt."
+  },
+  {
+    "pattern": "〜おきに",
+    "explanation": "Every other; at intervals of; skipping one in between.",
+    "usageRules": "Time/distance noun + おきに",
+    "exampleSentence": "この薬は二時間おきに飲んでください。",
+    "exampleTranslation": "Please take this medicine every two hours."
+  },
+  {
+    "pattern": "〜ごとに",
+    "explanation": "Every; each time; per.",
+    "usageRules": "Noun / verb dictionary form + ごとに",
+    "exampleSentence": "一キロごとに休憩しましょう。",
+    "exampleTranslation": "Let's take a break every kilometer."
+  },
+  {
+    "pattern": "〜ぶり",
+    "explanation": "After a long time; for the first time in a while.",
+    "usageRules": "Time noun + ぶり",
+    "exampleSentence": "十年ぶりに母校を訪れました。",
+    "exampleTranslation": "I visited my alma mater for the first time in ten years."
+  },
+  {
+    "pattern": "〜ずつ",
+    "explanation": "Each; at a time; little by little.",
+    "usageRules": "Quantity noun + ずつ",
+    "exampleSentence": "一人に一つずつ配ってください。",
+    "exampleTranslation": "Please distribute one to each person."
+  },
+  {
+    "pattern": "〜きり",
+    "explanation": "Only; just; since — indicating a single occurrence or a continuing state since then.",
+    "usageRules": "Verb-た form / noun + きり",
+    "exampleSentence": "彼とは一度会ったきり連絡していません。",
+    "exampleTranslation": "I met him just once and haven't been in touch since."
+  },
+  {
+    "pattern": "〜ほど",
+    "explanation": "Extent; degree; approximately; the more ... the more (with negatives).",
+    "usageRules": "Plain form / noun + ほど",
+    "exampleSentence": "この本は読めば読むほど面白くなります。",
+    "exampleTranslation": "The more you read this book, the more interesting it becomes."
+  },
+  {
+    "pattern": "〜さえ",
+    "explanation": "Even; not even (extreme example).",
+    "usageRules": "Noun / particle + さえ",
+    "exampleSentence": "こんな簡単なことさえできませんか。",
+    "exampleTranslation": "Can't you even do such a simple thing?"
+  },
+  {
+    "pattern": "〜こそ",
+    "explanation": "Precisely; indeed; emphasis that something is exactly.",
+    "usageRules": "Noun / phrase + こそ",
+    "exampleSentence": "これこそ私が探していた本です。",
+    "exampleTranslation": "This is precisely the book I was looking for."
+  },
+  {
+    "pattern": "〜しかない",
+    "explanation": "Have no choice but to; must do (only option).",
+    "usageRules": "Verb dictionary form / noun + しかない",
+    "exampleSentence": "約束したから行くしかない。",
+    "exampleTranslation": "I promised, so I have no choice but to go."
+  },
+  {
+    "pattern": "〜ほかない",
+    "explanation": "Can only; there is no alternative but to.",
+    "usageRules": "Verb dictionary form + ほかない",
+    "exampleSentence": "こうするほかなかったんです。",
+    "exampleTranslation": "There was no other choice but to do this."
+  },
+  {
+    "pattern": "〜ざるをえない",
+    "explanation": "Cannot help but; cannot avoid doing; must.",
+    "usageRules": "Verb-ない form (remove ない) + ざるをえない",
+    "exampleSentence": "彼の意見に賛成せざるをえません。",
+    "exampleTranslation": "I cannot help but agree with his opinion."
+  },
+  {
+    "pattern": "〜かねる",
+    "explanation": "Cannot; reluctant to; find it difficult to.",
+    "usageRules": "Verb-ます stem + かねる",
+    "exampleSentence": "その質問には答えかねます。",
+    "exampleTranslation": "I find it difficult to answer that question."
+  },
+  {
+    "pattern": "〜がたい",
+    "explanation": "Hard to; difficult to (expresses strong emotional difficulty).",
+    "usageRules": "Verb-ます stem + がたい",
+    "exampleSentence": "信じがたいニュースでした。",
+    "exampleTranslation": "It was hard to believe news."
+  },
+  {
+    "pattern": "〜つつある",
+    "explanation": "Is in the process of; currently happening (formal).",
+    "usageRules": "Verb-ます stem + つつある",
+    "exampleSentence": "経済は回復しつつあります。",
+    "exampleTranslation": "The economy is in the process of recovering."
+  },
+  {
+    "pattern": "〜つつも",
+    "explanation": "While; although (expresses doing something while aware of contradiction).",
+    "usageRules": "Verb-ます stem + つつも",
+    "exampleSentence": "悪いと知りつつも、嘘をついてしまいました。",
+    "exampleTranslation": "Even though I knew it was wrong, I ended up telling a lie."
+  },
+  {
+    "pattern": "〜たところ",
+    "explanation": "When I did; just did; found that (when discovered).",
+    "usageRules": "Verb-た form + ところ",
+    "exampleSentence": "聞いたところ、もう決まったそうです。",
+    "exampleTranslation": "When I asked, I heard it has already been decided."
+  },
+  {
+    "pattern": "〜たとたん",
+    "explanation": "As soon as; the moment (emphasizing immediate change).",
+    "usageRules": "Verb-た form + とたん",
+    "exampleSentence": "ドアを開けたとたん、猫が飛び出しました。",
+    "exampleTranslation": "The moment I opened the door, the cat ran out."
+  },
+  {
+    "pattern": "〜しだい",
+    "explanation": "As soon as; right after; depending on.",
+    "usageRules": "Verb-ます stem + しだい / noun + しだい",
+    "exampleSentence": "資料が準備でき次第、送ります。",
+    "exampleTranslation": "I will send the materials as soon as they are ready."
+  },
+  {
+    "pattern": "〜次第で",
+    "explanation": "Depending on; according to how things go.",
+    "usageRules": "Noun + 次第で",
+    "exampleSentence": "努力次第で結果は変わる。",
+    "exampleTranslation": "Results change depending on effort."
+  },
+  {
+    "pattern": "〜たびに",
+    "explanation": "Every time; whenever.",
+    "usageRules": "Verb dictionary form / noun + の + たびに",
+    "exampleSentence": "彼に会うたびに、元気をもらいます。",
+    "exampleTranslation": "Every time I see him, I get energy."
+  },
+  {
+    "pattern": "〜うちに",
+    "explanation": "While; during; before a state changes.",
+    "usageRules": "Verb dictionary / ている / ない + うちに / adj + うちに",
+    "exampleSentence": "明るいうちに帰りましょう。",
+    "exampleTranslation": "Let's go home while it's still light out."
+  },
+  {
+    "pattern": "〜最中に",
+    "explanation": "In the middle of doing; right in the midst of.",
+    "usageRules": "Verb-ている / noun + の + 最中に",
+    "exampleSentence": "会議の最中に電話が鳴りました。",
+    "exampleTranslation": "The phone rang in the middle of the meeting."
+  },
+  {
+    "pattern": "〜ているうちに",
+    "explanation": "While doing; during the course of doing something.",
+    "usageRules": "Verb-ている + うちに",
+    "exampleSentence": "本を読んでいるうちに眠くなりました。",
+    "exampleTranslation": "While reading the book, I got sleepy."
+  },
+  {
+    "pattern": "〜ないうちに",
+    "explanation": "Before; while something has not happened yet.",
+    "usageRules": "Verb-ない + うちに",
+    "exampleSentence": "暗くならないうちに帰りましょう。",
+    "exampleTranslation": "Let's go home before it gets dark."
+  },
+  {
+    "pattern": "〜て以来",
+    "explanation": "Since; ever since (an action, continuously).",
+    "usageRules": "Verb-て form + 以来",
+    "exampleSentence": "日本に来て以来、ずっとここに住んでいます。",
+    "exampleTranslation": "I have been living here ever since I came to Japan."
+  },
+  {
+    "pattern": "〜てからでないと",
+    "explanation": "Not until after; cannot do until after something else.",
+    "usageRules": "Verb-て form + からでないと",
+    "exampleSentence": "詳しく調べてからでないと、結論は出せません。",
+    "exampleTranslation": "We cannot reach a conclusion until we investigate in detail."
+  },
+  {
+    "pattern": "〜ないことには",
+    "explanation": "Unless; without doing something, something else cannot happen.",
+    "usageRules": "Verb-ない form + ことには",
+    "exampleSentence": "実際に見ないことには、判断できません。",
+    "exampleTranslation": "We cannot judge unless we see it in person."
+  },
+  {
+    "pattern": "〜なければ",
+    "explanation": "If not; unless.",
+    "usageRules": "Verb-ない form (remove ない) + なければ / adj + くなければ",
+    "exampleSentence": "行かなければ、わかりません。",
+    "exampleTranslation": "If you don't go, you won't understand."
+  },
+  {
+    "pattern": "〜なくて",
+    "explanation": "Not doing; and not; because of not doing (conjunctive).",
+    "usageRules": "Verb-ない stem + なくて / adj-くなくて",
+    "exampleSentence": "時間がなくて、朝ごはんを食べられませんでした。",
+    "exampleTranslation": "Because I didn't have time, I couldn't eat breakfast."
+  },
+  {
+    "pattern": "〜なくてもいい",
+    "explanation": "Don't have to; it's okay not to do.",
+    "usageRules": "Verb-ない stem + なくてもいい",
+    "exampleSentence": "明日は来なくてもいいですよ。",
+    "exampleTranslation": "You don't have to come tomorrow."
+  },
+  {
+    "pattern": "〜てはいけない",
+    "explanation": "Must not; prohibited from doing.",
+    "usageRules": "Verb-て form + はいけない",
+    "exampleSentence": "ここで写真を撮ってはいけません。",
+    "exampleTranslation": "You must not take photos here."
+  },
+  {
+    "pattern": "〜てもかまわない",
+    "explanation": "It's okay if; it doesn't matter if.",
+    "usageRules": "Verb-て form + もかまわない",
+    "exampleSentence": "好きなだけ食べてもかまいませんよ。",
+    "exampleTranslation": "It's okay if you eat as much as you like."
+  },
+  {
+    "pattern": "〜てはならない",
+    "explanation": "Must not (strong prohibition; formal).",
+    "usageRules": "Verb-て form + はならない",
+    "exampleSentence": "この薬を飲みすぎてはなりません。",
+    "exampleTranslation": "You must not take too much of this medicine."
+  },
+  {
+    "pattern": "〜なくてはならない",
+    "explanation": "Must; has to; cannot be without.",
+    "usageRules": "Verb-ない stem + なくてはならない",
+    "exampleSentence": "明日までにこのレポートを提出しなくてはなりません。",
+    "exampleTranslation": "I must submit this report by tomorrow."
+  },
+  {
+    "pattern": "〜べきではない",
+    "explanation": "Should not; it is not advisable to (obligation not to).",
+    "usageRules": "Verb dictionary form + べきではない",
+    "exampleSentence": "他人の秘密を勝手に話すべきではない。",
+    "exampleTranslation": "You should not talk about others' secrets without permission."
+  },
+  {
+    "pattern": "〜ものではない",
+    "explanation": "Should not (general moral or social norm; one should not).",
+    "usageRules": "Verb dictionary form + ものではない",
+    "exampleSentence": "親にそんな口をきくものではありません。",
+    "exampleTranslation": "One should not talk back to one's parents like that."
+  },
+  {
+    "pattern": "〜ことはない",
+    "explanation": "There's no need to; it is not necessary to.",
+    "usageRules": "Verb dictionary form + ことはない",
+    "exampleSentence": "そんなに心配することはありません。",
+    "exampleTranslation": "There's no need to worry so much."
+  },
+  {
+    "pattern": "〜にすぎない",
+    "explanation": "Merely; nothing more than; just.",
+    "usageRules": "Verb dictionary form / noun + にすぎない",
+    "exampleSentence": "それは単なる噂にすぎません。",
+    "exampleTranslation": "That is nothing more than a mere rumor."
+  },
+  {
+    "pattern": "〜にほかならない",
+    "explanation": "Nothing but; precisely; indicates strong certainty.",
+    "usageRules": "Noun + にほかならない",
+    "exampleSentence": "この成功は努力の結果にほかなりません。",
+    "exampleTranslation": "This success is nothing but the result of hard work."
+  },
+  {
+    "pattern": "〜わけではない",
+    "explanation": "It doesn't mean that; it is not that; not necessarily.",
+    "usageRules": "Plain form + わけではない",
+    "exampleSentence": "日本語が上手というわけではありませんが、日常会話はできます。",
+    "exampleTranslation": "It's not that I'm good at Japanese, but I can do everyday conversation."
+  },
+  {
+    "pattern": "〜というわけではない",
+    "explanation": "It's not that; it doesn't mean that (softer, explanatory).",
+    "usageRules": "Plain form + というわけではない",
+    "exampleSentence": "行きたくないというわけではないんですが、時間がありません。",
+    "exampleTranslation": "It's not that I don't want to go, but I don't have time."
+  },
+  {
+    "pattern": "〜からといって",
+    "explanation": "Just because; even if (just because one thing is true, it doesn't follow).",
+    "usageRules": "Plain form + からといって",
+    "exampleSentence": "給料が高いからといって、いい仕事とは限らない。",
+    "exampleTranslation": "Just because the salary is high doesn't necessarily mean it's a good job."
+  },
+  {
+    "pattern": "〜ものの",
+    "explanation": "Although; but (acknowledges a fact but presents a contrast).",
+    "usageRules": "Plain form + ものの",
+    "exampleSentence": "留学したものの、あまり日本語が上達しませんでした。",
+    "exampleTranslation": "Although I studied abroad, I didn't improve my Japanese much."
+  },
+  {
+    "pattern": "〜くせに",
+    "explanation": "Even though; and yet (criticizing or negative nuance).",
+    "usageRules": "Plain form / noun + の + くせに",
+    "exampleSentence": "知らないくせに、知っているふりをしている。",
+    "exampleTranslation": "Even though he doesn't know, he's pretending he does."
+  },
+  {
+    "pattern": "〜にかかわらず",
+    "explanation": "Regardless of; irrespective of.",
+    "usageRules": "Noun + にかかわらず",
+    "exampleSentence": "天候にかかわらず、試合は行われます。",
+    "exampleTranslation": "The match will be held regardless of the weather."
+  },
+  {
+    "pattern": "〜にもかかわらず",
+    "explanation": "In spite of; despite (formal concession).",
+    "usageRules": "Plain form / noun + にもかかわらず",
+    "exampleSentence": "雨にもかかわらず、多くの人が集まりました。",
+    "exampleTranslation": "Despite the rain, many people gathered."
+  },
+  {
+    "pattern": "〜を問わず",
+    "explanation": "Regardless of; without regard to; irrespective of.",
+    "usageRules": "Noun + を問わず",
+    "exampleSentence": "経験を問わず、やる気のある方を募集します。",
+    "exampleTranslation": "We are recruiting motivated people regardless of experience."
+  },
+  {
+    "pattern": "〜はもちろん",
+    "explanation": "Not to mention; needless to say; including of course.",
+    "usageRules": "Noun + はもちろん",
+    "exampleSentence": "彼は英語はもちろん、中国語も話せます。",
+    "exampleTranslation": "He can speak Chinese, not to mention English."
+  },
+  {
+    "pattern": "〜ももちろん",
+    "explanation": "Of course also; naturally as well.",
+    "usageRules": "Noun + ももちろん",
+    "exampleSentence": "日本料理ももちろん美味しいですが、中華料理も好きです。",
+    "exampleTranslation": "Japanese food is of course delicious too, but I also like Chinese food."
+  }
+]

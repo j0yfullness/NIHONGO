@@ -1,0 +1,27 @@
+{
+  "wave": 1,
+  "phase": "P3 (Quiz Engine)",
+  "completed": [
+    "Switched to SQLite (libsql adapter) — no server process needed",
+    "Quiz data seeder: generates MCQ + fill-blank from existing content",
+    "6 lesson quizzes seeded (20 questions each)",
+    "2 advancement tests seeded (30 questions each)",
+    "QuizClient component (MCQ radio buttons + fill-blank input)",
+    "Quiz list page at /[level]/quiz",
+    "Quiz detail page with submit/score/feedback/retry",
+    "'Take Quiz' button on vocab/kanji/grammar pages",
+    "Quiz tab in level navigation"
+  ],
+  "next": [
+    "Phase 4: Auth + dashboard + progress tracking"
+  ],
+  "file_state": {
+    "prisma/schema.prisma": "COMPLETE (SQLite)",
+    "src/lib/prisma.ts": "COMPLETE (libsql adapter)",
+    "src/components/QuizClient.tsx": "COMPLETE",
+    "src/app/[level]/quiz/page.tsx": "COMPLETE",
+    "src/app/[level]/quiz/[id]/page.tsx": "COMPLETE",
+    "prisma/seed-quizzes.ts": "COMPLETE",
+    "data": "COMPLETE (N5+N4)"
+  }
+}

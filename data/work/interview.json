@@ -1,0 +1,47 @@
+[
+  {
+    "title": "自己紹介 — Self-Introduction",
+    "japanese": "自己紹介のポイント",
+    "reading": "じこしょうかいのポイント",
+    "meaning": "Key points for self-introduction in a Japanese interview",
+    "explanation": "In Japanese job interviews, start with a polite greeting, state your name clearly, followed by your background, skills, and reason for applying. Keep it concise (1-2 minutes). Always end with a phrase expressing enthusiasm.",
+    "examples": "[{\"japanese\":\"本日はお忙しい中、面接の機会をいただき、誠にありがとうございます。\",\"reading\":\"ほんじつはおいそがしいなか、めんせつのきかいをいただき、まことにありがとうございます。\",\"meaning\":\"Thank you sincerely for giving me this interview opportunity today despite your busy schedule.\"},{\"japanese\":\"私は○○と申します。大学では情報工学を専攻しておりました。\",\"reading\":\"わたしは○○ともうします。だいがくではじょうほうこうがくをせんこうしておりました。\",\"meaning\":\"My name is ○○. I majored in information engineering at university.\"},{\"japanese\":\"前職では営業職として3年間勤め、売上向上に貢献しました。\",\"reading\":\"ぜんしょくではえいぎょうしょくとして3ねんかんつとめ、うりあげこうじょうにこうけんしました。\",\"meaning\":\"In my previous job, I worked for 3 years as a sales representative and contributed to increasing sales.\"},{\"japanese\":\"ぜひ貴社で自分のスキルを活かして働きたいと思います。\",\"reading\":\"ぜひきしゃでじぶんのスキルをいかしてはたらきたいとおもいます。\",\"meaning\":\"I would very much like to work at your company and make use of my skills.\"}]",
+    "order": 1
+  },
+  {
+    "title": "志望動機 — Reasons for Applying",
+    "japanese": "志望動機の伝え方",
+    "reading": "しぼうどうきのつたえかた",
+    "meaning": "How to express your motivation for applying",
+    "explanation": "Japanese interviewers place great importance on why you want to work specifically for their company. Research the company thoroughly and connect your skills/ goals with their business. Avoid generic answers about salary or location.",
+    "examples": "[{\"japanese\":\"御社の○○という事業に強く魅力を感じました。\",\"reading\":\"おんしゃの○○というじぎょうにつよくみりょくをかんじました。\",\"meaning\":\"I was strongly attracted to your company's ○○ business.\"},{\"japanese\":\"私の経験を活かして、御社の課題解決に貢献したいと考えています。\",\"reading\":\"わたしのけいけんをいかして、おんしゃのかだいかいけつにこうけんしたいとかんがえています。\",\"meaning\":\"I believe I can contribute to solving your company's challenges by leveraging my experience.\"},{\"japanese\":\"長期的に成長できる環境で働きたいと思い、応募いたしました。\",\"reading\":\"ちょうきてきにせいちょうできるかんきょうではたらきたいとおもい、おうぼいたしました。\",\"meaning\":\"I applied because I want to work in an environment where I can grow over the long term.\"}]",
+    "order": 2
+  },
+  {
+    "title": "長所と短所 — Strengths and Weaknesses",
+    "japanese": "長所・短所の答え方",
+    "reading": "ちょうしょ・たんしょのこたえかた",
+    "meaning": "How to answer about strengths and weaknesses",
+    "explanation": "For strengths, give specific examples from past experience. For weaknesses, be honest but show how you are working to improve. Never say you have no weaknesses. Frame weaknesses as areas for growth.",
+    "examples": "[{\"japanese\":\"私の長所は粘り強さです。前職では困難な案件も最後まで諦めずに取り組み、成果を出しました。\",\"reading\":\"わたしのちょうしょはねばりづよさです。ぜんしょくではこんなんなあんけんもさいごまであきらめずにとりくみ、せいかをだしました。\",\"meaning\":\"My strength is perseverance. In my previous job, I worked on difficult projects without giving up and achieved results.\"},{\"japanese\":\"私の短所は細かい点にこだわりすぎるところです。スケジュール管理を意識して改善に取り組んでいます。\",\"reading\":\"わたしのたんしょはこまかいてんにこだわりすぎるところです。スケジュールかんりをいしきしてかいぜんにとりくんでいます。\",\"meaning\":\"My weakness is that I tend to focus too much on details. I am working on improving by being more conscious of schedule management.\"}]",
+    "order": 3
+  },
+  {
+    "title": "よくある質問 — Common Interview Questions",
+    "japanese": "面接でよく聞かれる質問",
+    "reading": "めんせつでよくきかれるしつもん",
+    "meaning": "Questions frequently asked in Japanese interviews",
+    "explanation": "These are standard questions in Japanese job interviews. Prepare natural, specific answers for each. Practice speaking them aloud until they flow naturally. Always use keigo and maintain polite posture.",
+    "examples": "[{\"japanese\":\"学生時代に最も力を入れたことは何ですか。\",\"reading\":\"がくせいじだいにもっともちからをいれたことはなんですか。\",\"meaning\":\"What did you put the most effort into during your school days?\"},{\"japanese\":\"当社を志望した理由は何ですか。\",\"reading\":\"とうしゃをしぼうしたりゆうはなんですか。\",\"meaning\":\"Why did you choose to apply to our company?\"},{\"japanese\":\"これまでのキャリアで最も達成感を得た経験は？\",\"reading\":\"これまでのキャリアでもっともたっせいかんをえたけいけんは？\",\"meaning\":\"What experience in your career gave you the greatest sense of achievement?\"},{\"japanese\":\"5年後、どのようになっていたいですか。\",\"reading\":\"5ねんご、どのようになっていたいですか。\",\"meaning\":\"Where do you see yourself in 5 years?\"},{\"japanese\":\"あなたの強みを具体的に教えてください。\",\"reading\":\"あなたのつよみをぐたいてきにおしえてください。\",\"meaning\":\"Please tell me specifically about your strengths.\"},{\"japanese\":\"残業や休日出勤についてどう思いますか。\",\"reading\":\"ざんぎょうやきゅうじつしゅっきんについてどうおもいますか。\",\"meaning\":\"What do you think about overtime and working on holidays?\"},{\"japanese\":\"どのようなスキルを当社で活かせると考えていますか。\",\"reading\":\"どのようなスキルをとうしゃでいかせるとかんがえていますか。\",\"meaning\":\"What skills do you think you can utilize at our company?\"}]",
+    "order": 4
+  },
+  {
+    "title": "逆質問 — Questions to Ask the Interviewer",
+    "japanese": "面接官への質問例",
+    "reading": "めんせつかんへのしつもんれい",
+    "meaning": "Good questions to ask the interviewer",
+    "explanation": "Asking thoughtful questions shows genuine interest and initiative. Prepare 3-5 questions. Ask about company culture, growth opportunities, team dynamics, or specific projects. Avoid asking about salary, holidays, or benefits in the first interview.",
+    "examples": "[{\"japanese\":\"御社では新入社員の教育制度について教えていただけますか。\",\"reading\":\"おんしゃではしんにゅうしゃいんのきょういくせいどについておしえていただけますか。\",\"meaning\":\"Could you tell me about the training system for new employees?\"},{\"japanese\":\"この職種で求められる最も重要なスキルは何ですか。\",\"reading\":\"このしょくしゅでもとめられるもっともじゅうようなスキルはなんですか。\",\"meaning\":\"What is the most important skill required for this position?\"},{\"japanese\":\"チームの雰囲気や社内のコミュニケーションについて教えてください。\",\"reading\":\"チームのふんいきやしゃないのコミュニケーションについておしえてください。\",\"meaning\":\"Please tell me about the team atmosphere and internal communication.\"}]",
+    "order": 5
+  }
+]

@@ -1,0 +1,2718 @@
+[
+  {
+    "word": "掃除",
+    "reading": "そうじ",
+    "meaning": "cleaning",
+    "exampleSentence": "週末に部屋の掃除をします。",
+    "exampleTranslation": "I will clean my room on the weekend."
+  },
+  {
+    "word": "洗濯",
+    "reading": "せんたく",
+    "meaning": "laundry",
+    "exampleSentence": "洗濯物を干すのを忘れました。",
+    "exampleTranslation": "I forgot to hang the laundry."
+  },
+  {
+    "word": "料理",
+    "reading": "りょうり",
+    "meaning": "cooking; cuisine",
+    "exampleSentence": "彼女は料理がとても上手です。",
+    "exampleTranslation": "She is very good at cooking."
+  },
+  {
+    "word": "予約",
+    "reading": "よやく",
+    "meaning": "reservation",
+    "exampleSentence": "レストランを予約しましたか。",
+    "exampleTranslation": "Did you make a reservation at the restaurant?"
+  },
+  {
+    "word": "届く",
+    "reading": "とどく",
+    "meaning": "to arrive; to reach",
+    "exampleSentence": "荷物は明日届く予定です。",
+    "exampleTranslation": "The package is scheduled to arrive tomorrow."
+  },
+  {
+    "word": "片付ける",
+    "reading": "かたづける",
+    "meaning": "to tidy up; to put away",
+    "exampleSentence": "使ったものは片付けてください。",
+    "exampleTranslation": "Please put away what you used."
+  },
+  {
+    "word": "用意",
+    "reading": "ようい",
+    "meaning": "preparation",
+    "exampleSentence": "旅行の用意はもうできましたか。",
+    "exampleTranslation": "Have you finished preparing for the trip?"
+  },
+  {
+    "word": "間に合う",
+    "reading": "まにあう",
+    "meaning": "to be in time",
+    "exampleSentence": "急げば電車に間に合います。",
+    "exampleTranslation": "If we hurry, we can make the train."
+  },
+  {
+    "word": "出張",
+    "reading": "しゅっちょう",
+    "meaning": "business trip",
+    "exampleSentence": "来月大阪に出張に行きます。",
+    "exampleTranslation": "I will go on a business trip to Osaka next month."
+  },
+  {
+    "word": "営業",
+    "reading": "えいぎょう",
+    "meaning": "sales; business operations",
+    "exampleSentence": "彼は営業部で働いています。",
+    "exampleTranslation": "He works in the sales department."
+  },
+  {
+    "word": "取引",
+    "reading": "とりひき",
+    "meaning": "transaction; deal",
+    "exampleSentence": "その取引はうまくいきました。",
+    "exampleTranslation": "The deal went well."
+  },
+  {
+    "word": "契約",
+    "reading": "けいやく",
+    "meaning": "contract",
+    "exampleSentence": "新しい契約を結びました。",
+    "exampleTranslation": "We signed a new contract."
+  },
+  {
+    "word": "会議",
+    "reading": "かいぎ",
+    "meaning": "meeting",
+    "exampleSentence": "会議は午後二時からです。",
+    "exampleTranslation": "The meeting is from 2 PM."
+  },
+  {
+    "word": "給料",
+    "reading": "きゅうりょう",
+    "meaning": "salary; wages",
+    "exampleSentence": "給料日は毎月二十五日です。",
+    "exampleTranslation": "Payday is the 25th of every month."
+  },
+  {
+    "word": "残業",
+    "reading": "ざんぎょう",
+    "meaning": "overtime work",
+    "exampleSentence": "今週は残業が続いています。",
+    "exampleTranslation": "Overtime work has been continuing this week."
+  },
+  {
+    "word": "休暇",
+    "reading": "きゅうか",
+    "meaning": "vacation; holiday",
+    "exampleSentence": "夏休暇を取るつもりです。",
+    "exampleTranslation": "I plan to take summer vacation."
+  },
+  {
+    "word": "心配",
+    "reading": "しんぱい",
+    "meaning": "worry; concern",
+    "exampleSentence": "試験の結果が心配です。",
+    "exampleTranslation": "I am worried about the exam results."
+  },
+  {
+    "word": "感動",
+    "reading": "かんどう",
+    "meaning": "deep emotion; impression",
+    "exampleSentence": "その映画に感動しました。",
+    "exampleTranslation": "I was deeply moved by that movie."
+  },
+  {
+    "word": "緊張",
+    "reading": "きんちょう",
+    "meaning": "tension; nervousness",
+    "exampleSentence": "面接の前はいつも緊張します。",
+    "exampleTranslation": "I always get nervous before interviews."
+  },
+  {
+    "word": "満足",
+    "reading": "まんぞく",
+    "meaning": "satisfaction",
+    "exampleSentence": "この結果に満足しています。",
+    "exampleTranslation": "I am satisfied with this result."
+  },
+  {
+    "word": "失望",
+    "reading": "しつぼう",
+    "meaning": "disappointment",
+    "exampleSentence": "彼の態度に失望しました。",
+    "exampleTranslation": "I was disappointed by his attitude."
+  },
+  {
+    "word": "恥ずかしい",
+    "reading": "はずかしい",
+    "meaning": "embarrassing; shy",
+    "exampleSentence": "人前で歌うのは恥ずかしいです。",
+    "exampleTranslation": "I feel shy singing in front of people."
+  },
+  {
+    "word": "羨ましい",
+    "reading": "うらやましい",
+    "meaning": "envious",
+    "exampleSentence": "彼の新しい車が羨ましい。",
+    "exampleTranslation": "I am envious of his new car."
+  },
+  {
+    "word": "懐かしい",
+    "reading": "なつかしい",
+    "meaning": "nostalgic",
+    "exampleSentence": "この曲を聞くと懐かしい気持ちになります。",
+    "exampleTranslation": "Listening to this song makes me feel nostalgic."
+  },
+  {
+    "word": "習う",
+    "reading": "ならう",
+    "meaning": "to learn",
+    "exampleSentence": "日本語を習い始めて三年です。",
+    "exampleTranslation": "It has been three years since I started learning Japanese."
+  },
+  {
+    "word": "覚える",
+    "reading": "おぼえる",
+    "meaning": "to memorize; to remember",
+    "exampleSentence": "新しい単語をたくさん覚えました。",
+    "exampleTranslation": "I memorized a lot of new words."
+  },
+  {
+    "word": "忘れる",
+    "reading": "わすれる",
+    "meaning": "to forget",
+    "exampleSentence": "傘を電車の中に忘れました。",
+    "exampleTranslation": "I forgot my umbrella on the train."
+  },
+  {
+    "word": "謝る",
+    "reading": "あやまる",
+    "meaning": "to apologize",
+    "exampleSentence": "彼に謝らなければなりません。",
+    "exampleTranslation": "I have to apologize to him."
+  },
+  {
+    "word": "急ぐ",
+    "reading": "いそぐ",
+    "meaning": "to hurry",
+    "exampleSentence": "急がないと遅れますよ。",
+    "exampleTranslation": "If we don't hurry, we'll be late."
+  },
+  {
+    "word": "決める",
+    "reading": "きめる",
+    "meaning": "to decide",
+    "exampleSentence": "旅行の日程を決めました。",
+    "exampleTranslation": "We decided on the travel itinerary."
+  },
+  {
+    "word": "続ける",
+    "reading": "つづける",
+    "meaning": "to continue",
+    "exampleSentence": "勉強を続けることが大切です。",
+    "exampleTranslation": "It is important to continue studying."
+  },
+  {
+    "word": "直す",
+    "reading": "なおす",
+    "meaning": "to fix; to repair",
+    "exampleSentence": "壊れた時計を直してもらいました。",
+    "exampleTranslation": "I had the broken watch repaired."
+  },
+  {
+    "word": "守る",
+    "reading": "まもる",
+    "meaning": "to protect; to keep",
+    "exampleSentence": "約束は必ず守ってください。",
+    "exampleTranslation": "Please always keep your promises."
+  },
+  {
+    "word": "景色",
+    "reading": "けしき",
+    "meaning": "scenery; view",
+    "exampleSentence": "山の景色がとてもきれいでした。",
+    "exampleTranslation": "The mountain scenery was very beautiful."
+  },
+  {
+    "word": "環境",
+    "reading": "かんきょう",
+    "meaning": "environment",
+    "exampleSentence": "環境問題について考えましょう。",
+    "exampleTranslation": "Let's think about environmental issues."
+  },
+  {
+    "word": "自由",
+    "reading": "じゆう",
+    "meaning": "freedom; liberty",
+    "exampleSentence": "自分の意見を自由に話してください。",
+    "exampleTranslation": "Please speak your opinion freely."
+  },
+  {
+    "word": "平和",
+    "reading": "へいわ",
+    "meaning": "peace",
+    "exampleSentence": "世界中が平和であってほしい。",
+    "exampleTranslation": "I hope the whole world is at peace."
+  },
+  {
+    "word": "努力",
+    "reading": "どりょく",
+    "meaning": "effort",
+    "exampleSentence": "努力すれば夢は叶います。",
+    "exampleTranslation": "If you make an effort, your dreams will come true."
+  },
+  {
+    "word": "経験",
+    "reading": "けいけん",
+    "meaning": "experience",
+    "exampleSentence": "この仕事には経験が必要です。",
+    "exampleTranslation": "Experience is necessary for this job."
+  },
+  {
+    "word": "結果",
+    "reading": "けっか",
+    "meaning": "result; outcome",
+    "exampleSentence": "努力した結果が出ました。",
+    "exampleTranslation": "The results of my effort showed."
+  },
+  {
+    "word": "原因",
+    "reading": "げんいん",
+    "meaning": "cause; reason",
+    "exampleSentence": "事故の原因を調べています。",
+    "exampleTranslation": "We are investigating the cause of the accident."
+  },
+  {
+    "word": "関係",
+    "reading": "かんけい",
+    "meaning": "relationship; relation",
+    "exampleSentence": "彼とは良い関係を築いています。",
+    "exampleTranslation": "I have built a good relationship with him."
+  },
+  {
+    "word": "意味",
+    "reading": "いみ",
+    "meaning": "meaning",
+    "exampleSentence": "この言葉の意味を教えてください。",
+    "exampleTranslation": "Please tell me the meaning of this word."
+  },
+  {
+    "word": "違い",
+    "reading": "ちがい",
+    "meaning": "difference",
+    "exampleSentence": "二つの違いがよくわかりません。",
+    "exampleTranslation": "I don't really understand the difference between the two."
+  },
+  {
+    "word": "可能性",
+    "reading": "かのうせい",
+    "meaning": "possibility",
+    "exampleSentence": "成功する可能性は高いです。",
+    "exampleTranslation": "The possibility of success is high."
+  },
+  {
+    "word": "翻訳",
+    "reading": "ほんやく",
+    "meaning": "translation",
+    "exampleSentence": "この文を日本語に翻訳してください。",
+    "exampleTranslation": "Please translate this sentence into Japanese."
+  },
+  {
+    "word": "通訳",
+    "reading": "つうやく",
+    "meaning": "interpretation",
+    "exampleSentence": "会議の通訳を頼まれました。",
+    "exampleTranslation": "I was asked to interpret at the meeting."
+  },
+  {
+    "word": "発表",
+    "reading": "はっぴょう",
+    "meaning": "presentation; announcement",
+    "exampleSentence": "研究成果を発表しました。",
+    "exampleTranslation": "I presented the research results."
+  },
+  {
+    "word": "研究",
+    "reading": "けんきゅう",
+    "meaning": "research",
+    "exampleSentence": "彼は医学を研究しています。",
+    "exampleTranslation": "He is researching medicine."
+  },
+  {
+    "word": "質問",
+    "reading": "しつもん",
+    "meaning": "question",
+    "exampleSentence": "質問がある人は手を挙げてください。",
+    "exampleTranslation": "If you have a question, please raise your hand."
+  },
+  {
+    "word": "返事",
+    "reading": "へんじ",
+    "meaning": "reply; answer",
+    "exampleSentence": "メールの返事をまだもらっていません。",
+    "exampleTranslation": "I haven't received a reply to my email yet."
+  },
+  {
+    "word": "連絡",
+    "reading": "れんらく",
+    "meaning": "contact; communication",
+    "exampleSentence": "結果はメールで連絡します。",
+    "exampleTranslation": "I will contact you with the results by email."
+  },
+  {
+    "word": "相談",
+    "reading": "そうだん",
+    "meaning": "consultation; discussion",
+    "exampleSentence": "先生に進路の相談をしました。",
+    "exampleTranslation": "I consulted with my teacher about my career path."
+  },
+  {
+    "word": "説明",
+    "reading": "せつめい",
+    "meaning": "explanation",
+    "exampleSentence": "もう一度説明してください。",
+    "exampleTranslation": "Please explain it once more."
+  },
+  {
+    "word": "紹介",
+    "reading": "しょうかい",
+    "meaning": "introduction",
+    "exampleSentence": "彼をあなたに紹介します。",
+    "exampleTranslation": "I will introduce him to you."
+  },
+  {
+    "word": "招待",
+    "reading": "しょうたい",
+    "meaning": "invitation",
+    "exampleSentence": "パーティーに招待されました。",
+    "exampleTranslation": "I was invited to the party."
+  },
+  {
+    "word": "約束",
+    "reading": "やくそく",
+    "meaning": "promise; appointment",
+    "exampleSentence": "友達と約束があります。",
+    "exampleTranslation": "I have an appointment with a friend."
+  },
+  {
+    "word": "途中",
+    "reading": "とちゅう",
+    "meaning": "on the way; midway",
+    "exampleSentence": "学校の途中で友達に会いました。",
+    "exampleTranslation": "I met a friend on the way to school."
+  },
+  {
+    "word": "向こう",
+    "reading": "むこう",
+    "meaning": "over there; opposite side",
+    "exampleSentence": "向こうにスーパーがあります。",
+    "exampleTranslation": "There is a supermarket over there."
+  },
+  {
+    "word": "隣",
+    "reading": "となり",
+    "meaning": "next to; neighbor",
+    "exampleSentence": "隣の部屋に誰か住んでいます。",
+    "exampleTranslation": "Someone lives in the next room."
+  },
+  {
+    "word": "周り",
+    "reading": "まわり",
+    "meaning": "surroundings; around",
+    "exampleSentence": "周りの人に迷惑をかけないでください。",
+    "exampleTranslation": "Please don't trouble the people around you."
+  },
+  {
+    "word": "真ん中",
+    "reading": "まんなか",
+    "meaning": "middle; center",
+    "exampleSentence": "テーブルの真ん中に花を置きました。",
+    "exampleTranslation": "I placed flowers in the middle of the table."
+  },
+  {
+    "word": "横",
+    "reading": "よこ",
+    "meaning": "side; beside",
+    "exampleSentence": "駅の横にコンビニがあります。",
+    "exampleTranslation": "There is a convenience store beside the station."
+  },
+  {
+    "word": "姿",
+    "reading": "すがた",
+    "meaning": "figure; appearance",
+    "exampleSentence": "彼の姿が見えなくなった。",
+    "exampleTranslation": "His figure disappeared from sight."
+  },
+  {
+    "word": "表情",
+    "reading": "ひょうじょう",
+    "meaning": "facial expression",
+    "exampleSentence": "彼女の表情が曇りました。",
+    "exampleTranslation": "Her expression darkened."
+  },
+  {
+    "word": "態度",
+    "reading": "たいど",
+    "meaning": "attitude; manner",
+    "exampleSentence": "彼の態度に腹が立ちました。",
+    "exampleTranslation": "I got angry at his attitude."
+  },
+  {
+    "word": "性格",
+    "reading": "せいかく",
+    "meaning": "personality; character",
+    "exampleSentence": "彼女は明るい性格です。",
+    "exampleTranslation": "She has a cheerful personality."
+  },
+  {
+    "word": "習慣",
+    "reading": "しゅうかん",
+    "meaning": "habit; custom",
+    "exampleSentence": "毎日運動する習慣があります。",
+    "exampleTranslation": "I have a habit of exercising every day."
+  },
+  {
+    "word": "文化",
+    "reading": "ぶんか",
+    "meaning": "culture",
+    "exampleSentence": "日本の文化に興味があります。",
+    "exampleTranslation": "I am interested in Japanese culture."
+  },
+  {
+    "word": "歴史",
+    "reading": "れきし",
+    "meaning": "history",
+    "exampleSentence": "日本の歴史について勉強しています。",
+    "exampleTranslation": "I am studying Japanese history."
+  },
+  {
+    "word": "経済",
+    "reading": "けいざい",
+    "meaning": "economy",
+    "exampleSentence": "経済のニュースを毎日チェックしています。",
+    "exampleTranslation": "I check economic news every day."
+  },
+  {
+    "word": "政治",
+    "reading": "せいじ",
+    "meaning": "politics",
+    "exampleSentence": "政治に関心を持つことが大切です。",
+    "exampleTranslation": "It is important to have an interest in politics."
+  },
+  {
+    "word": "社会",
+    "reading": "しゃかい",
+    "meaning": "society",
+    "exampleSentence": "社会の問題について話し合いました。",
+    "exampleTranslation": "We discussed social issues."
+  },
+  {
+    "word": "世界",
+    "reading": "せかい",
+    "meaning": "world",
+    "exampleSentence": "世界中を旅行してみたいです。",
+    "exampleTranslation": "I want to travel all over the world."
+  },
+  {
+    "word": "国际",
+    "reading": "こくさい",
+    "meaning": "international",
+    "exampleSentence": "国際交流イベントに参加しました。",
+    "exampleTranslation": "I participated in an international exchange event."
+  },
+  {
+    "word": "人口",
+    "reading": "じんこう",
+    "meaning": "population",
+    "exampleSentence": "この都市の人口は増え続けています。",
+    "exampleTranslation": "The population of this city continues to increase."
+  },
+  {
+    "word": "都会",
+    "reading": "とかい",
+    "meaning": "city; urban area",
+    "exampleSentence": "都会の生活に慣れました。",
+    "exampleTranslation": "I got used to city life."
+  },
+  {
+    "word": "田舎",
+    "reading": "いなか",
+    "meaning": "countryside; rural area",
+    "exampleSentence": "田舎で静かに暮らしたいです。",
+    "exampleTranslation": "I want to live quietly in the countryside."
+  },
+  {
+    "word": "交通",
+    "reading": "こうつう",
+    "meaning": "transportation; traffic",
+    "exampleSentence": "この辺りは交通が便利です。",
+    "exampleTranslation": "This area has convenient transportation."
+  },
+  {
+    "word": "道路",
+    "reading": "どうろ",
+    "meaning": "road; street",
+    "exampleSentence": "この道路はいつも混んでいます。",
+    "exampleTranslation": "This road is always congested."
+  },
+  {
+    "word": "信号",
+    "reading": "しんごう",
+    "meaning": "traffic light; signal",
+    "exampleSentence": "信号が青になるのを待ちましょう。",
+    "exampleTranslation": "Let's wait for the traffic light to turn green."
+  },
+  {
+    "word": "交差点",
+    "reading": "こうさてん",
+    "meaning": "intersection; crossing",
+    "exampleSentence": "次の交差点を右に曲がってください。",
+    "exampleTranslation": "Please turn right at the next intersection."
+  },
+  {
+    "word": "駐車場",
+    "reading": "ちゅうしゃじょう",
+    "meaning": "parking lot",
+    "exampleSentence": "駐車場はあちらです。",
+    "exampleTranslation": "The parking lot is over there."
+  },
+  {
+    "word": "運転",
+    "reading": "うんてん",
+    "meaning": "driving",
+    "exampleSentence": "彼は運転が上手です。",
+    "exampleTranslation": "He is good at driving."
+  },
+  {
+    "word": "事故",
+    "reading": "じこ",
+    "meaning": "accident",
+    "exampleSentence": "交通事故に気をつけてください。",
+    "exampleTranslation": "Please be careful of traffic accidents."
+  },
+  {
+    "word": "病気",
+    "reading": "びょうき",
+    "meaning": "illness; sickness",
+    "exampleSentence": "彼は病気で学校を休みました。",
+    "exampleTranslation": "He was absent from school due to illness."
+  },
+  {
+    "word": "怪我",
+    "reading": "けが",
+    "meaning": "injury",
+    "exampleSentence": "サッカー中に怪我をしました。",
+    "exampleTranslation": "I got injured during soccer."
+  },
+  {
+    "word": "症状",
+    "reading": "しょうじょう",
+    "meaning": "symptoms",
+    "exampleSentence": "風邪の症状が出ています。",
+    "exampleTranslation": "I have symptoms of a cold."
+  },
+  {
+    "word": "薬",
+    "reading": "くすり",
+    "meaning": "medicine; drug",
+    "exampleSentence": "この薬を一日三回飲んでください。",
+    "exampleTranslation": "Please take this medicine three times a day."
+  },
+  {
+    "word": "病院",
+    "reading": "びょういん",
+    "meaning": "hospital",
+    "exampleSentence": "病院で診てもらいました。",
+    "exampleTranslation": "I was examined at the hospital."
+  },
+  {
+    "word": "診察",
+    "reading": "しんさつ",
+    "meaning": "medical examination",
+    "exampleSentence": "診察の予約をしました。",
+    "exampleTranslation": "I made an appointment for a medical examination."
+  },
+  {
+    "word": "手術",
+    "reading": "しゅじゅつ",
+    "meaning": "surgery; operation",
+    "exampleSentence": "彼は手術を受けることになりました。",
+    "exampleTranslation": "He will undergo surgery."
+  },
+  {
+    "word": "健康",
+    "reading": "けんこう",
+    "meaning": "health",
+    "exampleSentence": "健康のために毎日運動しています。",
+    "exampleTranslation": "I exercise every day for my health."
+  },
+  {
+    "word": "運動",
+    "reading": "うんどう",
+    "meaning": "exercise; sports",
+    "exampleSentence": "適度な運動は体に良いです。",
+    "exampleTranslation": "Moderate exercise is good for the body."
+  },
+  {
+    "word": "試合",
+    "reading": "しあい",
+    "meaning": "match; game",
+    "exampleSentence": "明日は大事な試合があります。",
+    "exampleTranslation": "There is an important match tomorrow."
+  },
+  {
+    "word": "勝つ",
+    "reading": "かつ",
+    "meaning": "to win",
+    "exampleSentence": "試合に勝つために練習しています。",
+    "exampleTranslation": "I am practicing to win the match."
+  },
+  {
+    "word": "負ける",
+    "reading": "まける",
+    "meaning": "to lose",
+    "exampleSentence": "今回は負けてしまいました。",
+    "exampleTranslation": "I ended up losing this time."
+  },
+  {
+    "word": "練習",
+    "reading": "れんしゅう",
+    "meaning": "practice; training",
+    "exampleSentence": "ピアノの練習を毎日しています。",
+    "exampleTranslation": "I practice the piano every day."
+  },
+  {
+    "word": "経験者",
+    "reading": "けいけんしゃ",
+    "meaning": "experienced person",
+    "exampleSentence": "経験者の意見を聞いてみましょう。",
+    "exampleTranslation": "Let's hear the opinion of someone experienced."
+  },
+  {
+    "word": "初心者",
+    "reading": "しょしんしゃ",
+    "meaning": "beginner",
+    "exampleSentence": "このクラスは初心者向けです。",
+    "exampleTranslation": "This class is for beginners."
+  },
+  {
+    "word": "進む",
+    "reading": "すすむ",
+    "meaning": "to advance; to proceed",
+    "exampleSentence": "計画は順調に進んでいます。",
+    "exampleTranslation": "The plan is progressing smoothly."
+  },
+  {
+    "word": "戻る",
+    "reading": "もどる",
+    "meaning": "to return; to go back",
+    "exampleSentence": "すぐに戻りますのでお待ちください。",
+    "exampleTranslation": "I will be right back, so please wait."
+  },
+  {
+    "word": "通る",
+    "reading": "とおる",
+    "meaning": "to pass through; to go along",
+    "exampleSentence": "この道を通ると駅に出ます。",
+    "exampleTranslation": "If you go along this road, you'll reach the station."
+  },
+  {
+    "word": "渡る",
+    "reading": "わたる",
+    "meaning": "to cross",
+    "exampleSentence": "橋を渡って左に曲がってください。",
+    "exampleTranslation": "Cross the bridge and turn left."
+  },
+  {
+    "word": "曲がる",
+    "reading": "まがる",
+    "meaning": "to turn",
+    "exampleSentence": "次の角を右に曲がってください。",
+    "exampleTranslation": "Please turn right at the next corner."
+  },
+  {
+    "word": "乗り換える",
+    "reading": "のりかえる",
+    "meaning": "to transfer; to change trains",
+    "exampleSentence": "新宿で電車を乗り換えます。",
+    "exampleTranslation": "I will transfer trains at Shinjuku."
+  },
+  {
+    "word": "送る",
+    "reading": "おくる",
+    "meaning": "to send; to see off",
+    "exampleSentence": "友達を駅まで送りました。",
+    "exampleTranslation": "I saw my friend off to the station."
+  },
+  {
+    "word": "迎える",
+    "reading": "むかえる",
+    "meaning": "to welcome; to pick up",
+    "exampleSentence": "空港でお客様を迎えます。",
+    "exampleTranslation": "I will pick up the guest at the airport."
+  },
+  {
+    "word": "訪れる",
+    "reading": "おとずれる",
+    "meaning": "to visit",
+    "exampleSentence": "去年京都を訪れました。",
+    "exampleTranslation": "I visited Kyoto last year."
+  },
+  {
+    "word": "泊まる",
+    "reading": "とまる",
+    "meaning": "to stay overnight",
+    "exampleSentence": "ホテルに三泊しました。",
+    "exampleTranslation": "I stayed at the hotel for three nights."
+  },
+  {
+    "word": "観光",
+    "reading": "かんこう",
+    "meaning": "sightseeing; tourism",
+    "exampleSentence": "観光客がたくさん来ていました。",
+    "exampleTranslation": "Many tourists were coming."
+  },
+  {
+    "word": "案内",
+    "reading": "あんない",
+    "meaning": "guidance; information",
+    "exampleSentence": "町を案内してもらいました。",
+    "exampleTranslation": "I was shown around the town."
+  },
+  {
+    "word": "地図",
+    "reading": "ちず",
+    "meaning": "map",
+    "exampleSentence": "地図を見ながら歩きましょう。",
+    "exampleTranslation": "Let's walk while looking at the map."
+  },
+  {
+    "word": "天気予報",
+    "reading": "てんきよほう",
+    "meaning": "weather forecast",
+    "exampleSentence": "天気予報によると明日は雨です。",
+    "exampleTranslation": "According to the weather forecast, it will rain tomorrow."
+  },
+  {
+    "word": "気温",
+    "reading": "きおん",
+    "meaning": "temperature",
+    "exampleSentence": "今日の気温は三十度を超えました。",
+    "exampleTranslation": "Today's temperature exceeded 30 degrees."
+  },
+  {
+    "word": "湿度",
+    "reading": "しつど",
+    "meaning": "humidity",
+    "exampleSentence": "日本は夏の湿度が高いです。",
+    "exampleTranslation": "The humidity in summer is high in Japan."
+  },
+  {
+    "word": "雨",
+    "reading": "あめ",
+    "meaning": "rain",
+    "exampleSentence": "雨が降りそうなので傘を持って行きます。",
+    "exampleTranslation": "It looks like rain, so I'll take an umbrella."
+  },
+  {
+    "word": "雪",
+    "reading": "ゆき",
+    "meaning": "snow",
+    "exampleSentence": "北海道では雪がたくさん降ります。",
+    "exampleTranslation": "It snows a lot in Hokkaido."
+  },
+  {
+    "word": "台風",
+    "reading": "たいふう",
+    "meaning": "typhoon",
+    "exampleSentence": "台風のため電車が止まりました。",
+    "exampleTranslation": "The trains stopped due to the typhoon."
+  },
+  {
+    "word": "地震",
+    "reading": "じしん",
+    "meaning": "earthquake",
+    "exampleSentence": "地震の時は机の下に隠れてください。",
+    "exampleTranslation": "Hide under a desk during an earthquake."
+  },
+  {
+    "word": "災害",
+    "reading": "さいがい",
+    "meaning": "disaster",
+    "exampleSentence": "自然災害に備えることが大切です。",
+    "exampleTranslation": "It is important to prepare for natural disasters."
+  },
+  {
+    "word": "安全",
+    "reading": "あんぜん",
+    "meaning": "safety; security",
+    "exampleSentence": "安全のためにシートベルトをしてください。",
+    "exampleTranslation": "Please fasten your seatbelt for safety."
+  },
+  {
+    "word": "危険",
+    "reading": "きけん",
+    "meaning": "danger",
+    "exampleSentence": "ここは危険なので近づかないでください。",
+    "exampleTranslation": "This place is dangerous, so please don't approach."
+  },
+  {
+    "word": "気をつける",
+    "reading": "きをつける",
+    "meaning": "to be careful; to pay attention",
+    "exampleSentence": "車に気をつけてください。",
+    "exampleTranslation": "Please be careful of cars."
+  },
+  {
+    "word": "注意",
+    "reading": "ちゅうい",
+    "meaning": "caution; warning; attention",
+    "exampleSentence": "足元に注意してください。",
+    "exampleTranslation": "Please watch your step."
+  },
+  {
+    "word": "経験する",
+    "reading": "けいけんする",
+    "meaning": "to experience",
+    "exampleSentence": "様々な文化を経験したいです。",
+    "exampleTranslation": "I want to experience various cultures."
+  },
+  {
+    "word": "変わる",
+    "reading": "かわる",
+    "meaning": "to change",
+    "exampleSentence": "町の様子が大きく変わりました。",
+    "exampleTranslation": "The town's appearance has changed greatly."
+  },
+  {
+    "word": "増える",
+    "reading": "ふえる",
+    "meaning": "to increase",
+    "exampleSentence": "最近来日する観光客が増えています。",
+    "exampleTranslation": "The number of tourists visiting Japan has been increasing recently."
+  },
+  {
+    "word": "減る",
+    "reading": "へる",
+    "meaning": "to decrease; to reduce",
+    "exampleSentence": "最近人口が減っています。",
+    "exampleTranslation": "The population has been decreasing recently."
+  },
+  {
+    "word": "集まる",
+    "reading": "あつまる",
+    "meaning": "to gather; to collect",
+    "exampleSentence": "駅前に人がたくさん集まっています。",
+    "exampleTranslation": "A lot of people are gathering in front of the station."
+  },
+  {
+    "word": "足りる",
+    "reading": "たりる",
+    "meaning": "to be enough; to suffice",
+    "exampleSentence": "このお金で足りるでしょうか。",
+    "exampleTranslation": "Is this money enough?"
+  },
+  {
+    "word": "必要",
+    "reading": "ひつよう",
+    "meaning": "necessary; need",
+    "exampleSentence": "パスポートが必要です。",
+    "exampleTranslation": "A passport is necessary."
+  },
+  {
+    "word": "大切",
+    "reading": "たいせつ",
+    "meaning": "important; precious",
+    "exampleSentence": "時間はとても大切です。",
+    "exampleTranslation": "Time is very precious."
+  },
+  {
+    "word": "重要",
+    "reading": "じゅうよう",
+    "meaning": "important; significant",
+    "exampleSentence": "この書類は重要です。",
+    "exampleTranslation": "This document is important."
+  },
+  {
+    "word": "簡単",
+    "reading": "かんたん",
+    "meaning": "simple; easy",
+    "exampleSentence": "この問題は簡単です。",
+    "exampleTranslation": "This problem is easy."
+  },
+  {
+    "word": "複雑",
+    "reading": "ふくざつ",
+    "meaning": "complicated; complex",
+    "exampleSentence": "この仕組みは複雑です。",
+    "exampleTranslation": "This mechanism is complicated."
+  },
+  {
+    "word": "ちゃんと",
+    "reading": "ちゃんと",
+    "meaning": "properly; correctly",
+    "exampleSentence": "宿題をちゃんとやりましたか。",
+    "exampleTranslation": "Did you do your homework properly?"
+  },
+  {
+    "word": "きちんと",
+    "reading": "きちんと",
+    "meaning": "neatly; orderly; properly",
+    "exampleSentence": "部屋をきちんと片付けました。",
+    "exampleTranslation": "I tidied up the room neatly."
+  },
+  {
+    "word": "しっかり",
+    "reading": "しっかり",
+    "meaning": "firmly; steadily; tightly",
+    "exampleSentence": "しっかり勉強しなさい。",
+    "exampleTranslation": "Study steadily."
+  },
+  {
+    "word": "はっきり",
+    "reading": "はっきり",
+    "meaning": "clearly; distinctly",
+    "exampleSentence": "もう一度はっきり言ってください。",
+    "exampleTranslation": "Please say it clearly once more."
+  },
+  {
+    "word": "ゆっくり",
+    "reading": "ゆっくり",
+    "meaning": "slowly; leisurely",
+    "exampleSentence": "もっとゆっくり話してください。",
+    "exampleTranslation": "Please speak more slowly."
+  },
+  {
+    "word": "ほとんど",
+    "reading": "ほとんど",
+    "meaning": "mostly; almost all",
+    "exampleSentence": "宿題はほとんど終わりました。",
+    "exampleTranslation": "I have almost finished my homework."
+  },
+  {
+    "word": "かなり",
+    "reading": "かなり",
+    "meaning": "considerably; fairly",
+    "exampleSentence": "日本語がかなり上手になりました。",
+    "exampleTranslation": "Your Japanese has become considerably good."
+  },
+  {
+    "word": "だんだん",
+    "reading": "だんだん",
+    "meaning": "gradually",
+    "exampleSentence": "だんだん寒くなってきました。",
+    "exampleTranslation": "It has gradually become colder."
+  },
+  {
+    "word": "すぐに",
+    "reading": "すぐに",
+    "meaning": "immediately; right away",
+    "exampleSentence": "電話があったらすぐに行きます。",
+    "exampleTranslation": "I'll go immediately if there's a call."
+  },
+  {
+    "word": "やっと",
+    "reading": "やっと",
+    "meaning": "at last; finally",
+    "exampleSentence": "やっと仕事が終わりました。",
+    "exampleTranslation": "I finally finished work."
+  },
+  {
+    "word": "とうとう",
+    "reading": "とうとう",
+    "meaning": "finally; eventually",
+    "exampleSentence": "とうとう試験の日が来ました。",
+    "exampleTranslation": "The exam day has finally arrived."
+  },
+  {
+    "word": "実は",
+    "reading": "じつは",
+    "meaning": "actually; as a matter of fact",
+    "exampleSentence": "実は来月日本に行く予定です。",
+    "exampleTranslation": "Actually, I plan to go to Japan next month."
+  },
+  {
+    "word": "つまり",
+    "reading": "つまり",
+    "meaning": "in other words; that is to say",
+    "exampleSentence": "つまり、準備がまだできていないということです。",
+    "exampleTranslation": "In other words, the preparations aren't ready yet."
+  },
+  {
+    "word": "特に",
+    "reading": "とくに",
+    "meaning": "especially; particularly",
+    "exampleSentence": "特に日本料理が好きです。",
+    "exampleTranslation": "I especially like Japanese food."
+  },
+  {
+    "word": "必ず",
+    "reading": "かならず",
+    "meaning": "without fail; certainly",
+    "exampleSentence": "必ず約束の時間を守ってください。",
+    "exampleTranslation": "Please be sure to keep your appointment time."
+  },
+  {
+    "word": "絶対に",
+    "reading": "ぜったいに",
+    "meaning": "absolutely; definitely",
+    "exampleSentence": "絶対にあきらめません。",
+    "exampleTranslation": "I will absolutely not give up."
+  },
+  {
+    "word": "確かに",
+    "reading": "たしかに",
+    "meaning": "certainly; surely; indeed",
+    "exampleSentence": "確かに彼はそう言いました。",
+    "exampleTranslation": "He certainly said that."
+  },
+  {
+    "word": "普段",
+    "reading": "ふだん",
+    "meaning": "usual; normally; ordinarily",
+    "exampleSentence": "普段は電車で通勤しています。",
+    "exampleTranslation": "I normally commute by train."
+  },
+  {
+    "word": "いつも",
+    "reading": "いつも",
+    "meaning": "always; usually",
+    "exampleSentence": "彼はいつも遅刻します。",
+    "exampleTranslation": "He is always late."
+  },
+  {
+    "word": "たまに",
+    "reading": "たまに",
+    "meaning": "occasionally; sometimes",
+    "exampleSentence": "たまに映画を見に行きます。",
+    "exampleTranslation": "I occasionally go to see a movie."
+  },
+  {
+    "word": "めったに",
+    "reading": "めったに",
+    "meaning": "rarely; seldom",
+    "exampleSentence": "私はめったに酒を飲みません。",
+    "exampleTranslation": "I rarely drink alcohol."
+  },
+  {
+    "word": "よく",
+    "reading": "よく",
+    "meaning": "often; well; frequently",
+    "exampleSentence": "私はよく図書館で勉強します。",
+    "exampleTranslation": "I often study at the library."
+  },
+  {
+    "word": "時々",
+    "reading": "ときどき",
+    "meaning": "sometimes; occasionally",
+    "exampleSentence": "時々公園を散歩します。",
+    "exampleTranslation": "I sometimes take a walk in the park."
+  },
+  {
+    "word": "最近",
+    "reading": "さいきん",
+    "meaning": "recently; lately",
+    "exampleSentence": "最近日本語の勉強を始めました。",
+    "exampleTranslation": "I recently started studying Japanese."
+  },
+  {
+    "word": "この頃",
+    "reading": "このごろ",
+    "meaning": "these days; nowadays",
+    "exampleSentence": "この頃暑くなりましたね。",
+    "exampleTranslation": "It has gotten hot these days, hasn't it?"
+  },
+  {
+    "word": "以前",
+    "reading": "いぜん",
+    "meaning": "before; previously; ago",
+    "exampleSentence": "以前は京都に住んでいました。",
+    "exampleTranslation": "I used to live in Kyoto."
+  },
+  {
+    "word": "今後",
+    "reading": "こんご",
+    "meaning": "from now on; hereafter",
+    "exampleSentence": "今後はもっと気をつけます。",
+    "exampleTranslation": "I will be more careful from now on."
+  },
+  {
+    "word": "将来",
+    "reading": "しょうらい",
+    "meaning": "future",
+    "exampleSentence": "将来は医者になりたいです。",
+    "exampleTranslation": "I want to become a doctor in the future."
+  },
+  {
+    "word": "目的",
+    "reading": "もくてき",
+    "meaning": "purpose; objective",
+    "exampleSentence": "この旅行の目的は何ですか。",
+    "exampleTranslation": "What is the purpose of this trip?"
+  },
+  {
+    "word": "目標",
+    "reading": "もくひょう",
+    "meaning": "goal; target",
+    "exampleSentence": "今年の目標はN3に合格することです。",
+    "exampleTranslation": "My goal this year is to pass N3."
+  },
+  {
+    "word": "計画",
+    "reading": "けいかく",
+    "meaning": "plan; project",
+    "exampleSentence": "夏休みの計画を立てています。",
+    "exampleTranslation": "I am making plans for summer vacation."
+  },
+  {
+    "word": "準備",
+    "reading": "じゅんび",
+    "meaning": "preparation; readiness",
+    "exampleSentence": "試験の準備をしなければなりません。",
+    "exampleTranslation": "I have to prepare for the exam."
+  },
+  {
+    "word": "確認",
+    "reading": "かくにん",
+    "meaning": "confirmation; verification",
+    "exampleSentence": "予約を確認してください。",
+    "exampleTranslation": "Please confirm the reservation."
+  },
+  {
+    "word": "変更",
+    "reading": "へんこう",
+    "meaning": "change; modification",
+    "exampleSentence": "予定に変更がありました。",
+    "exampleTranslation": "There was a change in the schedule."
+  },
+  {
+    "word": "追加",
+    "reading": "ついか",
+    "meaning": "addition; supplement",
+    "exampleSentence": "メンバーを追加しました。",
+    "exampleTranslation": "I added a member."
+  },
+  {
+    "word": "削除",
+    "reading": "さくじょ",
+    "meaning": "deletion; removal",
+    "exampleSentence": "このデータを削除してもいいですか。",
+    "exampleTranslation": "May I delete this data?"
+  },
+  {
+    "word": "保存",
+    "reading": "ほぞん",
+    "meaning": "preservation; storage; save",
+    "exampleSentence": "ファイルを保存するのを忘れました。",
+    "exampleTranslation": "I forgot to save the file."
+  },
+  {
+    "word": "印刷",
+    "reading": "いんさつ",
+    "meaning": "printing",
+    "exampleSentence": "この書類を十部印刷してください。",
+    "exampleTranslation": "Please print ten copies of this document."
+  },
+  {
+    "word": "操作",
+    "reading": "そうさ",
+    "meaning": "operation; handling",
+    "exampleSentence": "機械の操作が難しいです。",
+    "exampleTranslation": "Operating this machine is difficult."
+  },
+  {
+    "word": "故障",
+    "reading": "こしょう",
+    "meaning": "breakdown; malfunction",
+    "exampleSentence": "エアコンが故障しました。",
+    "exampleTranslation": "The air conditioner broke down."
+  },
+  {
+    "word": "修理",
+    "reading": "しゅうり",
+    "meaning": "repair; mending",
+    "exampleSentence": "自転車を修理してもらいました。",
+    "exampleTranslation": "I had my bicycle repaired."
+  },
+  {
+    "word": "注文",
+    "reading": "ちゅうもん",
+    "meaning": "order; request",
+    "exampleSentence": "コーヒーを注文しました。",
+    "exampleTranslation": "I ordered coffee."
+  },
+  {
+    "word": "届ける",
+    "reading": "とどける",
+    "meaning": "to deliver; to report",
+    "exampleSentence": "荷物をお届けに来ました。",
+    "exampleTranslation": "I came to deliver a package."
+  },
+  {
+    "word": "受付",
+    "reading": "うけつけ",
+    "meaning": "reception; front desk",
+    "exampleSentence": "受付で名前を書いてください。",
+    "exampleTranslation": "Please write your name at the reception."
+  },
+  {
+    "word": "申し込む",
+    "reading": "もうしこむ",
+    "meaning": "to apply; to register",
+    "exampleSentence": "セミナーに申し込みました。",
+    "exampleTranslation": "I applied for the seminar."
+  },
+  {
+    "word": "応募",
+    "reading": "おうぼ",
+    "meaning": "application; entry",
+    "exampleSentence": "その求人に応募しました。",
+    "exampleTranslation": "I applied for that job posting."
+  },
+  {
+    "word": "面接",
+    "reading": "めんせつ",
+    "meaning": "interview",
+    "exampleSentence": "明日面接があります。",
+    "exampleTranslation": "I have an interview tomorrow."
+  },
+  {
+    "word": "採用",
+    "reading": "さいよう",
+    "meaning": "adoption; employment",
+    "exampleSentence": "彼はその会社に採用されました。",
+    "exampleTranslation": "He was hired by that company."
+  },
+  {
+    "word": "退職",
+    "reading": "たいしょく",
+    "meaning": "retirement; resignation",
+    "exampleSentence": "彼は先月退職しました。",
+    "exampleTranslation": "He resigned last month."
+  },
+  {
+    "word": "引退",
+    "reading": "いんたい",
+    "meaning": "retirement (from career)",
+    "exampleSentence": "あの歌手は昨年引退しました。",
+    "exampleTranslation": "That singer retired last year."
+  },
+  {
+    "word": "就職",
+    "reading": "しゅうしょく",
+    "meaning": "finding employment",
+    "exampleSentence": "卒業後に就職したいです。",
+    "exampleTranslation": "I want to find a job after graduation."
+  },
+  {
+    "word": "卒業",
+    "reading": "そつぎょう",
+    "meaning": "graduation",
+    "exampleSentence": "大学を卒業してから日本に行きます。",
+    "exampleTranslation": "I will go to Japan after graduating from university."
+  },
+  {
+    "word": "入学",
+    "reading": "にゅうがく",
+    "meaning": "school admission; enrollment",
+    "exampleSentence": "四月に大学に入学します。",
+    "exampleTranslation": "I will enter university in April."
+  },
+  {
+    "word": "授業",
+    "reading": "じゅぎょう",
+    "meaning": "lesson; class",
+    "exampleSentence": "今日の授業は何時からですか。",
+    "exampleTranslation": "What time is today's class from?"
+  },
+  {
+    "word": "出席",
+    "reading": "しゅっせき",
+    "meaning": "attendance",
+    "exampleSentence": "毎日授業に出席しています。",
+    "exampleTranslation": "I attend class every day."
+  },
+  {
+    "word": "欠席",
+    "reading": "けっせき",
+    "meaning": "absence",
+    "exampleSentence": "風邪で学校を欠席しました。",
+    "exampleTranslation": "I was absent from school due to a cold."
+  },
+  {
+    "word": "遅刻",
+    "reading": "ちこく",
+    "meaning": "being late; tardiness",
+    "exampleSentence": "遅刻しないように気をつけてください。",
+    "exampleTranslation": "Please be careful not to be late."
+  },
+  {
+    "word": "休む",
+    "reading": "やすむ",
+    "meaning": "to rest; to be absent",
+    "exampleSentence": "今日は仕事を休みました。",
+    "exampleTranslation": "I took the day off from work today."
+  },
+  {
+    "word": "始める",
+    "reading": "はじめる",
+    "meaning": "to start; to begin",
+    "exampleSentence": "日本語の勉強を始めます。",
+    "exampleTranslation": "I will start studying Japanese."
+  },
+  {
+    "word": "終わる",
+    "reading": "おわる",
+    "meaning": "to end; to finish",
+    "exampleSentence": "授業は三時に終わります。",
+    "exampleTranslation": "Class ends at 3 o'clock."
+  },
+  {
+    "word": "始まる",
+    "reading": "はじまる",
+    "meaning": "to start; to begin (intransitive)",
+    "exampleSentence": "映画は七時に始まります。",
+    "exampleTranslation": "The movie starts at 7 o'clock."
+  },
+  {
+    "word": "開く",
+    "reading": "あく",
+    "meaning": "to open (intransitive)",
+    "exampleSentence": "ドアが自動で開きました。",
+    "exampleTranslation": "The door opened automatically."
+  },
+  {
+    "word": "閉まる",
+    "reading": "しまる",
+    "meaning": "to close; to shut (intransitive)",
+    "exampleSentence": "窓が閉まっています。",
+    "exampleTranslation": "The window is closed."
+  },
+  {
+    "word": "つける",
+    "reading": "つける",
+    "meaning": "to turn on; to attach",
+    "exampleSentence": "電気をつけてもいいですか。",
+    "exampleTranslation": "May I turn on the light?"
+  },
+  {
+    "word": "消す",
+    "reading": "けす",
+    "meaning": "to extinguish; to turn off; to erase",
+    "exampleSentence": "部屋を出るときに電気を消してください。",
+    "exampleTranslation": "Please turn off the light when you leave the room."
+  },
+  {
+    "word": "出す",
+    "reading": "だす",
+    "meaning": "to take out; to put out; to send",
+    "exampleSentence": "ごみを出すのを忘れました。",
+    "exampleTranslation": "I forgot to take out the trash."
+  },
+  {
+    "word": "入れる",
+    "reading": "いれる",
+    "meaning": "to put in; to insert",
+    "exampleSentence": "かばんに本を入れました。",
+    "exampleTranslation": "I put a book in the bag."
+  },
+  {
+    "word": "捨てる",
+    "reading": "すてる",
+    "meaning": "to throw away; to discard",
+    "exampleSentence": "古い雑誌を捨てました。",
+    "exampleTranslation": "I threw away old magazines."
+  },
+  {
+    "word": "置く",
+    "reading": "おく",
+    "meaning": "to put; to place",
+    "exampleSentence": "荷物はここに置いてください。",
+    "exampleTranslation": "Please put your luggage here."
+  },
+  {
+    "word": "見つける",
+    "reading": "みつける",
+    "meaning": "to find; to discover",
+    "exampleSentence": "いいレストランを見つけました。",
+    "exampleTranslation": "I found a good restaurant."
+  },
+  {
+    "word": "なくす",
+    "reading": "なくす",
+    "meaning": "to lose; to misplace",
+    "exampleSentence": "財布をなくしてしまいました。",
+    "exampleTranslation": "I lost my wallet."
+  },
+  {
+    "word": "助ける",
+    "reading": "たすける",
+    "meaning": "to help; to rescue",
+    "exampleSentence": "困っている人を助けましょう。",
+    "exampleTranslation": "Let's help people in trouble."
+  },
+  {
+    "word": "呼ぶ",
+    "reading": "よぶ",
+    "meaning": "to call; to invite",
+    "exampleSentence": "タクシーを呼びましょうか。",
+    "exampleTranslation": "Shall I call a taxi?"
+  },
+  {
+    "word": "答える",
+    "reading": "こたえる",
+    "meaning": "to answer; to reply",
+    "exampleSentence": "質問に答えてください。",
+    "exampleTranslation": "Please answer the question."
+  },
+  {
+    "word": "教える",
+    "reading": "おしえる",
+    "meaning": "to teach; to tell",
+    "exampleSentence": "駅への道を教えてください。",
+    "exampleTranslation": "Please tell me the way to the station."
+  },
+  {
+    "word": "伝える",
+    "reading": "つたえる",
+    "meaning": "to convey; to tell; to communicate",
+    "exampleSentence": "彼にメッセージを伝えてください。",
+    "exampleTranslation": "Please convey the message to him."
+  },
+  {
+    "word": "表す",
+    "reading": "あらわす",
+    "meaning": "to express; to represent",
+    "exampleSentence": "この言葉は感謝の気持ちを表します。",
+    "exampleTranslation": "This word expresses gratitude."
+  },
+  {
+    "word": "比べる",
+    "reading": "くらべる",
+    "meaning": "to compare",
+    "exampleSentence": "二つの商品を比べてみましょう。",
+    "exampleTranslation": "Let's compare the two products."
+  },
+  {
+    "word": "考える",
+    "reading": "かんがえる",
+    "meaning": "to think; to consider",
+    "exampleSentence": "一度よく考えてから決めます。",
+    "exampleTranslation": "I'll decide after thinking it over once."
+  },
+  {
+    "word": "感じる",
+    "reading": "かんじる",
+    "meaning": "to feel; to sense",
+    "exampleSentence": "幸せを感じる瞬間です。",
+    "exampleTranslation": "It's a moment when I feel happiness."
+  },
+  {
+    "word": "気づく",
+    "reading": "きづく",
+    "meaning": "to notice; to realize",
+    "exampleSentence": "間違いに気づきましたか。",
+    "exampleTranslation": "Did you notice the mistake?"
+  },
+  {
+    "word": "疑う",
+    "reading": "うたがう",
+    "meaning": "to doubt; to suspect",
+    "exampleSentence": "彼の言葉を疑っています。",
+    "exampleTranslation": "I doubt his words."
+  },
+  {
+    "word": "信じる",
+    "reading": "しんじる",
+    "meaning": "to believe; to trust",
+    "exampleSentence": "自分の力を信じてください。",
+    "exampleTranslation": "Please believe in your own ability."
+  },
+  {
+    "word": "理解",
+    "reading": "りかい",
+    "meaning": "understanding; comprehension",
+    "exampleSentence": "この説明は理解しやすいです。",
+    "exampleTranslation": "This explanation is easy to understand."
+  },
+  {
+    "word": "認める",
+    "reading": "みとめる",
+    "meaning": "to recognize; to admit; to approve",
+    "exampleSentence": "彼の努力を認めています。",
+    "exampleTranslation": "I recognize his effort."
+  },
+  {
+    "word": "許す",
+    "reading": "ゆるす",
+    "meaning": "to permit; to forgive",
+    "exampleSentence": "遅刻を許してください。",
+    "exampleTranslation": "Please forgive my lateness."
+  },
+  {
+    "word": "止める",
+    "reading": "やめる",
+    "meaning": "to stop; to quit; to give up",
+    "exampleSentence": "タバコをやめるつもりです。",
+    "exampleTranslation": "I plan to quit smoking."
+  },
+  {
+    "word": "続く",
+    "reading": "つづく",
+    "meaning": "to continue; to last (intransitive)",
+    "exampleSentence": "雨が三日続いています。",
+    "exampleTranslation": "The rain has continued for three days."
+  },
+  {
+    "word": "繰り返す",
+    "reading": "くりかえす",
+    "meaning": "to repeat",
+    "exampleSentence": "同じ間違いを繰り返さないでください。",
+    "exampleTranslation": "Please don't repeat the same mistake."
+  },
+  {
+    "word": "含む",
+    "reading": "ふくむ",
+    "meaning": "to include; to contain",
+    "exampleSentence": "この値段は消費税を含んでいます。",
+    "exampleTranslation": "This price includes consumption tax."
+  },
+  {
+    "word": "表",
+    "reading": "ひょう",
+    "meaning": "table; chart; list",
+    "exampleSentence": "この表を見てください。",
+    "exampleTranslation": "Please look at this chart."
+  },
+  {
+    "word": "図",
+    "reading": "ず",
+    "meaning": "diagram; drawing; figure",
+    "exampleSentence": "図を使って説明します。",
+    "exampleTranslation": "I will explain using a diagram."
+  },
+  {
+    "word": "記号",
+    "reading": "きごう",
+    "meaning": "symbol; sign; mark",
+    "exampleSentence": "この記号の意味がわかりません。",
+    "exampleTranslation": "I don't understand the meaning of this symbol."
+  },
+  {
+    "word": "番号",
+    "reading": "ばんごう",
+    "meaning": "number; code",
+    "exampleSentence": "電話番号を教えてください。",
+    "exampleTranslation": "Please tell me your phone number."
+  },
+  {
+    "word": "住所",
+    "reading": "じゅうしょ",
+    "meaning": "address",
+    "exampleSentence": "新しい住所に引っ越しました。",
+    "exampleTranslation": "I moved to a new address."
+  },
+  {
+    "word": "名前",
+    "reading": "なまえ",
+    "meaning": "name",
+    "exampleSentence": "お名前は何ですか。",
+    "exampleTranslation": "What is your name?"
+  },
+  {
+    "word": "出身",
+    "reading": "しゅっしん",
+    "meaning": "person's origin; hometown",
+    "exampleSentence": "出身はどこですか。",
+    "exampleTranslation": "Where are you from originally?"
+  },
+  {
+    "word": "年齢",
+    "reading": "ねんれい",
+    "meaning": "age",
+    "exampleSentence": "年齢を聞くのは失礼です。",
+    "exampleTranslation": "It is rude to ask someone's age."
+  },
+  {
+    "word": "誕生日",
+    "reading": "たんじょうび",
+    "meaning": "birthday",
+    "exampleSentence": "誕生日に友達がパーティーを開いてくれました。",
+    "exampleTranslation": "My friends threw a party for my birthday."
+  },
+  {
+    "word": "記念",
+    "reading": "きねん",
+    "meaning": "commemoration; memory",
+    "exampleSentence": "旅行の記念に写真を撮りました。",
+    "exampleTranslation": "I took photos as a souvenir of the trip."
+  },
+  {
+    "word": "祝う",
+    "reading": "いわう",
+    "meaning": "to celebrate; to congratulate",
+    "exampleSentence": "彼の合格を祝いました。",
+    "exampleTranslation": "We celebrated his passing the exam."
+  },
+  {
+    "word": "挨拶",
+    "reading": "あいさつ",
+    "meaning": "greeting; salutation",
+    "exampleSentence": "朝は元気よく挨拶しましょう。",
+    "exampleTranslation": "Let's greet each other cheerfully in the morning."
+  },
+  {
+    "word": "お礼",
+    "reading": "おれい",
+    "meaning": "thanks; gratitude; expression of appreciation",
+    "exampleSentence": "お礼の手紙を書きました。",
+    "exampleTranslation": "I wrote a thank-you letter."
+  },
+  {
+    "word": "お詫び",
+    "reading": "おわび",
+    "meaning": "apology; apology (formal)",
+    "exampleSentence": "今回の件についてお詫び申し上げます。",
+    "exampleTranslation": "I apologize for this matter."
+  },
+  {
+    "word": "喜ぶ",
+    "reading": "よろこぶ",
+    "meaning": "to be delighted; to rejoice",
+    "exampleSentence": "彼女はプレゼントを見て喜びました。",
+    "exampleTranslation": "She was delighted to see the present."
+  },
+  {
+    "word": "悲しむ",
+    "reading": "かなしむ",
+    "meaning": "to be sad; to grieve",
+    "exampleSentence": "友達の別れを悲しんでいます。",
+    "exampleTranslation": "I am sad about parting with my friend."
+  },
+  {
+    "word": "怒る",
+    "reading": "おこる",
+    "meaning": "to get angry",
+    "exampleSentence": "彼は遅刻して先生に怒られました。",
+    "exampleTranslation": "He was scolded by the teacher for being late."
+  },
+  {
+    "word": "笑う",
+    "reading": "わらう",
+    "meaning": "to laugh; to smile",
+    "exampleSentence": "彼の冗談にみんなが笑いました。",
+    "exampleTranslation": "Everyone laughed at his joke."
+  },
+  {
+    "word": "泣く",
+    "reading": "なく",
+    "meaning": "to cry; to weep",
+    "exampleSentence": "感動的な映画で泣きました。",
+    "exampleTranslation": "I cried at the moving movie."
+  },
+  {
+    "word": "驚く",
+    "reading": "おどろく",
+    "meaning": "to be surprised; to be astonished",
+    "exampleSentence": "そのニュースに驚きました。",
+    "exampleTranslation": "I was surprised by the news."
+  },
+  {
+    "word": "困る",
+    "reading": "こまる",
+    "meaning": "to be in trouble; to be bothered",
+    "exampleSentence": "お金がなくて困っています。",
+    "exampleTranslation": "I'm in trouble because I don't have money."
+  },
+  {
+    "word": "迷う",
+    "reading": "まよう",
+    "meaning": "to get lost; to be uncertain",
+    "exampleSentence": "道に迷ってしまいました。",
+    "exampleTranslation": "I got lost."
+  },
+  {
+    "word": "悩む",
+    "reading": "なやむ",
+    "meaning": "to worry; to be troubled",
+    "exampleSentence": "進路について悩んでいます。",
+    "exampleTranslation": "I am worried about my future career path."
+  },
+  {
+    "word": "似る",
+    "reading": "にる",
+    "meaning": "to resemble; to be similar",
+    "exampleSentence": "彼女はお母さんに似ています。",
+    "exampleTranslation": "She resembles her mother."
+  },
+  {
+    "word": "向く",
+    "reading": "むく",
+    "meaning": "to face; to turn toward; to be suited for",
+    "exampleSentence": "この仕事は私に向いていると思います。",
+    "exampleTranslation": "I think this job suits me."
+  },
+  {
+    "word": "足す",
+    "reading": "たす",
+    "meaning": "to add",
+    "exampleSentence": "砂糖を少し足してください。",
+    "exampleTranslation": "Please add a little sugar."
+  },
+  {
+    "word": "引く",
+    "reading": "ひく",
+    "meaning": "to pull; to subtract; to look up",
+    "exampleSentence": "辞書で単語を引きました。",
+    "exampleTranslation": "I looked up the word in the dictionary."
+  },
+  {
+    "word": "掛ける",
+    "reading": "かける",
+    "meaning": "to hang; to put on; to multiply",
+    "exampleSentence": "壁に絵を掛けました。",
+    "exampleTranslation": "I hung a picture on the wall."
+  },
+  {
+    "word": "押す",
+    "reading": "おす",
+    "meaning": "to push; to press",
+    "exampleSentence": "このボタンを押してください。",
+    "exampleTranslation": "Please press this button."
+  },
+  {
+    "word": "持つ",
+    "reading": "もつ",
+    "meaning": "to hold; to have; to possess",
+    "exampleSentence": "荷物を持つので手伝ってください。",
+    "exampleTranslation": "Please help me carry the luggage."
+  },
+  {
+    "word": "取る",
+    "reading": "とる",
+    "meaning": "to take; to get; to remove",
+    "exampleSentence": "席を取っておきました。",
+    "exampleTranslation": "I saved a seat."
+  },
+  {
+    "word": "使う",
+    "reading": "つかう",
+    "meaning": "to use",
+    "exampleSentence": "このアプリを使うと便利です。",
+    "exampleTranslation": "It's convenient to use this app."
+  },
+  {
+    "word": "作る",
+    "reading": "つくる",
+    "meaning": "to make; to create",
+    "exampleSentence": "夕食にカレーを作りました。",
+    "exampleTranslation": "I made curry for dinner."
+  },
+  {
+    "word": "買う",
+    "reading": "かう",
+    "meaning": "to buy",
+    "exampleSentence": "新しいパソコンを買いたいです。",
+    "exampleTranslation": "I want to buy a new computer."
+  },
+  {
+    "word": "売る",
+    "reading": "うる",
+    "meaning": "to sell",
+    "exampleSentence": "古本を売りました。",
+    "exampleTranslation": "I sold some used books."
+  },
+  {
+    "word": "借りる",
+    "reading": "かりる",
+    "meaning": "to borrow",
+    "exampleSentence": "図書館で本を借りました。",
+    "exampleTranslation": "I borrowed a book from the library."
+  },
+  {
+    "word": "貸す",
+    "reading": "かす",
+    "meaning": "to lend; to rent out",
+    "exampleSentence": "友達にペンを貸しました。",
+    "exampleTranslation": "I lent my pen to a friend."
+  },
+  {
+    "word": "返す",
+    "reading": "かえす",
+    "meaning": "to return; to give back",
+    "exampleSentence": "借りた本を返しました。",
+    "exampleTranslation": "I returned the borrowed book."
+  },
+  {
+    "word": "集める",
+    "reading": "あつめる",
+    "meaning": "to collect; to gather",
+    "exampleSentence": "切手を集めています。",
+    "exampleTranslation": "I collect stamps."
+  },
+  {
+    "word": "選ぶ",
+    "reading": "えらぶ",
+    "meaning": "to choose; to select",
+    "exampleSentence": "どちらを選びますか。",
+    "exampleTranslation": "Which one will you choose?"
+  },
+  {
+    "word": "ためす",
+    "reading": "ためす",
+    "meaning": "to try; to test",
+    "exampleSentence": "新しい方法を試してみました。",
+    "exampleTranslation": "I tried a new method."
+  },
+  {
+    "word": "思い出す",
+    "reading": "おもいだす",
+    "meaning": "to remember; to recall",
+    "exampleSentence": "昔のことを思い出しました。",
+    "exampleTranslation": "I remembered things from the past."
+  },
+  {
+    "word": "話す",
+    "reading": "はなす",
+    "meaning": "to speak; to talk",
+    "exampleSentence": "日本語で話す機会が増えました。",
+    "exampleTranslation": "I have more opportunities to speak Japanese."
+  },
+  {
+    "word": "聞く",
+    "reading": "きく",
+    "meaning": "to hear; to listen; to ask",
+    "exampleSentence": "ラジオのニュースを聞きました。",
+    "exampleTranslation": "I listened to the news on the radio."
+  },
+  {
+    "word": "読む",
+    "reading": "よむ",
+    "meaning": "to read",
+    "exampleSentence": "この小説を読んだことがありますか。",
+    "exampleTranslation": "Have you read this novel?"
+  },
+  {
+    "word": "書く",
+    "reading": "かく",
+    "meaning": "to write",
+    "exampleSentence": "日記を毎日書いています。",
+    "exampleTranslation": "I write in my diary every day."
+  },
+  {
+    "word": "見せる",
+    "reading": "みせる",
+    "meaning": "to show; to display",
+    "exampleSentence": "写真を見せてください。",
+    "exampleTranslation": "Please show me the photo."
+  },
+  {
+    "word": "打ち合わせる",
+    "reading": "うちあわせる",
+    "meaning": "to discuss; to coordinate",
+    "exampleSentence": "明日の計画を打ち合わせましょう。",
+    "exampleTranslation": "Let's discuss tomorrow's plan."
+  },
+  {
+    "word": "生活",
+    "reading": "せいかつ",
+    "meaning": "life; livelihood; daily life",
+    "exampleSentence": "日本での生活に慣れました。",
+    "exampleTranslation": "I got used to life in Japan."
+  },
+  {
+    "word": "体験",
+    "reading": "たいけん",
+    "meaning": "personal experience; hands-on experience",
+    "exampleSentence": "日本文化を体験しました。",
+    "exampleTranslation": "I experienced Japanese culture."
+  },
+  {
+    "word": "趣味",
+    "reading": "しゅみ",
+    "meaning": "hobby; interest",
+    "exampleSentence": "あなたの趣味は何ですか。",
+    "exampleTranslation": "What are your hobbies?"
+  },
+  {
+    "word": "特技",
+    "reading": "とくぎ",
+    "meaning": "special skill; forte",
+    "exampleSentence": "私の特技は料理です。",
+    "exampleTranslation": "My special skill is cooking."
+  },
+  {
+    "word": "得意",
+    "reading": "とくい",
+    "meaning": "good at; one's forte",
+    "exampleSentence": "私は数学が得意です。",
+    "exampleTranslation": "I am good at math."
+  },
+  {
+    "word": "苦手",
+    "reading": "にがて",
+    "meaning": "poor at; weak point",
+    "exampleSentence": "私は人前で話すのが苦手です。",
+    "exampleTranslation": "I am not good at speaking in front of people."
+  },
+  {
+    "word": "上手",
+    "reading": "じょうず",
+    "meaning": "skillful; good at",
+    "exampleSentence": "彼女はピアノが上手です。",
+    "exampleTranslation": "She is good at playing the piano."
+  },
+  {
+    "word": "下手",
+    "reading": "へた",
+    "meaning": "unskillful; poor at",
+    "exampleSentence": "私は字を書くのが下手です。",
+    "exampleTranslation": "I am bad at writing characters."
+  },
+  {
+    "word": "不可欠",
+    "reading": "ふかけつ",
+    "meaning": "indispensable; essential",
+    "exampleSentence": "健康は幸せな生活に不可欠です。",
+    "exampleTranslation": "Health is essential for a happy life."
+  },
+  {
+    "word": "役に立つ",
+    "reading": "やくにたつ",
+    "meaning": "to be useful; to be helpful",
+    "exampleSentence": "この本は勉強に役に立ちます。",
+    "exampleTranslation": "This book is useful for studying."
+  },
+  {
+    "word": "無駄",
+    "reading": "むだ",
+    "meaning": "waste; uselessness; futility",
+    "exampleSentence": "時間の無駄ですよ。",
+    "exampleTranslation": "It's a waste of time."
+  },
+  {
+    "word": "効果",
+    "reading": "こうか",
+    "meaning": "effect; effectiveness",
+    "exampleSentence": "この薬は効果がありますか。",
+    "exampleTranslation": "Is this medicine effective?"
+  },
+  {
+    "word": "影響",
+    "reading": "えいきょう",
+    "meaning": "influence; effect",
+    "exampleSentence": "天気が気分に影響します。",
+    "exampleTranslation": "The weather affects my mood."
+  },
+  {
+    "word": "進歩",
+    "reading": "しんぽ",
+    "meaning": "progress; improvement",
+    "exampleSentence": "技術の進歩はすごいですね。",
+    "exampleTranslation": "Technological progress is amazing, isn't it?"
+  },
+  {
+    "word": "発展",
+    "reading": "はってん",
+    "meaning": "development; growth",
+    "exampleSentence": "この町は急速に発展しています。",
+    "exampleTranslation": "This town is developing rapidly."
+  },
+  {
+    "word": "成長",
+    "reading": "せいちょう",
+    "meaning": "growth; development",
+    "exampleSentence": "子どもはすぐに成長します。",
+    "exampleTranslation": "Children grow up quickly."
+  },
+  {
+    "word": "改善",
+    "reading": "かいぜん",
+    "meaning": "improvement; betterment",
+    "exampleSentence": "サービスを改善する必要があります。",
+    "exampleTranslation": "We need to improve the service."
+  },
+  {
+    "word": "解決",
+    "reading": "かいけつ",
+    "meaning": "solution; resolution",
+    "exampleSentence": "問題の解決方法を考えましょう。",
+    "exampleTranslation": "Let's think of a solution to the problem."
+  },
+  {
+    "word": "複数",
+    "reading": "ふくすう",
+    "meaning": "plural; multiple",
+    "exampleSentence": "複数の答えがあります。",
+    "exampleTranslation": "There are multiple answers."
+  },
+  {
+    "word": "別々",
+    "reading": "べつべつ",
+    "meaning": "separately; individually",
+    "exampleSentence": "別々に払いましょう。",
+    "exampleTranslation": "Let's pay separately."
+  },
+  {
+    "word": "同様",
+    "reading": "どうよう",
+    "meaning": "similar; same",
+    "exampleSentence": "私も同様の意見です。",
+    "exampleTranslation": "I have a similar opinion."
+  },
+  {
+    "word": "関する",
+    "reading": "かんする",
+    "meaning": "to be related to; concerning",
+    "exampleSentence": "これに関する情報を教えてください。",
+    "exampleTranslation": "Please give me information regarding this."
+  },
+  {
+    "word": "従う",
+    "reading": "したがう",
+    "meaning": "to obey; to follow",
+    "exampleSentence": "規則に従って行動してください。",
+    "exampleTranslation": "Please act according to the rules."
+  },
+  {
+    "word": "反対",
+    "reading": "はんたい",
+    "meaning": "opposition; opposite; against",
+    "exampleSentence": "彼の意見に反対です。",
+    "exampleTranslation": "I oppose his opinion."
+  },
+  {
+    "word": "賛成",
+    "reading": "さんせい",
+    "meaning": "agreement; approval",
+    "exampleSentence": "その提案に賛成です。",
+    "exampleTranslation": "I agree with that proposal."
+  },
+  {
+    "word": "当然",
+    "reading": "とうぜん",
+    "meaning": "natural; of course;理所当然",
+    "exampleSentence": "それは当然の結果です。",
+    "exampleTranslation": "That is a natural result."
+  },
+  {
+    "word": "無理",
+    "reading": "むり",
+    "meaning": "impossible; unreasonable; overdoing",
+    "exampleSentence": "そんなに無理しないでください。",
+    "exampleTranslation": "Please don't overdo it."
+  },
+  {
+    "word": "可能",
+    "reading": "かのう",
+    "meaning": "possible",
+    "exampleSentence": "それが可能かどうか確認します。",
+    "exampleTranslation": "I'll check whether that is possible."
+  },
+  {
+    "word": "確か",
+    "reading": "たしか",
+    "meaning": "certain; sure; definite",
+    "exampleSentence": "確か彼は来月日本に行くそうです。",
+    "exampleTranslation": "I'm pretty sure he's going to Japan next month."
+  },
+  {
+    "word": "誤解",
+    "reading": "ごかい",
+    "meaning": "misunderstanding",
+    "exampleSentence": "誤解を解くために説明しました。",
+    "exampleTranslation": "I explained to clear up the misunderstanding."
+  },
+  {
+    "word": "夢",
+    "reading": "ゆめ",
+    "meaning": "dream",
+    "exampleSentence": "夢が叶って嬉しいです。",
+    "exampleTranslation": "I'm happy that my dream came true."
+  },
+  {
+    "word": "希望",
+    "reading": "きぼう",
+    "meaning": "hope; wish; desire",
+    "exampleSentence": "希望者はこちらに名前を書いてください。",
+    "exampleTranslation": "Those interested, please write your name here."
+  },
+  {
+    "word": "願い",
+    "reading": "ねがい",
+    "meaning": "wish; desire; request",
+    "exampleSentence": "願いが叶いますように。",
+    "exampleTranslation": "I hope my wish comes true."
+  },
+  {
+    "word": "祈る",
+    "reading": "いのる",
+    "meaning": "to pray; to wish",
+    "exampleSentence": "世界の平和を祈ります。",
+    "exampleTranslation": "I pray for world peace."
+  },
+  {
+    "word": "感謝",
+    "reading": "かんしゃ",
+    "meaning": "gratitude; appreciation; thanks",
+    "exampleSentence": "ご協力に感謝します。",
+    "exampleTranslation": "I appreciate your cooperation."
+  },
+  {
+    "word": "尊敬",
+    "reading": "そんけい",
+    "meaning": "respect; esteem",
+    "exampleSentence": "私は彼を尊敬しています。",
+    "exampleTranslation": "I respect him."
+  },
+  {
+    "word": "丁寧",
+    "reading": "ていねい",
+    "meaning": "polite; courteous; careful",
+    "exampleSentence": "丁寧に仕事をしてください。",
+    "exampleTranslation": "Please do the work carefully."
+  },
+  {
+    "word": "親切",
+    "reading": "しんせつ",
+    "meaning": "kind; kind-hearted",
+    "exampleSentence": "親切にありがとうございます。",
+    "exampleTranslation": "Thank you for your kindness."
+  },
+  {
+    "word": "失礼",
+    "reading": "しつれい",
+    "meaning": "rude; impolite; excuse me",
+    "exampleSentence": "失礼ですが、お名前は何ですか。",
+    "exampleTranslation": "Excuse me, but what is your name?"
+  },
+  {
+    "word": "迷惑",
+    "reading": "めいわく",
+    "meaning": "annoyance; trouble; nuisance",
+    "exampleSentence": "ご迷惑をおかけしました。",
+    "exampleTranslation": "I have caused you trouble."
+  },
+  {
+    "word": "面倒",
+    "reading": "めんどう",
+    "meaning": "troublesome; bothersome; difficult",
+    "exampleSentence": "申請手続きが面倒です。",
+    "exampleTranslation": "The application procedure is troublesome."
+  },
+  {
+    "word": "大変",
+    "reading": "たいへん",
+    "meaning": "very; hard; terrible; serious",
+    "exampleSentence": "今日は大変な一日でした。",
+    "exampleTranslation": "Today was a hard day."
+  },
+  {
+    "word": "大丈夫",
+    "reading": "だいじょうぶ",
+    "meaning": "all right; okay; safe",
+    "exampleSentence": "けがは大丈夫ですか。",
+    "exampleTranslation": "Is your injury all right?"
+  },
+  {
+    "word": "すごい",
+    "reading": "すごい",
+    "meaning": "amazing; great; wonderful",
+    "exampleSentence": "すごい考ですね。",
+    "exampleTranslation": "That's a great idea."
+  },
+  {
+    "word": "素晴らしい",
+    "reading": "すばらしい",
+    "meaning": "splendid; wonderful; excellent",
+    "exampleSentence": "素晴らしい景色ですね。",
+    "exampleTranslation": "What a wonderful view."
+  },
+  {
+    "word": "楽しい",
+    "reading": "たのしい",
+    "meaning": "enjoyable; fun",
+    "exampleSentence": "旅行はとても楽しかったです。",
+    "exampleTranslation": "The trip was very enjoyable."
+  },
+  {
+    "word": "嬉しい",
+    "reading": "うれしい",
+    "meaning": "happy; glad; delighted",
+    "exampleSentence": "あなたに会えて嬉しいです。",
+    "exampleTranslation": "I'm glad to see you."
+  },
+  {
+    "word": "悲しい",
+    "reading": "かなしい",
+    "meaning": "sad; sorrowful",
+    "exampleSentence": "別れは悲しいです。",
+    "exampleTranslation": "Partings are sad."
+  },
+  {
+    "word": "寂しい",
+    "reading": "さびしい",
+    "meaning": "lonely; lonesome",
+    "exampleSentence": "一人でいると寂しいです。",
+    "exampleTranslation": "I feel lonely when I'm alone."
+  },
+  {
+    "word": "怖い",
+    "reading": "こわい",
+    "meaning": "scary; frightening",
+    "exampleSentence": "怖い映画を見ました。",
+    "exampleTranslation": "I watched a scary movie."
+  },
+  {
+    "word": "痛い",
+    "reading": "いたい",
+    "meaning": "painful; sore",
+    "exampleSentence": "頭が痛いです。",
+    "exampleTranslation": "I have a headache."
+  },
+  {
+    "word": "眠い",
+    "reading": "ねむい",
+    "meaning": "sleepy; drowsy",
+    "exampleSentence": "午後は眠くなります。",
+    "exampleTranslation": "I get sleepy in the afternoon."
+  },
+  {
+    "word": "疲れた",
+    "reading": "つかれた",
+    "meaning": "tired; exhausted",
+    "exampleSentence": "今日はとても疲れました。",
+    "exampleTranslation": "I'm very tired today."
+  },
+  {
+    "word": "元気",
+    "reading": "げんき",
+    "meaning": "energetic; healthy; well",
+    "exampleSentence": "お元気ですか。",
+    "exampleTranslation": "How are you?"
+  },
+  {
+    "word": "気持ち",
+    "reading": "きもち",
+    "meaning": "feeling; mood",
+    "exampleSentence": "その気持ちがよくわかります。",
+    "exampleTranslation": "I understand that feeling well."
+  },
+  {
+    "word": "雰囲気",
+    "reading": "ふんいき",
+    "meaning": "atmosphere; mood; ambiance",
+    "exampleSentence": "このレストランは雰囲気がいいですね。",
+    "exampleTranslation": "This restaurant has a nice atmosphere."
+  },
+  {
+    "word": "流行",
+    "reading": "りゅうこう",
+    "meaning": "fashion; trend; popularity",
+    "exampleSentence": "最近はこの色が流行っています。",
+    "exampleTranslation": "This color is popular these days."
+  },
+  {
+    "word": "礼儀",
+    "reading": "れいぎ",
+    "meaning": "manners; etiquette; courtesy",
+    "exampleSentence": "礼儀をわきまえた行動をしましょう。",
+    "exampleTranslation": "Let's act with proper manners."
+  },
+  {
+    "word": "伝統",
+    "reading": "でんとう",
+    "meaning": "tradition",
+    "exampleSentence": "この地域には古い伝統があります。",
+    "exampleTranslation": "This region has old traditions."
+  },
+  {
+    "word": "芸術",
+    "reading": "げいじゅつ",
+    "meaning": "art; fine arts",
+    "exampleSentence": "芸術に興味がありますか。",
+    "exampleTranslation": "Are you interested in art?"
+  },
+  {
+    "word": "音楽",
+    "reading": "おんがく",
+    "meaning": "music",
+    "exampleSentence": "音楽を聞きながら勉強します。",
+    "exampleTranslation": "I study while listening to music."
+  },
+  {
+    "word": "映画",
+    "reading": "えいが",
+    "meaning": "movie; film",
+    "exampleSentence": "週末に映画を見に行きます。",
+    "exampleTranslation": "I will go see a movie on the weekend."
+  },
+  {
+    "word": "小説",
+    "reading": "しょうせつ",
+    "meaning": "novel",
+    "exampleSentence": "この小説の作者は誰ですか。",
+    "exampleTranslation": "Who is the author of this novel?"
+  },
+  {
+    "word": "新聞",
+    "reading": "しんぶん",
+    "meaning": "newspaper",
+    "exampleSentence": "毎朝新聞を読みます。",
+    "exampleTranslation": "I read the newspaper every morning."
+  },
+  {
+    "word": "情報",
+    "reading": "じょうほう",
+    "meaning": "information; news",
+    "exampleSentence": "最新の情報を教えてください。",
+    "exampleTranslation": "Please give me the latest information."
+  },
+  {
+    "word": "知識",
+    "reading": "ちしき",
+    "meaning": "knowledge",
+    "exampleSentence": "知識を深めるために本を読んでいます。",
+    "exampleTranslation": "I read books to deepen my knowledge."
+  },
+  {
+    "word": "勉強",
+    "reading": "べんきょう",
+    "meaning": "study; learning",
+    "exampleSentence": "日本語の勉強を続けています。",
+    "exampleTranslation": "I continue studying Japanese."
+  },
+  {
+    "word": "応用",
+    "reading": "おうよう",
+    "meaning": "application; practical use",
+    "exampleSentence": "この知識を実生活に応用できます。",
+    "exampleTranslation": "You can apply this knowledge to real life."
+  },
+  {
+    "word": "工夫",
+    "reading": "くふう",
+    "meaning": "contrivance; ingenuity; device",
+    "exampleSentence": "いろいろ工夫してみました。",
+    "exampleTranslation": "I tried various ideas."
+  },
+  {
+    "word": "工夫する",
+    "reading": "くふうする",
+    "meaning": "to devise; to think out",
+    "exampleSentence": "時間を節約する方法を工夫しましょう。",
+    "exampleTranslation": "Let's devise ways to save time."
+  },
+  {
+    "word": "我慢",
+    "reading": "がまん",
+    "meaning": "patience; endurance; tolerance",
+    "exampleSentence": "もう少し我慢してください。",
+    "exampleTranslation": "Please be patient a little longer."
+  },
+  {
+    "word": "我慢する",
+    "reading": "がまんする",
+    "meaning": "to endure; to bear",
+    "exampleSentence": "痛みを我慢しました。",
+    "exampleTranslation": "I endured the pain."
+  },
+  {
+    "word": "無視",
+    "reading": "むし",
+    "meaning": "ignoring; disregard",
+    "exampleSentence": "彼に無視されて悲しかった。",
+    "exampleTranslation": "I was sad because he ignored me."
+  },
+  {
+    "word": "比較",
+    "reading": "ひかく",
+    "meaning": "comparison",
+    "exampleSentence": "二つの方法を比較してみましょう。",
+    "exampleTranslation": "Let's compare the two methods."
+  },
+  {
+    "word": "区別",
+    "reading": "くべつ",
+    "meaning": "distinction; difference",
+    "exampleSentence": "この二つの違いが区別できません。",
+    "exampleTranslation": "I can't distinguish between the two."
+  },
+  {
+    "word": "共通",
+    "reading": "きょうつう",
+    "meaning": "common; shared",
+    "exampleSentence": "共通の趣味があると良いですね。",
+    "exampleTranslation": "It's nice to have common hobbies."
+  },
+  {
+    "word": "専門",
+    "reading": "せんもん",
+    "meaning": "specialty; special field",
+    "exampleSentence": "専門は日本文学です。",
+    "exampleTranslation": "My specialty is Japanese literature."
+  },
+  {
+    "word": "内容",
+    "reading": "ないよう",
+    "meaning": "content; substance; details",
+    "exampleSentence": "会議の内容をまとめてください。",
+    "exampleTranslation": "Please summarize the content of the meeting."
+  },
+  {
+    "word": "状態",
+    "reading": "じょうたい",
+    "meaning": "condition; state; situation",
+    "exampleSentence": "今の状態を詳しく説明してください。",
+    "exampleTranslation": "Please explain the current situation in detail."
+  },
+  {
+    "word": "状況",
+    "reading": "じょうきょう",
+    "meaning": "circumstances; situation; condition",
+    "exampleSentence": "状況が変わったら知らせてください。",
+    "exampleTranslation": "Let me know if the situation changes."
+  },
+  {
+    "word": "場合",
+    "reading": "ばあい",
+    "meaning": "case; situation; instance",
+    "exampleSentence": "緊急の場合、このボタンを押してください。",
+    "exampleTranslation": "In case of emergency, press this button."
+  },
+  {
+    "word": "事実",
+    "reading": "じじつ",
+    "meaning": "fact; truth",
+    "exampleSentence": "事実を確認する必要があります。",
+    "exampleTranslation": "We need to confirm the facts."
+  },
+  {
+    "word": "本当",
+    "reading": "ほんとう",
+    "meaning": "truth; reality; true",
+    "exampleSentence": "それは本当の話ですか。",
+    "exampleTranslation": "Is that a true story?"
+  },
+  {
+    "word": "嘘",
+    "reading": "うそ",
+    "meaning": "lie; falsehood",
+    "exampleSentence": "彼は平気で嘘をつく。",
+    "exampleTranslation": "He lies without hesitation."
+  },
+  {
+    "word": "冗談",
+    "reading": "じょうだん",
+    "meaning": "joke; jest",
+    "exampleSentence": "冗談ですよ、怒らないでください。",
+    "exampleTranslation": "It's a joke, please don't get angry."
+  },
+  {
+    "word": "意見",
+    "reading": "いけん",
+    "meaning": "opinion; view",
+    "exampleSentence": "皆さんの意見を聞かせてください。",
+    "exampleTranslation": "Please let me hear your opinions."
+  },
+  {
+    "word": "考",
+    "reading": "かんがえ",
+    "meaning": "idea; thought; thinking",
+    "exampleSentence": "いい考があります。",
+    "exampleTranslation": "I have a good idea."
+  },
+  {
+    "word": "提案",
+    "reading": "ていあん",
+    "meaning": "proposal; suggestion",
+    "exampleSentence": "新しい提案があります。",
+    "exampleTranslation": "I have a new proposal."
+  },
+  {
+    "word": "結論",
+    "reading": "けつろん",
+    "meaning": "conclusion",
+    "exampleSentence": "まだ結論は出ていません。",
+    "exampleTranslation": "We haven't reached a conclusion yet."
+  },
+  {
+    "word": "理由",
+    "reading": "りゆう",
+    "meaning": "reason; grounds; cause",
+    "exampleSentence": "欠席した理由を教えてください。",
+    "exampleTranslation": "Please tell me the reason for your absence."
+  },
+  {
+    "word": "使命",
+    "reading": "しめい",
+    "meaning": "mission; calling",
+    "exampleSentence": "自分の使命を果たしたいです。",
+    "exampleTranslation": "I want to fulfill my mission."
+  },
+  {
+    "word": "課題",
+    "reading": "かだい",
+    "meaning": "task; assignment; challenge",
+    "exampleSentence": "解決すべき課題がたくさんあります。",
+    "exampleTranslation": "There are many challenges to solve."
+  },
+  {
+    "word": "手段",
+    "reading": "しゅだん",
+    "meaning": "means; method; way",
+    "exampleSentence": "何か良い手段はありませんか。",
+    "exampleTranslation": "Isn't there any good method?"
+  },
+  {
+    "word": "方法",
+    "reading": "ほうほう",
+    "meaning": "method; way; manner",
+    "exampleSentence": "この方法でやってみましょう。",
+    "exampleTranslation": "Let's try doing it this way."
+  },
+  {
+    "word": "方針",
+    "reading": "ほうしん",
+    "meaning": "policy; guideline; basic principle",
+    "exampleSentence": "新しい方針を決めました。",
+    "exampleTranslation": "We decided on a new policy."
+  },
+  {
+    "word": "傾向",
+    "reading": "けいこう",
+    "meaning": "tendency; trend",
+    "exampleSentence": "最近の傾向として、若者は車を買わなくなりました。",
+    "exampleTranslation": "As a recent trend, young people no longer buy cars."
+  },
+  {
+    "word": "割合",
+    "reading": "わりあい",
+    "meaning": "rate; ratio; proportion",
+    "exampleSentence": "女性の割合が増えています。",
+    "exampleTranslation": "The proportion of women is increasing."
+  },
+  {
+    "word": "平均",
+    "reading": "へいきん",
+    "meaning": "average; mean",
+    "exampleSentence": "平均点は七十点でした。",
+    "exampleTranslation": "The average score was 70 points."
+  },
+  {
+    "word": "標準",
+    "reading": "ひょうじゅん",
+    "meaning": "standard; norm",
+    "exampleSentence": "これが業界の標準です。",
+    "exampleTranslation": "This is the industry standard."
+  },
+  {
+    "word": "実際",
+    "reading": "じっさい",
+    "meaning": "actuality; reality; practice",
+    "exampleSentence": "実際にやってみましょう。",
+    "exampleTranslation": "Let's actually try it."
+  },
+  {
+    "word": "正確",
+    "reading": "せいかく",
+    "meaning": "accurate; precise; exact",
+    "exampleSentence": "正確な情報を提供してください。",
+    "exampleTranslation": "Please provide accurate information."
+  },
+  {
+    "word": "適当",
+    "reading": "てきとう",
+    "meaning": "appropriate; suitable; moderate",
+    "exampleSentence": "適当な温度に設定してください。",
+    "exampleTranslation": "Please set it to an appropriate temperature."
+  },
+  {
+    "word": "十分",
+    "reading": "じゅうぶん",
+    "meaning": "enough; sufficient; plenty",
+    "exampleSentence": "時間は十分あります。",
+    "exampleTranslation": "There is enough time."
+  },
+  {
+    "word": "色々",
+    "reading": "いろいろ",
+    "meaning": "various; diverse; all sorts",
+    "exampleSentence": "色々な種類があります。",
+    "exampleTranslation": "There are various types."
+  },
+  {
+    "word": "様々",
+    "reading": "さまざま",
+    "meaning": "various; diverse; many kinds",
+    "exampleSentence": "様々な意見があります。",
+    "exampleTranslation": "There are various opinions."
+  },
+  {
+    "word": "特別",
+    "reading": "とくべつ",
+    "meaning": "special; exceptional",
+    "exampleSentence": "今日は特別な日です。",
+    "exampleTranslation": "Today is a special day."
+  },
+  {
+    "word": "普通",
+    "reading": "ふつう",
+    "meaning": "normal; ordinary; common",
+    "exampleSentence": "普通は電車で通勤しています。",
+    "exampleTranslation": "Normally, I commute by train."
+  },
+  {
+    "word": "一般的",
+    "reading": "いっぱんてき",
+    "meaning": "general; common; typical",
+    "exampleSentence": "これは一般的な問題です。",
+    "exampleTranslation": "This is a common problem."
+  },
+  {
+    "word": "最新",
+    "reading": "さいしん",
+    "meaning": "latest; newest; up-to-date",
+    "exampleSentence": "最新のニュースを教えてください。",
+    "exampleTranslation": "Please tell me the latest news."
+  },
+  {
+    "word": "全部",
+    "reading": "ぜんぶ",
+    "meaning": "all; entire; total",
+    "exampleSentence": "全部終わりました。",
+    "exampleTranslation": "Everything is finished."
+  },
+  {
+    "word": "半分",
+    "reading": "はんぶん",
+    "meaning": "half",
+    "exampleSentence": "半分だけ食べました。",
+    "exampleTranslation": "I ate only half."
+  },
+  {
+    "word": "大体",
+    "reading": "だいたい",
+    "meaning": "mostly; generally; roughly",
+    "exampleSentence": "大体わかりました。",
+    "exampleTranslation": "I mostly understood."
+  },
+  {
+    "word": "主に",
+    "reading": "おもに",
+    "meaning": "mainly; chiefly; primarily",
+    "exampleSentence": "主に日本語を勉強しています。",
+    "exampleTranslation": "I mainly study Japanese."
+  },
+  {
+    "word": "大抵",
+    "reading": "たいてい",
+    "meaning": "usually; mostly; generally",
+    "exampleSentence": "私は大抵七時に起きます。",
+    "exampleTranslation": "I usually wake up at seven."
+  }
+]

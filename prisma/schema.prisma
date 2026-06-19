@@ -1,0 +1,228 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+enum JLPTLevelName {
+  N5
+  N4
+  N3
+  N2
+  N1
+}
+
+enum LessonCategory {
+  VOCABULARY
+  KANJI
+  GRAMMAR
+  WORK
+}
+
+enum QuestionType {
+  MULTIPLE_CHOICE
+  FILL_BLANK
+  MATCHING
+}
+
+enum WorkCategory {
+  KEEGO
+  INTERVIEW
+  VOCABULARY
+  RESUME
+}
+
+model User {
+  id            String          @id @default(cuid())
+  name          String?
+  email         String?         @unique
+  emailVerified DateTime?
+  image         String?
+  password      String?
+  accounts      Account[]
+  sessions      Session[]
+  progress      UserProgress[]
+  bookmarks     Bookmark[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Account {
+  id                String  @id @default(cuid())
+  userId            String
+  type              String
+  provider          String
+  providerAccountId String
+  refresh_token     String?
+  access_token      String?
+  expires_at        Int?
+  token_type        String?
+  scope             String?
+  id_token          String?
+  session_state     String?
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerAccountId])
+}
+
+model Session {
+  id           String   @id @default(cuid())
+  sessionToken String   @unique
+  userId       String
+  expires      DateTime
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model VerificationToken {
+  identifier String
+  token      String   @unique
+  expires    DateTime
+
+  @@unique([identifier, token])
+}
+
+model JLPTLevel {
+  id          String        @id @default(cuid())
+  name        JLPTLevelName @unique
+  label       String
+  description String
+  order       Int
+  lessons     Lesson[]
+  vocabulary  VocabularyItem[]
+  kanji       KanjiCharacter[]
+  grammar     GrammarPoint[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Lesson {
+  id          String        @id @default(cuid())
+  title       String
+  description String?
+  category    LessonCategory
+  order       Int
+  levelId     String
+  level       JLPTLevel     @relation(fields: [levelId], references: [id])
+  quizzes     Quiz[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model VocabularyItem {
+  id                 String    @id @default(cuid())
+  word               String
+  reading            String
+  meaning            String
+  exampleSentence    String?
+  exampleTranslation String?
+  levelId            String
+  level              JLPTLevel @relation(fields: [levelId], references: [id])
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model KanjiCharacter {
+  id          String    @id @default(cuid())
+  character   String    @unique
+  onyomi      String?
+  kunyomi     String?
+  strokeCount Int?
+  meaning     String
+  compounds   String?
+  levelId     String
+  level       JLPTLevel @relation(fields: [levelId], references: [id])
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model GrammarPoint {
+  id                 String    @id @default(cuid())
+  pattern            String
+  explanation        String
+  usageRules         String?
+  exampleSentence    String?
+  exampleTranslation String?
+  levelId            String
+  level              JLPTLevel @relation(fields: [levelId], references: [id])
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Quiz {
+  id           String     @id @default(cuid())
+  title        String
+  description  String?
+  lessonId     String
+  lesson       Lesson     @relation(fields: [lessonId], references: [id])
+  questions    Question[]
+  isAdvancement Boolean @default(false)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Question {
+  id            String       @id @default(cuid())
+  text          String
+  type          QuestionType
+  options       String       @default("[]")
+  correctAnswer String
+  explanation   String?
+  quizId        String
+  quiz          Quiz         @relation(fields: [quizId], references: [id])
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model UserProgress {
+  id        String   @id @default(cuid())
+  userId    String
+  lessonId  String?
+  quizId    String?
+  score     Int?
+  passed    Boolean?
+  completed Boolean  @default(false)
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Bookmark {
+  id        String   @id @default(cuid())
+  userId    String
+  itemType  String
+  itemId    String
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, itemType, itemId])
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model WorkContent {
+  id          String       @id @default(cuid())
+  category    WorkCategory
+  title       String
+  japanese    String?
+  reading     String?
+  meaning     String?
+  explanation String?
+  examples    String       @default("[]")
+  order       Int          @default(0)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}

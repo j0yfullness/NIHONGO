@@ -1,0 +1,177 @@
+[
+  {
+    "pattern": "〜をもって",
+    "explanation": "By means of / With / Marking the limit",
+    "usageRules": "Noun + をもって",
+    "exampleSentence": "本日をもって、このサービスは終了いたします。",
+    "exampleTranslation": "This service will be terminated as of today."
+  },
+  {
+    "pattern": "〜にあって",
+    "explanation": "In / Under (circumstances / conditions)",
+    "usageRules": "Noun + にあって",
+    "exampleSentence": "不況の只中にあって、彼は会社を立て直した。",
+    "exampleTranslation": "In the midst of the recession, he turned the company around."
+  },
+  {
+    "pattern": "〜に至るまで",
+    "explanation": "Up to / Even to the extent of / Down to",
+    "usageRules": "Noun + に至るまで",
+    "exampleSentence": "細部に至るまで丁寧にチェックした。",
+    "exampleTranslation": "I carefully checked down to the smallest details."
+  },
+  {
+    "pattern": "〜を皮切りに",
+    "explanation": "Starting with / Beginning with",
+    "usageRules": "Noun + を皮切りに",
+    "exampleSentence": "東京公演を皮切りに、全国ツアーが始まった。",
+    "exampleTranslation": "Starting with the Tokyo performance, the national tour began."
+  },
+  {
+    "pattern": "〜に即して",
+    "explanation": "In accordance with / Based on",
+    "usageRules": "Noun + に即して",
+    "exampleSentence": "法律に即して判断を下すべきだ。",
+    "exampleTranslation": "We should make a judgment in accordance with the law."
+  },
+  {
+    "pattern": "〜ならでは",
+    "explanation": "Unique to / Only possible with / Distinctive of",
+    "usageRules": "Noun + ならではの + Noun / Noun + ならではだ",
+    "exampleSentence": "職人ならではの技が光る作品だ。",
+    "exampleTranslation": "This is a work that showcases craftsmanship unique to artisans."
+  },
+  {
+    "pattern": "〜をよそに",
+    "explanation": "Regardless of / Paying no attention to",
+    "usageRules": "Noun + をよそに",
+    "exampleSentence": "周囲の心配をよそに、彼は単身で海外へ飛び立った。",
+    "exampleTranslation": "Paying no attention to everyone's concerns, he set off abroad alone."
+  },
+  {
+    "pattern": "〜に沿った／沿う",
+    "explanation": "In line with / Along / In accordance with",
+    "usageRules": "Noun + に沿った + Noun / Noun + に沿う",
+    "exampleSentence": "お客様のご要望に沿ったプランをご提案いたします。",
+    "exampleTranslation": "We will propose a plan in line with your requests."
+  },
+  {
+    "pattern": "〜を機に",
+    "explanation": "Taking the opportunity to / Triggered by",
+    "usageRules": "Noun + を機に / Verb-た + のを機に",
+    "exampleSentence": "引っ越しを機に、家具を全て新しくした。",
+    "exampleTranslation": "Taking the move as an opportunity, I replaced all the furniture."
+  },
+  {
+    "pattern": "〜に至って",
+    "explanation": "Upon reaching / When it comes to (an extreme situation)",
+    "usageRules": "Verb-dictionary + に至って / Noun + に至って",
+    "exampleSentence": "事態ここに至って、ようやく彼は真相を語った。",
+    "exampleTranslation": "Now that things have come to this, he finally told the truth."
+  },
+  {
+    "pattern": "〜をもとにして",
+    "explanation": "Based on / Using as the basis",
+    "usageRules": "Noun + をもとにして",
+    "exampleSentence": "実際の事件をもとにして小説を書いた。",
+    "exampleTranslation": "I wrote a novel based on a real incident."
+  },
+  {
+    "pattern": "〜の至り",
+    "explanation": "Utmost / The height of (formal set phrase)",
+    "usageRules": "Noun + の至り (fixed expressions: 光栄の至り, 若気の至り)",
+    "exampleSentence": "このような賞をいただき、光栄の至りです。",
+    "exampleTranslation": "Receiving such an award is the utmost honor."
+  },
+  {
+    "pattern": "〜なくして",
+    "explanation": "Without (emphatic / conditional)",
+    "usageRules": "Noun + なくして（は）",
+    "exampleSentence": "努力なくして成功はありえない。",
+    "exampleTranslation": "Success is impossible without effort."
+  },
+  {
+    "pattern": "〜たところで",
+    "explanation": "Even if / No matter (concessive)",
+    "usageRules": "Verb-た + ところで",
+    "exampleSentence": "今さら後悔したところで、もう遅い。",
+    "exampleTranslation": "Even if you regret it now, it's already too late."
+  },
+  {
+    "pattern": "〜をおいて",
+    "explanation": "Except for / Other than / None but",
+    "usageRules": "Noun + をおいて",
+    "exampleSentence": "彼をおいてこの仕事を任せられる者はいない。",
+    "exampleTranslation": "There is no one other than him who can be entrusted with this task."
+  },
+  {
+    "pattern": "〜と相まって",
+    "explanation": "Combined with / Coupled with",
+    "usageRules": "Noun + と相まって",
+    "exampleSentence": "美しい旋律と相まって、彼女の歌声は観客を魅了した。",
+    "exampleTranslation": "Combined with the beautiful melody, her singing captivated the audience."
+  },
+  {
+    "pattern": "〜に即した",
+    "explanation": "In line with / Conforming to (progressive form)",
+    "usageRules": "Noun + に即した + Noun",
+    "exampleSentence": "時代に即した新しい教育方法が求められている。",
+    "exampleTranslation": "New educational methods in line with the times are needed."
+  },
+  {
+    "pattern": "〜を踏まえて",
+    "explanation": "Based on / In light of / Taking into account",
+    "usageRules": "Noun + を踏まえて",
+    "exampleSentence": "前回の反省を踏まえて、計画を練り直した。",
+    "exampleTranslation": "Based on the lessons from last time, we reworked the plan."
+  },
+  {
+    "pattern": "〜なしでは〜ない",
+    "explanation": "Cannot ... without",
+    "usageRules": "Noun + なしでは + Verb-ない",
+    "exampleSentence": "水なしでは一日も生きられない。",
+    "exampleTranslation": "We cannot live even a single day without water."
+  },
+  {
+    "pattern": "〜を経て",
+    "explanation": "Through / Via / After going through",
+    "usageRules": "Noun + を経て",
+    "exampleSentence": "厳しい訓練を経て、彼は一人前の職人になった。",
+    "exampleTranslation": "After going through rigorous training, he became a full-fledged craftsman."
+  },
+  {
+    "pattern": "〜をもってすれば",
+    "explanation": "With (capability / means) / If one uses",
+    "usageRules": "Noun + をもってすれば",
+    "exampleSentence": "彼の能力をもってすれば、その問題も簡単に解決できるだろう。",
+    "exampleTranslation": "With his ability, he could probably solve that problem easily."
+  },
+  {
+    "pattern": "〜たが最後",
+    "explanation": "Once (something happens, then ...) / As soon as",
+    "usageRules": "Verb-た + が最後",
+    "exampleSentence": "あのゲームを始めたが最後、やめられなくなる。",
+    "exampleTranslation": "Once you start that game, you won't be able to stop."
+  },
+  {
+    "pattern": "〜をおいて〜ない",
+    "explanation": "Nothing / Nobody other than",
+    "usageRules": "Noun + をおいて + negative predicate",
+    "exampleSentence": "この任務を遂行できる者をおいて他にいない。",
+    "exampleTranslation": "There is nobody other than him who can carry out this mission."
+  },
+  {
+    "pattern": "〜とあれば",
+    "explanation": "If it is / If it means (formal conditional)",
+    "usageRules": "Noun + とあれば / Verb-dictionary + とあれば",
+    "exampleSentence": "お役に立てるとあれば、喜んで協力いたします。",
+    "exampleTranslation": "If it means I can be of help, I will gladly cooperate."
+  },
+  {
+    "pattern": "〜にたえない",
+    "explanation": "Cannot bear / Unbearable / Not worthy of",
+    "usageRules": "Noun + にたえない / Verb-dictionary + にたえない",
+    "exampleSentence": "その光景は目にたえない悲惨なものだった。",
+    "exampleTranslation": "The scene was too heartbreaking to behold."
+  }
+]

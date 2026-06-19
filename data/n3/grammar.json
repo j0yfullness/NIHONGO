@@ -1,0 +1,310 @@
+[
+  {
+    "pattern": "〜というわけではない",
+    "explanation": "It's not that... / It doesn't mean that...",
+    "usageRules": "Plain sentence + というわけではない (or というわけでもない for 'not necessarily')",
+    "exampleSentence": "日本語がペラペラというわけではないけど、日常会話はできる。",
+    "exampleTranslation": "It's not that I'm fluent in Japanese, but I can handle daily conversation."
+  },
+  {
+    "pattern": "〜わけにはいかない",
+    "explanation": "Cannot afford to... / Must not...",
+    "usageRules": "Dictionary form + わけにはいかない。Negative form + わけにはいかない means 'must'.",
+    "exampleSentence": "明日は大事な試験があるから、休むわけにはいかない。",
+    "exampleTranslation": "I have an important exam tomorrow, so I can't afford to take the day off."
+  },
+  {
+    "pattern": "〜ものだ",
+    "explanation": "Things are naturally... / One should... / Used to...",
+    "usageRules": "Present tense for general truths/ought-to; past tense for nostalgic reminiscence.",
+    "exampleSentence": "子供の頃、よくこの川で泳いだものだ。",
+    "exampleTranslation": "When I was a child, I used to swim in this river."
+  },
+  {
+    "pattern": "〜ものの",
+    "explanation": "Although... / Even though...",
+    "usageRules": "Plain sentence (past/dictionary) + ものの, followed by a contrasting result.",
+    "exampleSentence": "新しいパソコンを買ったものの、まだ使い方がよくわからない。",
+    "exampleTranslation": "Although I bought a new computer, I still don't really know how to use it."
+  },
+  {
+    "pattern": "〜たところ",
+    "explanation": "When I did... / Just as I did... (discovery)",
+    "usageRules": "Past tense verb + たところ + discovery/result. Can also mean 'just finished'.",
+    "exampleSentence": "先生に相談したところ、いいアドバイスをもらった。",
+    "exampleTranslation": "When I consulted the teacher, I received good advice."
+  },
+  {
+    "pattern": "〜たところで",
+    "explanation": "Even if... / No matter how... (futile result)",
+    "usageRules": "Past tense verb + たところで + negative/unfavorable outcome.",
+    "exampleSentence": "今さら後悔したところで、もう遅い。",
+    "exampleTranslation": "Even if I regret it now, it's already too late."
+  },
+  {
+    "pattern": "〜ざるを得ない",
+    "explanation": "Cannot help but... / Have no choice but to...",
+    "usageRules": "Negative base (〜ない form → 〜ざる) + を得ない。する becomes せざるを得ない.",
+    "exampleSentence": "証拠がある以上、彼の間違いを認めざるを得ない。",
+    "exampleTranslation": "As long as there is evidence, I have no choice but to admit his mistake."
+  },
+  {
+    "pattern": "〜に違いない",
+    "explanation": "Must be... / Certainly...",
+    "usageRules": "Plain sentence + に違いない. Similar to 〜に決まっている but less emphatic.",
+    "exampleSentence": "あの雲の様子からすると、明日は雨に違いない。",
+    "exampleTranslation": "Judging by the look of those clouds, it must rain tomorrow."
+  },
+  {
+    "pattern": "〜に過ぎない",
+    "explanation": "Merely... / Nothing more than...",
+    "usageRules": "Noun / plain verb + に過ぎない. Often used to downplay importance.",
+    "exampleSentence": "これは単なる噂に過ぎない。信じる必要はない。",
+    "exampleTranslation": "This is merely a rumor. There's no need to believe it."
+  },
+  {
+    "pattern": "〜に対して",
+    "explanation": "Towards / In contrast to / Against",
+    "usageRules": "Noun + に対して. Marks the target of an action, feeling, or comparison.",
+    "exampleSentence": "あの店は日本人観光客に対しては割引がある。",
+    "exampleTranslation": "That store offers discounts for Japanese tourists."
+  },
+  {
+    "pattern": "〜を中心に",
+    "explanation": "Centered around / With a focus on",
+    "usageRules": "Noun + を中心に. Indicates the main element around which something revolves.",
+    "exampleSentence": "この会社はアジア市場を中心に事業を展開している。",
+    "exampleTranslation": "This company is developing its business centered around the Asian market."
+  },
+  {
+    "pattern": "〜をはじめ",
+    "explanation": "Starting with / Including",
+    "usageRules": "Noun + をはじめ + category. Lists a primary example followed by others.",
+    "exampleSentence": "日本をはじめ、世界各国から観光客が訪れた。",
+    "exampleTranslation": "Tourists visited from countries all over the world, starting with Japan."
+  },
+  {
+    "pattern": "〜に基づいて",
+    "explanation": "Based on / In accordance with",
+    "usageRules": "Noun + に基づいて. Indicates the foundation or basis for an action.",
+    "exampleSentence": "この小説は実際の出来事に基づいて書かれている。",
+    "exampleTranslation": "This novel is written based on real events."
+  },
+  {
+    "pattern": "〜に沿って",
+    "explanation": "Along / In accordance with",
+    "usageRules": "Noun + に沿って. Follow means 'along a line/river' or 'in line with a plan/rule'.",
+    "exampleSentence": "計画に沿って、新しいシステムを導入することにした。",
+    "exampleTranslation": "We decided to introduce the new system in accordance with the plan."
+  },
+  {
+    "pattern": "〜につれて",
+    "explanation": "As... / In proportion to...",
+    "usageRules": "Dictionary form verb + につれて. Describes gradual change in parallel with another change.",
+    "exampleSentence": "日本語の勉強が進むにつれて、日本文化への興味が深まった。",
+    "exampleTranslation": "As my Japanese studies progressed, my interest in Japanese culture deepened."
+  },
+  {
+    "pattern": "〜とともに",
+    "explanation": "Together with / As / Along with",
+    "usageRules": "Noun + とともに (together with). Verb dictionary + とともに (as/simultaneously).",
+    "exampleSentence": "年をとるとともに、記憶力が衰えてきた気がする。",
+    "exampleTranslation": "I feel my memory has been declining as I get older."
+  },
+  {
+    "pattern": "〜に反して",
+    "explanation": "Contrary to / Against",
+    "usageRules": "Noun + に反して. Indicates something happens opposite to expectations or rules.",
+    "exampleSentence": "予想に反して、試験はとても簡単だった。",
+    "exampleTranslation": "Contrary to my expectations, the exam was very easy."
+  },
+  {
+    "pattern": "〜に比べて",
+    "explanation": "Compared to / In comparison with",
+    "usageRules": "Noun + に比べて. Highlights difference or relative degree between two things.",
+    "exampleSentence": "去年に比べて、今年の冬は暖かい。",
+    "exampleTranslation": "Compared to last year, this winter is warm."
+  },
+  {
+    "pattern": "〜ば〜ほど",
+    "explanation": "The more...the more...",
+    "usageRules": "Verb ば + same verb dictionary + ほど. Also works with adjectives.",
+    "exampleSentence": "この小説は読めば読むほど面白くなる。",
+    "exampleTranslation": "The more I read this novel, the more interesting it becomes."
+  },
+  {
+    "pattern": "〜たびに",
+    "explanation": "Every time (something happens)",
+    "usageRules": "Dictionary form verb / noun + の + たびに. Indicates repeated occurrence.",
+    "exampleSentence": "彼女に会うたびに、前よりもきれいになっている気がする。",
+    "exampleTranslation": "Every time I see her, I feel she's become more beautiful than before."
+  },
+  {
+    "pattern": "〜おかげで",
+    "explanation": "Thanks to... (positive result)",
+    "usageRules": "Noun + の + おかげで. Plain sentence + おかげで. Often ends with result. For negative, use せいで.",
+    "exampleSentence": "先生の丁寧な指導のおかげで、N3に合格できました。",
+    "exampleTranslation": "Thanks to the teacher's careful guidance, I was able to pass N3."
+  },
+  {
+    "pattern": "〜せいで",
+    "explanation": "Because of... / Due to... (negative cause)",
+    "usageRules": "Noun + の + せいで. Plain sentence + せいで. Used for blame or negative outcomes.",
+    "exampleSentence": "昨日眠れなかったせいで、今日は頭がぼんやりしている。",
+    "exampleTranslation": "Because I couldn't sleep last night, my head is foggy today."
+  },
+  {
+    "pattern": "〜わりに",
+    "explanation": "Considering / Although / For (contrary to expectation)",
+    "usageRules": "Plain sentence + わりに. Noun + の + わりに. Indicates mismatch between what's expected and reality.",
+    "exampleSentence": "彼は子供のわりに、大人びた話し方をする。",
+    "exampleTranslation": "For a child, he speaks in a very mature way."
+  },
+  {
+    "pattern": "〜くせに",
+    "explanation": "Even though / And yet (negative nuance, criticism)",
+    "usageRules": "Plain sentence + くせに. Noun + の + くせに. Stronger, more critical than のに.",
+    "exampleSentence": "あまり勉強しなかったくせに、試験に合格したと言っている。",
+    "exampleTranslation": "Even though he didn't study much, he says he passed the exam."
+  },
+  {
+    "pattern": "〜ながらも",
+    "explanation": "Although / In spite of / While...",
+    "usageRules": "Verb stem / adjective / noun + ながらも. Softer and more formal than けど.",
+    "exampleSentence": "彼は体が不自由ながらも、一人で世界中を旅している。",
+    "exampleTranslation": "Although his body is disabled, he travels the world alone."
+  },
+  {
+    "pattern": "〜ついでに",
+    "explanation": "While you're at it / On the occasion of",
+    "usageRules": "Noun + の + ついでに. Past/dictionary verb + ついでに. Doing something extra during another activity.",
+    "exampleSentence": "駅に行くついでに、この手紙を出してきてくれる？",
+    "exampleTranslation": "Since you're going to the station anyway, could you mail this letter?"
+  },
+  {
+    "pattern": "〜がち",
+    "explanation": "Tend to / Prone to (negative habit)",
+    "usageRules": "Verb stem + がち. Noun + がち. Describes a recurring negative tendency.",
+    "exampleSentence": "最近、甘いものを食べすぎがちなので、気をつけたい。",
+    "exampleTranslation": "I've been tending to eat too many sweets lately, so I want to be careful."
+  },
+  {
+    "pattern": "〜気味",
+    "explanation": "Slightly / A bit / -ish (tendency with worry)",
+    "usageRules": "Verb stem + 気味. Noun + 気味. Indicates a slight but noticeable tendency, often concerning.",
+    "exampleSentence": "ちょっと疲れ気味だから、今日は早く寝よう。",
+    "exampleTranslation": "I'm feeling a bit tired, so let me sleep early tonight."
+  },
+  {
+    "pattern": "〜っぽい",
+    "explanation": "-ish / Prone to / Full of",
+    "usageRules": "Verb stem / noun / adjective stem + っぽい. Casual, describes a strong tendency or quality.",
+    "exampleSentence": "彼はいつも忘れっぽくて、約束の時間に遅れることが多い。",
+    "exampleTranslation": "He's always forgetful and often late for appointments."
+  },
+  {
+    "pattern": "〜に決まっている",
+    "explanation": "It's decided / Definitely / Must be",
+    "usageRules": "Plain sentence + に決まっている. Emphatic certainty, stronger than に違いない.",
+    "exampleSentence": "こんなに高いレストラン、もう二度と来ないに決まっている。",
+    "exampleTranslation": "There's no way I'll ever come to such an expensive restaurant again."
+  },
+  {
+    "pattern": "〜ことになっている",
+    "explanation": "It is scheduled that / It has been decided that (rule/habit)",
+    "usageRules": "Plain sentence + ことになっている. For societal rules, schedules, or established arrangements.",
+    "exampleSentence": "この授業では、毎週レポートを提出することになっている。",
+    "exampleTranslation": "In this class, we are required to submit a report every week."
+  },
+  {
+    "pattern": "〜ことにしている",
+    "explanation": "Make it a rule to / Always do",
+    "usageRules": "Dictionary form + ことにしている. Describes a personal rule or habit.",
+    "exampleSentence": "健康のために、毎朝ジョギングすることにしている。",
+    "exampleTranslation": "For my health, I make it a rule to jog every morning."
+  },
+  {
+    "pattern": "〜ようにする",
+    "explanation": "Try to / Make sure to / See to it that",
+    "usageRules": "Dictionary form + ようにする (effort). Negative + ようにする (try not to).",
+    "exampleSentence": "できるだけ漢字を使うようにしている。",
+    "exampleTranslation": "I try to use kanji as much as possible."
+  },
+  {
+    "pattern": "〜ようになる",
+    "explanation": "Come to / Reach the point where / Become able to",
+    "usageRules": "Dictionary form + ようになる. Describes a change in ability or situation over time.",
+    "exampleSentence": "日本のドラマを見続けて、日本語が聞き取れるようになった。",
+    "exampleTranslation": "After watching Japanese dramas continuously, I've come to be able to understand spoken Japanese."
+  },
+  {
+    "pattern": "〜はずがない",
+    "explanation": "There's no way / It's impossible that",
+    "usageRules": "Plain sentence + はずがない. Expresses strong disbelief based on logic/reason.",
+    "exampleSentence": "彼は真面目な人間だから、そんなことをするはずがない。",
+    "exampleTranslation": "He's a serious person, so there's no way he would do something like that."
+  },
+  {
+    "pattern": "〜べきだ",
+    "explanation": "Should / Ought to (moral/social obligation)",
+    "usageRules": "Dictionary form + べきだ. Negative: べきではない. する→すべき or するべき.",
+    "exampleSentence": "他人の意見も尊重するべきだと思う。",
+    "exampleTranslation": "I think we should also respect other people's opinions."
+  },
+  {
+    "pattern": "〜かわりに",
+    "explanation": "Instead of / In exchange for",
+    "usageRules": "Noun + の + かわりに. Plain verb (dictionary/past) + かわりに.",
+    "exampleSentence": "母のかわりに、私が妹を迎えに行った。",
+    "exampleTranslation": "I went to pick up my younger sister instead of my mother."
+  },
+  {
+    "pattern": "〜に関わらず",
+    "explanation": "Regardless of / Without regard to",
+    "usageRules": "Noun + に関わらず. Also 〜かどうかに関わらず (regardless of whether or not).",
+    "exampleSentence": "結果に関わらず、最後まで頑張ることが大切だ。",
+    "exampleTranslation": "Regardless of the outcome, it's important to do your best until the end."
+  },
+  {
+    "pattern": "〜にもかかわらず",
+    "explanation": "Despite / In spite of",
+    "usageRules": "Plain sentence + にもかかわらず. Noun + にもかかわらず. Formal contrast.",
+    "exampleSentence": "雨が激しかったにもかかわらず、サッカーの試合は行われた。",
+    "exampleTranslation": "Despite the heavy rain, the soccer match was held."
+  },
+  {
+    "pattern": "〜てならない",
+    "explanation": "Cannot help but feel / Extremely",
+    "usageRules": "Verb て form / adjective くて + ならない. Strong spontaneous emotion or thought.",
+    "exampleSentence": "彼女のことが思ってならない。",
+    "exampleTranslation": "I can't stop thinking about her."
+  },
+  {
+    "pattern": "〜てたまらない",
+    "explanation": "Extremely / So much that can't bear it",
+    "usageRules": "Verb て form / adjective くて + たまらない. Overwhelming feeling or desire.",
+    "exampleSentence": "日本に行きたくてたまらない。",
+    "exampleTranslation": "I want to go to Japan so badly I can't stand it."
+  },
+  {
+    "pattern": "〜かねる",
+    "explanation": "Cannot / Find it hard to / Reluctant to",
+    "usageRules": "Verb stem + かねる. Polite way to express hesitation or inability.",
+    "exampleSentence": "その質問にはお答えしかねます。",
+    "exampleTranslation": "I find it difficult to answer that question."
+  },
+  {
+    "pattern": "〜かねない",
+    "explanation": "Could easily / Is liable to (negative outcome)",
+    "usageRules": "Verb stem + かねない. Warns of a dangerous or undesirable possibility.",
+    "exampleSentence": "そんなに飛ばしたら、事故を起こしかねない。",
+    "exampleTranslation": "If you speed like that, you could easily cause an accident."
+  },
+  {
+    "pattern": "〜っこない",
+    "explanation": "There's no way / Never (colloquial emphatic)",
+    "usageRules": "Dictionary form verb + っこない. Casual, emphatic denial of possibility.",
+    "exampleSentence": "そんな難しい問題、子供に解けるっこない。",
+    "exampleTranslation": "There's no way a child can solve such a difficult problem."
+  }
+]

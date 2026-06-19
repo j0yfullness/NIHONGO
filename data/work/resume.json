@@ -1,0 +1,47 @@
+[
+  {
+    "title": "履歴書の基本構成 — Resume Structure",
+    "japanese": "履歴書の書き方",
+    "reading": "りれきしょのかきかた",
+    "meaning": "How to structure a Japanese resume (Rirekisho)",
+    "explanation": "A Japanese resume (履歴書) has a standard format. It must be handwritten (or printed on designated forms), usually in black ink. Use polite but factual language. Include a photo (3x4cm) attached in the specified area.",
+    "examples": "[{\"japanese\":\"日付：令和○年○月○日\",\"reading\":\"ひづけ：れいわ○ねん○がつ○にち\",\"meaning\":\"Date: Reiwa year ○ month ○ day (write the date of submission)\"},{\"japanese\":\"氏名：山田 太郎\",\"reading\":\"しめい：やまだ たろう\",\"meaning\":\"Full name: Write surname first, given name last\"},{\"japanese\":\"生年月日：1990年4月1日（満34歳）\",\"reading\":\"せいねんがっぴ：1990ねん4がつ1にち（まん34さい）\",\"meaning\":\"Date of birth: April 1, 1990 (Age 34)\"},{\"japanese\":\"現住所：東京都千代田区...\",\"reading\":\"げんじゅうしょ：とうきょうとちよだく...\",\"meaning\":\"Current address\"},{\"japanese\":\"学歴：2010年4月 ○○大学 入学\",\"reading\":\"がくれき：2010ねん4がつ ○○だいがく にゅうがく\",\"meaning\":\"Education: Entered ○○ University in April 2010\"},{\"japanese\":\"職歴：2014年4月 ○○株式会社 入社\",\"reading\":\"しょくれき：2014ねん4がつ ○○かぶしきがいしゃ にゅうしゃ\",\"meaning\":\"Work history: Joined ○○ Corporation in April 2014\"},{\"japanese\":\"志望動機：貴社の事業に魅力を感じ...\",\"reading\":\"しぼうどうき：きしゃのじぎょうにみりょくをかんじ...\",\"meaning\":\"Motivation for applying: I am attracted to your company's business...\"},{\"japanese\":\"免許・資格：普通自動車免許、TOEIC 850点\",\"reading\":\"めんきょ・しかく：ふつうじどうしゃめんきょ、TOEIC 850てん\",\"meaning\":\"Licenses and certifications: Driver's license, TOEIC 850\"}]",
+    "order": 1
+  },
+  {
+    "title": "職務経歴書の書き方 — Work Experience (CV)",
+    "japanese": "職務経歴書のポイント",
+    "reading": "しょむけいれきしょのポイント",
+    "meaning": "How to write a Japanese CV/ work experience document",
+    "explanation": "The 職務経歴書 (Shokumu Keirekisho) is a detailed document listing your work history, skills, and achievements. Unlike the simple 履歴書, this is where you sell your experience. Use bullet points and quantify results where possible.",
+    "examples": "[{\"japanese\":\"【職務要約】営業職として10年の経験があり、新規開拓から既存顧客管理まで幅広く担当。\",\"reading\":\"【しょくむようやく】えいぎょうしょくとして10ねんのけいけんがあり、しんきかいたくからきぞんこきゃくかんりまでひろはくたんとう。\",\"meaning\":\"[Summary] 10 years of sales experience, handling everything from new client acquisition to existing account management.\"},{\"japanese\":\"【実績】売上目標対比120%達成、3年連続で営業部門トップ表彰。\",\"reading\":\"【じっせき】うりあげもくひょうたいひ120%たっせい、3ねんれんぞくでえいぎょうぶもんトップひょうしょう。\",\"meaning\":\"[Achievements] Achieved 120% of sales target, received top sales award for 3 consecutive years.\"},{\"japanese\":\"【スキル】Java, Python, SQL, AWS クラウドサービス\",\"reading\":\"【スキル】Java, Python, SQL, AWS クラウドサービス\",\"meaning\":\"[Skills] Java, Python, SQL, AWS Cloud Services\"}]",
+    "order": 2
+  },
+  {
+    "title": "職務経歴のアピールポイント — Highlighting Experience",
+    "japanese": "実績の効果的な伝え方",
+    "reading": "じっせきのこうかてきなつたえかた",
+    "meaning": "How to effectively highlight your achievements",
+    "explanation": "Japanese employers value specific, quantified results. Use the STAR method (Situation, Task, Action, Result) to structure your achievements. Always frame your contributions in terms of how they benefited the company or team.",
+    "examples": "[{\"japanese\":\"プロジェクトのリーダーとして、5名のチームを統率し、納期を2ヶ月短縮しました。\",\"reading\":\"プロジェクトのリーダーとして、5めいのチームをとうそつし、のうきを2かげつたんしゅくしました。\",\"meaning\":\"As project leader, I led a team of 5 and reduced the delivery time by 2 months.\"},{\"japanese\":\"新規顧客を50社開拓し、年間売上を30%向上させました。\",\"reading\":\"しんきこきゃくを50しゃかいたくし、ねんかんうりあげを30%こうじょうさせました。\",\"meaning\":\"Acquired 50 new client companies, increasing annual sales by 30%.\"},{\"japanese\":\"業務プロセスを見直し、残業時間を月平均20時間削減しました。\",\"reading\":\"ぎょうむプロセスをみなおし、ざんぎょうじかんをつきへいきん20じかんさくげんしました。\",\"meaning\":\"Reviewed work processes and reduced monthly overtime by an average of 20 hours.\"}]",
+    "order": 3
+  },
+  {
+    "title": "志望動機の書き方 — Writing Your Motivation",
+    "japanese": "志望動機のテンプレート",
+    "reading": "しぼうどうきのテンプレート",
+    "meaning": "Template phrases for writing your application motivation",
+    "explanation": "志望動機 (Shibo Doki) is one of the most important sections. Show that you understand the company's values and business, and explain how your skills match their needs. Avoid generic phrases - customize for each company.",
+    "examples": "[{\"japanese\":\"貴社の「○○」という理念に強く共感し、ぜひその実現に貢献したいと考え、応募いたしました。\",\"reading\":\"きしゃの「○○」というりねんにつよくきょうかんし、ぜひそのじつげんにこうけんしたいとかんがえ、おうぼいたしました。\",\"meaning\":\"I strongly resonate with your company's philosophy of '○○' and applied because I want to contribute to realizing it.\"},{\"japanese\":\"私の△△の経験を活かして、貴社の□□事業に貢献できると考えております。\",\"reading\":\"わたしの△△のけいけんをいかして、きしゃの□□じぎょうにこうけんできるとかんがえております。\",\"meaning\":\"I believe I can contribute to your company's □□ business by leveraging my experience in △△.\"},{\"japanese\":\"貴社で長期的にキャリアを築き、専門性を深めたいと考えています。\",\"reading\":\"きしゃでちょうきてきにキャリアをきずき、せんもんせいをふかめたいとかんがえています。\",\"meaning\":\"I want to build a long-term career at your company and deepen my expertise.\"}]",
+    "order": 4
+  },
+  {
+    "title": "面接後のフォローアップ — Post-Interview Follow-up",
+    "japanese": "お礼状とフォローアップ",
+    "reading": "おれいじょうとフォローアップ",
+    "meaning": "Thank-you notes and follow-up after an interview",
+    "explanation": "Sending a thank-you email after an interview is good practice in Japan. Send it within 24 hours. Keep it concise but sincere. Reiterate your interest in the position and thank them for their time.",
+    "examples": "[{\"japanese\":\"本日はお忙しい中、面接の機会をいただき、誠にありがとうございました。\",\"reading\":\"ほんじつはおいそがしいなか、めんせつのきかいをいただき、まことにありがとうございました。\",\"meaning\":\"Thank you very much for the interview opportunity today despite your busy schedule.\"},{\"japanese\":\"面接でのお話を伺い、より一層貴社で働きたいという気持ちが強まりました。\",\"reading\":\"めんせつでのおはなしをうかがい、よりいっそうきしゃではたらきたいというきもちがつよまりました。\",\"meaning\":\"After hearing your explanations in the interview, my desire to work at your company has grown even stronger.\"},{\"japanese\":\"引き続きよろしくお願いいたします。\",\"reading\":\"ひきつづきよろしくおねがいいたします。\",\"meaning\":\"I look forward to your continued consideration.\"}]",
+    "order": 5
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "title": "会社の役職 — Company Positions",
+    "japanese": "役職名",
+    "reading": "やくしょくめい",
+    "meaning": "Common company job titles and positions",
+    "explanation": "Knowing the hierarchy of company positions is essential for using correct keigo and understanding who to address in different situations.",
+    "examples": "[{\"japanese\":\"社長\",\"reading\":\"しゃちょう\",\"meaning\":\"President/ CEO\"},{\"japanese\":\"取締役\",\"reading\":\"とりしまりやく\",\"meaning\":\"Board member/ Director\"},{\"japanese\":\"部長\",\"reading\":\"ぶちょう\",\"meaning\":\"Department Manager\"},{\"japanese\":\"課長\",\"reading\":\"かちょう\",\"meaning\":\"Section Manager\"},{\"japanese\":\"係長\",\"reading\":\"かかりちょう\",\"meaning\":\"Subsection Chief\"},{\"japanese\":\"主任\",\"reading\":\"しゅにん\",\"meaning\":\"Team Leader/ Supervisor\"},{\"japanese\":\"先輩\",\"reading\":\"せんぱい\",\"meaning\":\"Senior colleague\"},{\"japanese\":\"後輩\",\"reading\":\"こうはい\",\"meaning\":\"Junior colleague\"},{\"japanese\":\"同僚\",\"reading\":\"どうりょう\",\"meaning\":\"Coworker\"},{\"japanese\":\"上司\",\"reading\":\"じょうし\",\"meaning\":\"Superior/ Boss\"}]",
+    "order": 1
+  },
+  {
+    "title": "会社の部署 — Company Departments",
+    "japanese": "部署名",
+    "reading": "ぶしょめい",
+    "meaning": "Common department names in a company",
+    "explanation": "Knowing department names helps you navigate company structure, understand meeting contexts, and address correspondence correctly.",
+    "examples": "[{\"japanese\":\"営業部\",\"reading\":\"えいぎょうぶ\",\"meaning\":\"Sales Department\"},{\"japanese\":\"経理部\",\"reading\":\"けいりぶ\",\"meaning\":\"Accounting Department\"},{\"japanese\":\"人事部\",\"reading\":\"じんじぶ\",\"meaning\":\"Human Resources Department\"},{\"japanese\":\"総務部\",\"reading\":\"そうむぶ\",\"meaning\":\"General Affairs Department\"},{\"japanese\":\"開発部\",\"reading\":\"かいはつぶ\",\"meaning\":\"Development Department\"},{\"japanese\":\"マーケティング部\",\"reading\":\"マーケティングぶ\",\"meaning\":\"Marketing Department\"},{\"japanese\":\"企画部\",\"reading\":\"きかくぶ\",\"meaning\":\"Planning Department\"},{\"japanese\":\"購買部\",\"reading\":\"こうばいぶ\",\"meaning\":\"Purchasing Department\"},{\"japanese\":\"法務部\",\"reading\":\"ほうむぶ\",\"meaning\":\"Legal Department\"}]",
+    "order": 2
+  },
+  {
+    "title": "会議の日本語 — Meeting Japanese",
+    "japanese": "会議で使う表現",
+    "reading": "かいぎでつかうひょうげん",
+    "meaning": "Useful phrases for meetings",
+    "explanation": "Meetings in Japan follow specific protocols. Knowing these phrases helps you participate effectively and show professionalism.",
+    "examples": "[{\"japanese\":\"只今から会議を始めます。\",\"reading\":\"ただいまからかいぎをはじめます。\",\"meaning\":\"We will begin the meeting now.\"},{\"japanese\":\"議題に入る前に、\",\"reading\":\"ぎだいにはいるまえに、\",\"meaning\":\"Before we get into the agenda,\"},{\"japanese\":\"ご意見をお聞かせください。\",\"reading\":\"ごいけんをおきかせください。\",\"meaning\":\"Please share your opinions.\"},{\"japanese\":\"私の考えを申し上げます。\",\"reading\":\"わたしのかんがえをもうしあげます。\",\"meaning\":\"Let me share my thoughts.\"},{\"japanese\":\"賛成です。／反対です。\",\"reading\":\"さんせいです。／はんたいです。\",\"meaning\":\"I agree. / I disagree.\"},{\"japanese\":\"一旦持ち帰って検討します。\",\"reading\":\"いったんもちかえってけんとうします。\",\"meaning\":\"Let me take this back and consider it.\"},{\"japanese\":\"本日はお忙しい中お集まりいただき、ありがとうございます。\",\"reading\":\"ほんじつはおいそがしいなかおあつまりいただき、ありがとうございます。\",\"meaning\":\"Thank you all for taking time from your busy schedules to gather here today.\"}]",
+    "order": 3
+  },
+  {
+    "title": "ビジネスメールの表現 — Business Email Phrases",
+    "japanese": "メールでよく使うフレーズ",
+    "reading": "メールでよくつかうフレーズ",
+    "meaning": "Common phrases for business emails",
+    "explanation": "Japanese business emails follow a strict format: opening greeting, introduction, main content, closing remark, and signature. The level of formality depends on the relationship.",
+    "examples": "[{\"japanese\":\"件名：○○の件について\",\"reading\":\"けんめい：○○のけんについて\",\"meaning\":\"Subject: Regarding ○○\"},{\"japanese\":\"平素より大変お世話になっております。\",\"reading\":\"へいそよりたいへんおせわになっております。\",\"meaning\":\"Thank you for your continued support (formal).\"},{\"japanese\":\"添付ファイルをご確認ください。\",\"reading\":\"てんぷファイルをごかくにんください。\",\"meaning\":\"Please check the attached file.\"},{\"japanese\":\"ご不明な点がございましたら、お気軽にご連絡ください。\",\"reading\":\"ごふめいなてんがございましたら、おきがるにごれんらくください。\",\"meaning\":\"If you have any questions, please feel free to contact us.\"},{\"japanese\":\"今後ともよろしくお願いいたします。\",\"reading\":\"こんごともよろしくおねがいいたします。\",\"meaning\":\"We look forward to your continued support.\"},{\"japanese\":\"取り急ぎご連絡まで。\",\"reading\":\"とりいそぎごれんらくまで。\",\"meaning\":\"Just a quick note (closing for brief/ urgent emails).\"}]",
+    "order": 4
+  },
+  {
+    "title": "取引先とのやり取り — Client Interactions",
+    "japanese": "お客様との会話",
+    "reading": "おきゃくさまとのかいわ",
+    "meaning": "Phrases for communicating with clients",
+    "explanation": "When interacting with clients (取引先), always use the highest level of keigo. Refer to your own company humbly and the client's company with respect.",
+    "examples": "[{\"japanese\":\"いつも大変お世話になっております。\",\"reading\":\"いつもたいへんおせわになっております。\",\"meaning\":\"Thank you very much for your continued support.\"},{\"japanese\":\"弊社の製品についてご紹介させていただきます。\",\"reading\":\"へいしゃのせいひんについてごしょうかいさせていただきます。\",\"meaning\":\"Allow me to introduce our company's products.\"},{\"japanese\":\"ご要望に沿えるよう努めます。\",\"reading\":\"ごようぼうにそえるようつとめます。\",\"meaning\":\"We will do our best to meet your requests.\"},{\"japanese\":\"大変申し訳ございませんでした。\",\"reading\":\"たいへんもうしわけございませんでした。\",\"meaning\":\"We deeply apologize (for a mistake/ delay).\"},{\"japanese\":\"ご検討のほど、よろしくお願いいたします。\",\"reading\":\"ごけんとうのほど、よろしくおねがいいたします。\",\"meaning\":\"We would appreciate your consideration.\"}]",
+    "order": 5
+  },
+  {
+    "title": "ビジネス敬語フレーズ集 — Essential Keigo Phrases",
+    "japanese": "絶対覚えたい敬語フレーズ",
+    "reading": "ぜったいおぼえたいけいごフレーズ",
+    "meaning": "Essential keigo phrases every business person must know",
+    "explanation": "These are the most commonly used keigo phrases in daily business interactions. Master these to sound professional and respectful in any Japanese workplace.",
+    "examples": "[{\"japanese\":\"お世話になっております\",\"reading\":\"おせわになっております\",\"meaning\":\"Thank you for your support (standard greeting for business partners)\"},{\"japanese\":\"かしこまりました\",\"reading\":\"かしこまりました\",\"meaning\":\"Certainly / Understood (polite acknowledgment)\"},{\"japanese\":\"承知しました\",\"reading\":\"しょうちしました\",\"meaning\":\"Understood / Acknowledged (formal)\"},{\"japanese\":\"恐れ入ります\",\"reading\":\"おそれいります\",\"meaning\":\"Excuse me / I'm sorry (polite, used to get attention or apologize)\"},{\"japanese\":\"お手数をお掛けします\",\"reading\":\"おてすうをおかけします\",\"meaning\":\"Sorry for the trouble (when asking someone to do something)\"},{\"japanese\":\"ご確認ください\",\"reading\":\"ごかくにんください\",\"meaning\":\"Please confirm / Please check\"},{\"japanese\":\"よろしくお願いいたします\",\"reading\":\"よろしくおねがいいたします\",\"meaning\":\"I look forward to working with you / Please handle this (standard closing)\"},{\"japanese\":\"失礼いたします\",\"reading\":\"しつれいいたします\",\"meaning\":\"Excuse me / Goodbye (polite, when leaving)\"}]",
+    "order": 6
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "wave": 1,
+  "phase": "P1 (Foundation & Seed Data)",
+  "completed": [
+    "Next.js 16.2 project initialized (App Router, Tailwind, TypeScript)",
+    "Prisma 7.8 schema created (User, Account, Session, VerificationToken, JLPTLevel, Lesson, VocabularyItem, KanjiCharacter, GrammarPoint, Quiz, Question, UserProgress, Bookmark)",
+    "Database: local Prisma Postgres running on port 51214",
+    "PrismaClient configured with @prisma/adapter-pg",
+    "N5 vocab seeded (804 items)",
+    "N5 kanji seeded (112 characters)",
+    "N5 grammar seeded (90 points)",
+    "N4 vocab seeded (1011 items)",
+    "N4 kanji seeded (286 characters)",
+    "N4 grammar seeded (104 points)",
+    "Lessons created for N5 and N4 (Vocabulary, Kanji, Grammar each)",
+    "Home page with JLPT level grid (N5-N1)"
+  ],
+  "next": [
+    "Auth scaffold (NextAuth.js)",
+    "Level hub pages (/n5, /n4, etc.)",
+    "Lesson/vocab/kanji/grammar content pages"
+  ],
+  "file_state": {
+    "data/n5/vocabulary.json": "COMPLETE (804 items)",
+    "data/n5/kanji.json": "COMPLETE (112 items)",
+    "data/n5/grammar.json": "COMPLETE (90 items)",
+    "data/n4/vocabulary.json": "COMPLETE (1011 items)",
+    "data/n4/kanji.json": "COMPLETE (286 items)",
+    "data/n4/grammar.json": "COMPLETE (104 items)",
+    "prisma/schema.prisma": "COMPLETE",
+    "prisma/seed.ts": "COMPLETE",
+    "src/app/page.tsx": "COMPLETE (home page)",
+    "src/lib/prisma.ts": "COMPLETE",
+    "data/work/": "NOT STARTED (Phase 5)"
+  }
+}

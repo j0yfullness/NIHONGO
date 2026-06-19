@@ -1,0 +1,219 @@
+[
+  {
+    "pattern": "〜に限って",
+    "explanation": "Especially on the occasion of / Limited to",
+    "usageRules": "Noun + に限って",
+    "exampleSentence": "彼に限って約束を破ることはない。",
+    "exampleTranslation": "He would never break a promise."
+  },
+  {
+    "pattern": "〜ものなら",
+    "explanation": "If one could (do something) / If by any chance",
+    "usageRules": "Verb (potential form) + ものなら",
+    "exampleSentence": "できるものなら、もう一度やり直したい。",
+    "exampleTranslation": "If it were possible, I would want to start over again."
+  },
+  {
+    "pattern": "〜ようものなら",
+    "explanation": "If someone were to (do something), then (bad result)",
+    "usageRules": "Verb (volitional form) + ものなら",
+    "exampleSentence": "遅刻しようものなら、社長に怒られる。",
+    "exampleTranslation": "If I were to be late, the president would get angry at me."
+  },
+  {
+    "pattern": "〜というものだ",
+    "explanation": "That is truly (something) / That is what I call",
+    "usageRules": "Noun/な-Adjective + というものだ, Verb plain + というものだ",
+    "exampleSentence": "最後まで諦めないことこそ、本当の勇気というものだ。",
+    "exampleTranslation": "Never giving up until the end is what true courage is."
+  },
+  {
+    "pattern": "〜というものではない",
+    "explanation": "It is not necessarily the case that",
+    "usageRules": "Verb plain + というものではない",
+    "exampleSentence": "給料が高ければいいというものではない。",
+    "exampleTranslation": "It is not necessarily good just because the salary is high."
+  },
+  {
+    "pattern": "〜にしても",
+    "explanation": "Even if / Even considering",
+    "usageRules": "Noun/Verb plain + にしても",
+    "exampleSentence": "忙しいにしても、連絡ぐらいはできるだろう。",
+    "exampleTranslation": "Even if you're busy, you could at least contact me."
+  },
+  {
+    "pattern": "〜にしろ／にせよ",
+    "explanation": "Even if / Regardless of",
+    "usageRules": "Noun/Verb plain + にしろ／にせよ",
+    "exampleSentence": "理由はどうであれ、遅刻したことに変わりはない。",
+    "exampleTranslation": "Whatever the reason, the fact that you were late remains unchanged."
+  },
+  {
+    "pattern": "〜を問わず",
+    "explanation": "Regardless of / Irrespective of",
+    "usageRules": "Noun + を問わず",
+    "exampleSentence": "経験を問わず、意欲のある方を募集します。",
+    "exampleTranslation": "We are recruiting motivated individuals regardless of experience."
+  },
+  {
+    "pattern": "〜はともかく",
+    "explanation": "Setting aside / Leaving aside",
+    "usageRules": "Noun + はともかく",
+    "exampleSentence": "味はともかく、量は十分だった。",
+    "exampleTranslation": "Setting aside the taste, the portion was sufficient."
+  },
+  {
+    "pattern": "〜を踏まえて",
+    "explanation": "Based on / In light of",
+    "usageRules": "Noun + を踏まえて",
+    "exampleSentence": "昨年の反省を踏まえて、今年の計画を立てる。",
+    "exampleTranslation": "We will make this year's plan based on last year's reflections."
+  },
+  {
+    "pattern": "〜にかかわらず",
+    "explanation": "Regardless of / Irrespective of",
+    "usageRules": "Noun + にかかわらず",
+    "exampleSentence": "天候にかかわらず、試合は予定通り行います。",
+    "exampleTranslation": "Regardless of the weather, the match will be held as scheduled."
+  },
+  {
+    "pattern": "〜にもかかわらず",
+    "explanation": "In spite of / Despite",
+    "usageRules": "Noun/な-Adjective + である + にもかかわらず, Verb/い-Adjective plain + にもかかわらず",
+    "exampleSentence": "雨が降っているにもかかわらず、彼は傘をささずに歩いている。",
+    "exampleTranslation": "Despite the rain, he is walking without an umbrella."
+  },
+  {
+    "pattern": "〜ものの",
+    "explanation": "Although / Even though",
+    "usageRules": "Verb/い-Adjective plain + ものの",
+    "exampleSentence": "新しいアプリをインストールしたものの、使い方がよくわからない。",
+    "exampleTranslation": "Although I installed the new app, I don't really understand how to use it."
+  },
+  {
+    "pattern": "〜つつも",
+    "explanation": "While / Even though (doing something)",
+    "usageRules": "Verb stem + つつも",
+    "exampleSentence": "勉強しなければと思いつつも、ついスマホを見てしまう。",
+    "exampleTranslation": "Even though I know I should study, I end up looking at my phone."
+  },
+  {
+    "pattern": "〜たところで",
+    "explanation": "Even if / No matter how (with little effect)",
+    "usageRules": "Verb た-form + ところで",
+    "exampleSentence": "今さら後悔したところで、結果は変わらない。",
+    "exampleTranslation": "Even if I regret it now, the result won't change."
+  },
+  {
+    "pattern": "〜にほかならない",
+    "explanation": "Is nothing but / Is exactly",
+    "usageRules": "Noun + にほかならない",
+    "exampleSentence": "今回の成功は、チーム全員の努力の結果にほかならない。",
+    "exampleTranslation": "This success is nothing but the result of the entire team's efforts."
+  },
+  {
+    "pattern": "〜にすぎない",
+    "explanation": "Merely / Nothing more than",
+    "usageRules": "Noun/Verb plain + にすぎない",
+    "exampleSentence": "彼はただの知人にすぎない。",
+    "exampleTranslation": "He is merely an acquaintance."
+  },
+  {
+    "pattern": "〜に違いない",
+    "explanation": "Must be / Without doubt",
+    "usageRules": "Noun/な-Adjective + である + に違いない, Verb/い-Adjective plain + に違いない",
+    "exampleSentence": "あの雲の様子からすると、明日は雨に違いない。",
+    "exampleTranslation": "Judging from those clouds, it must rain tomorrow."
+  },
+  {
+    "pattern": "〜かねない",
+    "explanation": "Could possibly / Is liable to (negative outcome)",
+    "usageRules": "Verb stem + かねない",
+    "exampleSentence": "そんなにスピードを出すと、事故を起こしかねない。",
+    "exampleTranslation": "If you drive that fast, you could cause an accident."
+  },
+  {
+    "pattern": "〜かねる",
+    "explanation": "Cannot / Find it difficult to",
+    "usageRules": "Verb stem + かねる",
+    "exampleSentence": "そのご要望にはお応えしかねます。",
+    "exampleTranslation": "We are unable to accommodate that request."
+  },
+  {
+    "pattern": "〜わけにはいかない",
+    "explanation": "Cannot afford to / Must not",
+    "usageRules": "Verb plain + わけにはいかない",
+    "exampleSentence": "大事な会議があるので、休むわけにはいかない。",
+    "exampleTranslation": "There is an important meeting, so I cannot afford to take the day off."
+  },
+  {
+    "pattern": "〜ないではいられない",
+    "explanation": "Cannot help but / Cannot refrain from",
+    "usageRules": "Verb ない-form + ではいられない",
+    "exampleSentence": "その話を聞いて、笑わないではいられなかった。",
+    "exampleTranslation": "Upon hearing that story, I couldn't help but laugh."
+  },
+  {
+    "pattern": "〜てやまない",
+    "explanation": "Sincerely (wish/hope) / Cannot stop (feeling)",
+    "usageRules": "Verb て-form + やまない",
+    "exampleSentence": "皆様のご健康を心よりお祈りしてやみません。",
+    "exampleTranslation": "I sincerely pray for your good health."
+  },
+  {
+    "pattern": "〜まい",
+    "explanation": "Probably not / Will not / Let's not",
+    "usageRules": "Verb plain + まい",
+    "exampleSentence": "こうなっては、もう二度と彼に会うことはあるまい。",
+    "exampleTranslation": "At this point, I will probably never see him again."
+  },
+  {
+    "pattern": "〜ないまでも",
+    "explanation": "Even if not / If not at least",
+    "usageRules": "Verb ない-form + までも",
+    "exampleSentence": "全部はできないまでも、半分ぐらいは手伝える。",
+    "exampleTranslation": "Even if I can't do all of it, I can help with at least half."
+  },
+  {
+    "pattern": "〜に沿って",
+    "explanation": "In accordance with / Along",
+    "usageRules": "Noun + に沿って",
+    "exampleSentence": "マニュアルに沿って作業を進めてください。",
+    "exampleTranslation": "Please proceed with the work in accordance with the manual."
+  },
+  {
+    "pattern": "〜に伴って",
+    "explanation": "In conjunction with / Accompanying",
+    "usageRules": "Noun + に伴って, Verb plain + に伴って",
+    "exampleSentence": "人口の増加に伴って、住宅問題が深刻化している。",
+    "exampleTranslation": "Along with the population increase, the housing problem is becoming more serious."
+  },
+  {
+    "pattern": "〜につれて",
+    "explanation": "As / Along with",
+    "usageRules": "Verb plain + につれて",
+    "exampleSentence": "技術が進歩するにつれて、私たちの生活は便利になった。",
+    "exampleTranslation": "As technology advances, our lives have become more convenient."
+  },
+  {
+    "pattern": "〜にわたって",
+    "explanation": "Over a period of / Across a range of",
+    "usageRules": "Noun + にわたって",
+    "exampleSentence": "この会議は3時間にわたって行われた。",
+    "exampleTranslation": "This meeting was held over a period of three hours."
+  },
+  {
+    "pattern": "〜を通じて／を通して",
+    "explanation": "Through / Throughout / By means of",
+    "usageRules": "Noun + を通じて／を通して",
+    "exampleSentence": "日本人は四季を通じて様々な行事を楽しむ。",
+    "exampleTranslation": "Japanese people enjoy various events throughout the four seasons."
+  },
+  {
+    "pattern": "〜際に",
+    "explanation": "On the occasion of / When",
+    "usageRules": "Noun + の + 際に, Verb plain/polite + 際に",
+    "exampleSentence": "ご利用の際には、会員カードをご提示ください。",
+    "exampleTranslation": "Please present your membership card when using the service."
+  }
+]

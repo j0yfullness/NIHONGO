@@ -1,0 +1,1675 @@
+[
+  {
+    "word": "曖昧",
+    "reading": "あいまい",
+    "meaning": "vague, ambiguous",
+    "exampleSentence": "彼の返事は曖昧で、本当の意図がよくわからなかった。",
+    "exampleTranslation": "His reply was vague, so I couldn't tell his true intention."
+  },
+  {
+    "word": "悪質",
+    "reading": "あくしつ",
+    "meaning": "malicious, bad quality",
+    "exampleSentence": "悪質な業者に騙されないよう注意が必要だ。",
+    "exampleTranslation": "One must be careful not to be tricked by malicious dealers."
+  },
+  {
+    "word": "宛先",
+    "reading": "あてさき",
+    "meaning": "destination, address",
+    "exampleSentence": "この荷物の宛先が間違っているので、至急修正してください。",
+    "exampleTranslation": "The address on this package is wrong, so please correct it immediately."
+  },
+  {
+    "word": "後悔",
+    "reading": "こうかい",
+    "meaning": "regret",
+    "exampleSentence": "あの時もっと勉強しておけばよかったと後悔している。",
+    "exampleTranslation": "I regret that I should have studied more back then."
+  },
+  {
+    "word": "暗示",
+    "reading": "あんじ",
+    "meaning": "suggestion, hint",
+    "exampleSentence": "彼はその提案に暗示をかけるように遠回しな言い方をした。",
+    "exampleTranslation": "He spoke in a roundabout way as if to hint at that suggestion."
+  },
+  {
+    "word": "安否",
+    "reading": "あんぴ",
+    "meaning": "safety, welfare",
+    "exampleSentence": "地震の後、家族の安否を確認するのに必死だった。",
+    "exampleTranslation": "After the earthquake, I was desperate to confirm my family's safety."
+  },
+  {
+    "word": "異議",
+    "reading": "いぎ",
+    "meaning": "objection, dissent",
+    "exampleSentence": "その方針に対して異議を唱える者は誰もいなかった。",
+    "exampleTranslation": "No one raised any objection to that policy."
+  },
+  {
+    "word": "維持",
+    "reading": "いじ",
+    "meaning": "maintenance, preservation",
+    "exampleSentence": "この伝統を維持するために地域の人々が努力している。",
+    "exampleTranslation": "Local people are making efforts to preserve this tradition."
+  },
+  {
+    "word": "一段と",
+    "reading": "いちだんと",
+    "meaning": "even more, all the more",
+    "exampleSentence": "紅葉の季節が近づき、山の景色が一段と美しくなった。",
+    "exampleTranslation": "As autumn foliage season approaches, the mountain scenery has become even more beautiful."
+  },
+  {
+    "word": "一括",
+    "reading": "いっかつ",
+    "meaning": "all together, batch",
+    "exampleSentence": "これらの書類は一括して処理したほうが効率的だ。",
+    "exampleTranslation": "It's more efficient to process these documents all together."
+  },
+  {
+    "word": "一貫",
+    "reading": "いっかん",
+    "meaning": "consistency, coherence",
+    "exampleSentence": "彼の主張は終始一貫しており、少しもぶれていなかった。",
+    "exampleTranslation": "His argument was consistent throughout and never wavered."
+  },
+  {
+    "word": "一切",
+    "reading": "いっさい",
+    "meaning": "all, entirely, nothing at all",
+    "exampleSentence": "その事件について私は一切関与していない。",
+    "exampleTranslation": "I have no involvement whatsoever in that incident."
+  },
+  {
+    "word": "一大",
+    "reading": "いちだい",
+    "meaning": "great, major",
+    "exampleSentence": "このプロジェクトの成功は会社にとって一大イベントだ。",
+    "exampleTranslation": "The success of this project is a major event for the company."
+  },
+  {
+    "word": "逸脱",
+    "reading": "いつだつ",
+    "meaning": "deviation, departure",
+    "exampleSentence": "彼の行動は明らかに規範から逸脱している。",
+    "exampleTranslation": "His actions clearly deviate from the norms."
+  },
+  {
+    "word": "意味合い",
+    "reading": "いみあい",
+    "meaning": "implication, nuance",
+    "exampleSentence": "この言葉には政治的な意味合いが含まれている。",
+    "exampleTranslation": "This word carries political implications."
+  },
+  {
+    "word": "言及",
+    "reading": "げんきゅう",
+    "meaning": "reference, mention",
+    "exampleSentence": "その問題については会議で一度も言及されなかった。",
+    "exampleTranslation": "That issue was never mentioned at the meeting."
+  },
+  {
+    "word": "要するに",
+    "reading": "ようするに",
+    "meaning": "in short, in a word",
+    "exampleSentence": "要するに、彼は責任を取りたくなかったのだ。",
+    "exampleTranslation": "In short, he didn't want to take responsibility."
+  },
+  {
+    "word": "甲乙",
+    "reading": "こうおつ",
+    "meaning": "superiority or inferiority",
+    "exampleSentence": "両者の実力には甲乙つけがたい。",
+    "exampleTranslation": "It's hard to say which of the two is superior."
+  },
+  {
+    "word": "却下",
+    "reading": "きゃっか",
+    "meaning": "rejection, dismissal",
+    "exampleSentence": "彼の提案は会議で却下された。",
+    "exampleTranslation": "His proposal was rejected at the meeting."
+  },
+  {
+    "word": "駆け引き",
+    "reading": "かけひき",
+    "meaning": "bargaining, tactics",
+    "exampleSentence": "国際交渉では巧みな駆け引きが重要だ。",
+    "exampleTranslation": "Skillful bargaining is important in international negotiations."
+  },
+  {
+    "word": "過剰",
+    "reading": "かじょう",
+    "meaning": "excess, surplus",
+    "exampleSentence": "過剰な包装は環境に悪影響を及ぼす。",
+    "exampleTranslation": "Excessive packaging has a negative impact on the environment."
+  },
+  {
+    "word": "仮に",
+    "reading": "かりに",
+    "meaning": "temporarily, supposing",
+    "exampleSentence": "仮にその計画が失敗した場合、どのような対策を取るべきか。",
+    "exampleTranslation": "Supposing that plan fails, what measures should we take?"
+  },
+  {
+    "word": "陥る",
+    "reading": "おちいる",
+    "meaning": "to fall into, to陷落",
+    "exampleSentence": "彼は深い悩みに陥っているようだ。",
+    "exampleTranslation": "He seems to have fallen into deep worry."
+  },
+  {
+    "word": "幹部",
+    "reading": "かんぶ",
+    "meaning": "management, executive",
+    "exampleSentence": "会社の幹部たちは緊急会議を開いた。",
+    "exampleTranslation": "The company executives held an emergency meeting."
+  },
+  {
+    "word": "関連",
+    "reading": "かんれん",
+    "meaning": "relation, connection",
+    "exampleSentence": "この事件に関連する資料をすべて集めてください。",
+    "exampleTranslation": "Please collect all documents related to this case."
+  },
+  {
+    "word": "既に",
+    "reading": "すでに",
+    "meaning": "already, previously",
+    "exampleSentence": "そのニュースは既に多くの人が知っている。",
+    "exampleTranslation": "Many people already know about that news."
+  },
+  {
+    "word": "軌道",
+    "reading": "きどう",
+    "meaning": "orbit, track, course",
+    "exampleSentence": "プロジェクトはようやく軌道に乗り始めた。",
+    "exampleTranslation": "The project has finally started to get on track."
+  },
+  {
+    "word": "規模",
+    "reading": "きぼ",
+    "meaning": "scale, scope",
+    "exampleSentence": "この地震の規模は震度7と測定された。",
+    "exampleTranslation": "The scale of this earthquake was measured at intensity 7."
+  },
+  {
+    "word": "規範",
+    "reading": "きはん",
+    "meaning": "standard, norm",
+    "exampleSentence": "社会の規範に従って行動することが求められる。",
+    "exampleTranslation": "One is expected to act according to social norms."
+  },
+  {
+    "word": "逆転",
+    "reading": "ぎゃくてん",
+    "meaning": "reversal, upset",
+    "exampleSentence": "試合終了間際に逆転勝利を収めた。",
+    "exampleTranslation": "They achieved a come-from-behind victory just before the game ended."
+  },
+  {
+    "word": "吸収",
+    "reading": "きゅうしゅう",
+    "meaning": "absorption, merger",
+    "exampleSentence": "中小企業は大企業に吸収されるケースが多い。",
+    "exampleTranslation": "Small and medium enterprises are often absorbed by large corporations."
+  },
+  {
+    "word": "強硬",
+    "reading": "きょうこう",
+    "meaning": "stubborn, hardline",
+    "exampleSentence": "政府は強硬な姿勢を崩さなかった。",
+    "exampleTranslation": "The government maintained its hardline stance."
+  },
+  {
+    "word": "強制",
+    "reading": "きょうせい",
+    "meaning": "compulsion, coercion",
+    "exampleSentence": "強制労働は国際的に禁止されている。",
+    "exampleTranslation": "Forced labor is internationally prohibited."
+  },
+  {
+    "word": "郷愁",
+    "reading": "きょうしゅう",
+    "meaning": "nostalgia, homesickness",
+    "exampleSentence": "故郷を離れて初めて、強い郷愁を覚えた。",
+    "exampleTranslation": "It was only after leaving my hometown that I felt a strong nostalgia."
+  },
+  {
+    "word": "緊迫",
+    "reading": "きんぱく",
+    "meaning": "tension, strained relations",
+    "exampleSentence": "両国間の関係は緊迫の度合いを増している。",
+    "exampleTranslation": "Relations between the two countries are increasingly tense."
+  },
+  {
+    "word": "区域",
+    "reading": "くいき",
+    "meaning": "district, zone",
+    "exampleSentence": "この区域は立ち入り禁止になっている。",
+    "exampleTranslation": "This area is off-limits."
+  },
+  {
+    "word": "訓練",
+    "reading": "くんれん",
+    "meaning": "training, drill",
+    "exampleSentence": "新人社員は一か月間の厳しい訓練を受ける。",
+    "exampleTranslation": "New employees undergo one month of rigorous training."
+  },
+  {
+    "word": "景気",
+    "reading": "けいき",
+    "meaning": "economic conditions, boom",
+    "exampleSentence": "最近の景気回復は雇用市場に良い影響を与えている。",
+    "exampleTranslation": "The recent economic recovery is having a positive effect on the job market."
+  },
+  {
+    "word": "軽蔑",
+    "reading": "けいべつ",
+    "meaning": "contempt, scorn",
+    "exampleSentence": "彼は周囲の軽蔑の視線を感じていた。",
+    "exampleTranslation": "He felt the contemptuous gazes of those around him."
+  },
+  {
+    "word": "警戒",
+    "reading": "けいかい",
+    "meaning": "caution, vigilance",
+    "exampleSentence": "警察は付近の住民に警戒を呼びかけた。",
+    "exampleTranslation": "The police called on nearby residents to be vigilant."
+  },
+  {
+    "word": "傾向",
+    "reading": "けいこう",
+    "meaning": "trend, tendency",
+    "exampleSentence": "最近の若者は車を購入しない傾向がある。",
+    "exampleTranslation": "Young people these days tend not to buy cars."
+  },
+  {
+    "word": "兼ねる",
+    "reading": "かねる",
+    "meaning": "to兼ねる, to also serve as",
+    "exampleSentence": "この部屋は寝室と書斎を兼ねている。",
+    "exampleTranslation": "This room serves as both a bedroom and a study."
+  },
+  {
+    "word": "厳しい",
+    "reading": "きびしい",
+    "meaning": "strict, severe, harsh",
+    "exampleSentence": "冬のこの地域は厳しい寒さで知られている。",
+    "exampleTranslation": "This region is known for its severe winter cold."
+  },
+  {
+    "word": "見解",
+    "reading": "けんかい",
+    "meaning": "view, opinion",
+    "exampleSentence": "専門家の間でも見解が分かれている。",
+    "exampleTranslation": "Opinions are divided even among experts."
+  },
+  {
+    "word": "現状",
+    "reading": "げんじょう",
+    "meaning": "current situation, status quo",
+    "exampleSentence": "現状を打破するためには大胆な改革が必要だ。",
+    "exampleTranslation": "Bold reform is needed to break the current situation."
+  },
+  {
+    "word": "顕著",
+    "reading": "けんちょ",
+    "meaning": "remarkable, striking",
+    "exampleSentence": "この地域では人口減少が顕著である。",
+    "exampleTranslation": "Population decline is remarkable in this region."
+  },
+  {
+    "word": "検討",
+    "reading": "けんとう",
+    "meaning": "consideration, examination",
+    "exampleSentence": "その提案については現在検討中です。",
+    "exampleTranslation": "We are currently considering that proposal."
+  },
+  {
+    "word": "公然",
+    "reading": "こうぜん",
+    "meaning": "open, public",
+    "exampleSentence": "彼の不正行為は公然の秘密だった。",
+    "exampleTranslation": "His misconduct was an open secret."
+  },
+  {
+    "word": "巧妙",
+    "reading": "こうみょう",
+    "meaning": "ingenious, skillful",
+    "exampleSentence": "詐欺師は巧妙な手口で被害者を騙した。",
+    "exampleTranslation": "The swindler tricked victims with an ingenious method."
+  },
+  {
+    "word": "効率",
+    "reading": "こうりつ",
+    "meaning": "efficiency",
+    "exampleSentence": "この新しいシステムは作業効率を大幅に向上させる。",
+    "exampleTranslation": "This new system greatly improves work efficiency."
+  },
+  {
+    "word": "控除",
+    "reading": "こうじょ",
+    "meaning": "deduction, exemption",
+    "exampleSentence": "医療費控除を受けるためには確定申告が必要だ。",
+    "exampleTranslation": "You need to file a final tax return to receive a medical expense deduction."
+  },
+  {
+    "word": "鼓動",
+    "reading": "こどう",
+    "meaning": "heartbeat, pulse",
+    "exampleSentence": "走った後、心臓の鼓動が速くなっているのがわかった。",
+    "exampleTranslation": "After running, I could feel my heart beating faster."
+  },
+  {
+    "word": "誤解",
+    "reading": "ごかい",
+    "meaning": "misunderstanding",
+    "exampleSentence": "彼の言葉は誤解を招く恐れがある。",
+    "exampleTranslation": "His words could lead to misunderstanding."
+  },
+  {
+    "word": "根本",
+    "reading": "こんぽん",
+    "meaning": "root, foundation",
+    "exampleSentence": "問題の根本を解決しなければ、再発するだろう。",
+    "exampleTranslation": "Unless we solve the root of the problem, it will recur."
+  },
+  {
+    "word": "最善",
+    "reading": "さいぜん",
+    "meaning": "one's best, the best",
+    "exampleSentence": "与えられた状況の中で最善を尽くすしかない。",
+    "exampleTranslation": "All we can do is do our best in the given situation."
+  },
+  {
+    "word": "削減",
+    "reading": "さくげん",
+    "meaning": "reduction, cut",
+    "exampleSentence": "政府は予算削減を余儀なくされた。",
+    "exampleTranslation": "The government was forced to cut the budget."
+  },
+  {
+    "word": "挫折",
+    "reading": "ざせつ",
+    "meaning": "frustration, setback",
+    "exampleSentence": "大きな挫折を経験したからこそ、今の自分がある。",
+    "exampleTranslation": "It's because I experienced major setbacks that I am who I am today."
+  },
+  {
+    "word": "暫定",
+    "reading": "ざんてい",
+    "meaning": "provisional, temporary",
+    "exampleSentence": "両社は暫定合意に達したと発表した。",
+    "exampleTranslation": "Both companies announced they had reached a provisional agreement."
+  },
+  {
+    "word": "資金",
+    "reading": "しきん",
+    "meaning": "funds, capital",
+    "exampleSentence": "この研究プロジェクトには多額の資金が必要だ。",
+    "exampleTranslation": "This research project requires a large amount of funds."
+  },
+  {
+    "word": "時点",
+    "reading": "じてん",
+    "meaning": "point in time",
+    "exampleSentence": "現時点では、その計画の詳細は決まっていない。",
+    "exampleTranslation": "At this point in time, the details of the plan have not been decided."
+  },
+  {
+    "word": "自主",
+    "reading": "じしゅ",
+    "meaning": "independence, autonomy",
+    "exampleSentence": "学生の自主的な活動を促す教育が重要だ。",
+    "exampleTranslation": "Education that encourages students' independent activities is important."
+  },
+  {
+    "word": "実感",
+    "reading": "じっかん",
+    "meaning": "real feeling, actual sense",
+    "exampleSentence": "卒業してもまだ実感がわかない。",
+    "exampleTranslation": "Even though I've graduated, it still doesn't feel real."
+  },
+  {
+    "word": "実態",
+    "reading": "じったい",
+    "meaning": "actual condition, reality",
+    "exampleSentence": "報告書には現場の実態が正確に反映されていない。",
+    "exampleTranslation": "The report does not accurately reflect the actual conditions on the ground."
+  },
+  {
+    "word": "執着",
+    "reading": "しゅうちゃく",
+    "meaning": "attachment, obsession",
+    "exampleSentence": "彼は過去の成功に執着しすぎている。",
+    "exampleTranslation": "He is too attached to past successes."
+  },
+  {
+    "word": "主流",
+    "reading": "しゅりゅう",
+    "meaning": "mainstream, main current",
+    "exampleSentence": "この考え方は現在の学界の主流となっている。",
+    "exampleTranslation": "This idea has become mainstream in the current academic world."
+  },
+  {
+    "word": "需要",
+    "reading": "じゅよう",
+    "meaning": "demand",
+    "exampleSentence": "新製品の需要は予想を大幅に上回った。",
+    "exampleTranslation": "Demand for the new product far exceeded expectations."
+  },
+  {
+    "word": "順調",
+    "reading": "じゅんちょう",
+    "meaning": "favorable, smooth",
+    "exampleSentence": "プロジェクトは順調に進んでいる。",
+    "exampleTranslation": "The project is progressing smoothly."
+  },
+  {
+    "word": "徐々に",
+    "reading": "じょじょに",
+    "meaning": "gradually, little by little",
+    "exampleSentence": "彼の健康状態は徐々に回復してきた。",
+    "exampleTranslation": "His health condition has gradually recovered."
+  },
+  {
+    "word": "将来性",
+    "reading": "しょうらいせい",
+    "meaning": "future potential, prospects",
+    "exampleSentence": "この業界には大きな将来性がある。",
+    "exampleTranslation": "This industry has great future potential."
+  },
+  {
+    "word": "触媒",
+    "reading": "しょくばい",
+    "meaning": "catalyst",
+    "exampleSentence": "彼の発言は議論の触媒となった。",
+    "exampleTranslation": "His remarks served as a catalyst for discussion."
+  },
+  {
+    "word": "若干",
+    "reading": "じゃっかん",
+    "meaning": "some, a few, slightly",
+    "exampleSentence": "予算には若干の余裕がある。",
+    "exampleTranslation": "There is a slight margin in the budget."
+  },
+  {
+    "word": "推移",
+    "reading": "すいい",
+    "meaning": "transition, change",
+    "exampleSentence": "今後の情勢の推移を注視する必要がある。",
+    "exampleTranslation": "We need to closely monitor the future course of the situation."
+  },
+  {
+    "word": "推進",
+    "reading": "すいしん",
+    "meaning": "promotion, drive forward",
+    "exampleSentence": "政府は再生可能エネルギーの推進に力を入れている。",
+    "exampleTranslation": "The government is focusing on promoting renewable energy."
+  },
+  {
+    "word": "推測",
+    "reading": "すいそく",
+    "meaning": "guess, speculation",
+    "exampleSentence": "それは単なる推測にすぎない。",
+    "exampleTranslation": "That's nothing more than pure speculation."
+  },
+  {
+    "word": "是正",
+    "reading": "ぜせい",
+    "meaning": "correction, rectification",
+    "exampleSentence": "現在の制度には是正すべき点が多くある。",
+    "exampleTranslation": "There are many points in the current system that need to be corrected."
+  },
+  {
+    "word": "製造",
+    "reading": "せいぞう",
+    "meaning": "manufacturing, production",
+    "exampleSentence": "この工場では自動車部品を製造している。",
+    "exampleTranslation": "This factory manufactures automobile parts."
+  },
+  {
+    "word": "正当",
+    "reading": "せいとう",
+    "meaning": "just, legitimate",
+    "exampleSentence": "彼の要求は正当なものだと認められた。",
+    "exampleTranslation": "His demands were recognized as legitimate."
+  },
+  {
+    "word": "整備",
+    "reading": "せいび",
+    "meaning": "maintenance, development of infrastructure",
+    "exampleSentence": "道路の整備が遅れている地域がある。",
+    "exampleTranslation": "There are areas where road infrastructure development is lagging."
+  },
+  {
+    "word": "迫る",
+    "reading": "せまる",
+    "meaning": "to approach, to迫る, to urge",
+    "exampleSentence": "締め切りが迫っているので、急がなければならない。",
+    "exampleTranslation": "The deadline is approaching, so we must hurry."
+  },
+  {
+    "word": "贈呈",
+    "reading": "ぞうてい",
+    "meaning": "presentation, gift-giving",
+    "exampleSentence": "卒業式で記念品が贈呈された。",
+    "exampleTranslation": "Commemorative gifts were presented at the graduation ceremony."
+  },
+  {
+    "word": "措置",
+    "reading": "そち",
+    "meaning": "measure, step",
+    "exampleSentence": "政府は緊急措置を講じることにした。",
+    "exampleTranslation": "The government decided to take emergency measures."
+  },
+  {
+    "word": "粗末",
+    "reading": "そまつ",
+    "meaning": "coarse, crude, shabby",
+    "exampleSentence": "その粗末な扱いに彼は怒りを感じた。",
+    "exampleTranslation": "He felt anger at the shabby treatment."
+  },
+  {
+    "word": "存続",
+    "reading": "そんぞく",
+    "meaning": "continuation, survival",
+    "exampleSentence": "この伝統芸能の存続は危ぶまれている。",
+    "exampleTranslation": "The survival of this traditional performing art is in jeopardy."
+  },
+  {
+    "word": "対処",
+    "reading": "たいしょ",
+    "meaning": "deal with, cope with",
+    "exampleSentence": "問題が発生した場合は迅速に対処する必要がある。",
+    "exampleTranslation": "When problems occur, we need to deal with them promptly."
+  },
+  {
+    "word": "対象",
+    "reading": "たいしょう",
+    "meaning": "target, subject",
+    "exampleSentence": "このアンケートの対象は20代の女性です。",
+    "exampleTranslation": "The target of this survey is women in their twenties."
+  },
+  {
+    "word": "体制",
+    "reading": "たいせい",
+    "meaning": "system, structure, regime",
+    "exampleSentence": "新しい管理体制のもとで業務を進める。",
+    "exampleTranslation": "We will proceed with operations under the new management system."
+  },
+  {
+    "word": "態勢",
+    "reading": "たいせい",
+    "meaning": "stance, posture, readiness",
+    "exampleSentence": "会社は新規事業に進出する態勢を整えている。",
+    "exampleTranslation": "The company is preparing to enter a new business."
+  },
+  {
+    "word": "大胆",
+    "reading": "だいたん",
+    "meaning": "bold, daring",
+    "exampleSentence": "彼の大胆な提案に会場は驚きに包まれた。",
+    "exampleTranslation": "The audience was filled with surprise at his bold proposal."
+  },
+  {
+    "word": "打開",
+    "reading": "だかい",
+    "meaning": "breakthrough, opening up",
+    "exampleSentence": "膠着状態を打開するための新しい戦略が必要だ。",
+    "exampleTranslation": "A new strategy is needed to break the deadlock."
+  },
+  {
+    "word": "多元的",
+    "reading": "たげんてき",
+    "meaning": "pluralistic,多元化",
+    "exampleSentence": "現代社会は多元的な価値観が共存している。",
+    "exampleTranslation": "Modern society has a coexistence of pluralistic values."
+  },
+  {
+    "word": "駄目",
+    "reading": "だめ",
+    "meaning": "no good, useless, hopeless",
+    "exampleSentence": "何度やっても駄目だった。",
+    "exampleTranslation": "No matter how many times I tried, it was no good."
+  },
+  {
+    "word": "蓄積",
+    "reading": "ちくせき",
+    "meaning": "accumulation",
+    "exampleSentence": "長年の経験の蓄積が彼の強みだ。",
+    "exampleTranslation": "The accumulation of years of experience is his strength."
+  },
+  {
+    "word": "秩序",
+    "reading": "ちつじょ",
+    "meaning": "order, discipline",
+    "exampleSentence": "社会の秩序を維持するためには法の遵守が不可欠だ。",
+    "exampleTranslation": "Compliance with the law is essential to maintain social order."
+  },
+  {
+    "word": "着手",
+    "reading": "ちゃくしゅ",
+    "meaning": "commencement, start",
+    "exampleSentence": "来月から新しいプロジェクトに着手する予定だ。",
+    "exampleTranslation": "We plan to start a new project from next month."
+  },
+  {
+    "word": "超越",
+    "reading": "ちょうえつ",
+    "meaning": "transcendence",
+    "exampleSentence": "彼の芸術は時代を超越している。",
+    "exampleTranslation": "His art transcends the times."
+  },
+  {
+    "word": "長期",
+    "reading": "ちょうき",
+    "meaning": "long-term",
+    "exampleSentence": "長期の計画を立てることは重要だ。",
+    "exampleTranslation": "Making long-term plans is important."
+  },
+  {
+    "word": "諦め",
+    "reading": "あきらめ",
+    "meaning": "resignation, giving up",
+    "exampleSentence": "彼の目には諦めの色が浮かんでいた。",
+    "exampleTranslation": "A look of resignation appeared in his eyes."
+  },
+  {
+    "word": "追究",
+    "reading": "ついきゅう",
+    "meaning": "pursuit, investigation",
+    "exampleSentence": "学者は真理を追究する使命がある。",
+    "exampleTranslation": "Scholars have a mission to pursue the truth."
+  },
+  {
+    "word": "潰れる",
+    "reading": "つぶれる",
+    "meaning": "to be crushed, to go bankrupt",
+    "exampleSentence": "不況で多くの小企業が潰れてしまった。",
+    "exampleTranslation": "Many small businesses went bankrupt due to the recession."
+  },
+  {
+    "word": "定義",
+    "reading": "ていぎ",
+    "meaning": "definition",
+    "exampleSentence": "この用語の定義は明確ではない。",
+    "exampleTranslation": "The definition of this term is not clear."
+  },
+  {
+    "word": "定着",
+    "reading": "ていちゃく",
+    "meaning": "establishment, fixation",
+    "exampleSentence": "この習慣は日本社会に完全に定着している。",
+    "exampleTranslation": "This custom has become completely established in Japanese society."
+  },
+  {
+    "word": "停滞",
+    "reading": "ていたい",
+    "meaning": "stagnation, standstill",
+    "exampleSentence": "経済の停滞が長引いている。",
+    "exampleTranslation": "The economic stagnation is prolonged."
+  },
+  {
+    "word": "典型",
+    "reading": "てんけい",
+    "meaning": "typical example, model",
+    "exampleSentence": "これは日本文化の典型と言える。",
+    "exampleTranslation": "This can be called a typical example of Japanese culture."
+  },
+  {
+    "word": "転換",
+    "reading": "てんかん",
+    "meaning": "conversion, shift",
+    "exampleSentence": "会社は事業の転換を余儀なくされた。",
+    "exampleTranslation": "The company was forced to shift its business."
+  },
+  {
+    "word": "投入",
+    "reading": "とうにゅう",
+    "meaning": "input, investment,投入",
+    "exampleSentence": "このプロジェクトには多額の資金が投入されている。",
+    "exampleTranslation": "A large amount of funds has been invested in this project."
+  },
+  {
+    "word": "当選",
+    "reading": "とうせん",
+    "meaning": "winning an election, being elected",
+    "exampleSentence": "彼は三回目の挑戦で当選を果たした。",
+    "exampleTranslation": "He achieved election on his third attempt."
+  },
+  {
+    "word": "統合",
+    "reading": "とうごう",
+    "meaning": "integration, unification",
+    "exampleSentence": "両社の統合によって大きなシナジー効果が期待できる。",
+    "exampleTranslation": "Great synergy effects can be expected from the integration of the two companies."
+  },
+  {
+    "word": "動作",
+    "reading": "どうさ",
+    "meaning": "operation, movement",
+    "exampleSentence": "この機械の動作には最新のソフトウェアが必要だ。",
+    "exampleTranslation": "This machine requires the latest software to operate."
+  },
+  {
+    "word": "洞察",
+    "reading": "どうさつ",
+    "meaning": "insight, discernment",
+    "exampleSentence": "彼の鋭い洞察にはいつも感心させられる。",
+    "exampleTranslation": "I am always impressed by his keen insight."
+  },
+  {
+    "word": "独自",
+    "reading": "どくじ",
+    "meaning": "unique, original",
+    "exampleSentence": "この会社は独自の技術を持っている。",
+    "exampleTranslation": "This company has its own unique technology."
+  },
+  {
+    "word": "内訳",
+    "reading": "うちわけ",
+    "meaning": "breakdown, itemization",
+    "exampleSentence": "経費の内訳を詳しく説明してください。",
+    "exampleTranslation": "Please explain the breakdown of expenses in detail."
+  },
+  {
+    "word": "難点",
+    "reading": "なんてん",
+    "meaning": "difficulty, defect",
+    "exampleSentence": "この計画にはいくつかの難点がある。",
+    "exampleTranslation": "This plan has several difficulties."
+  },
+  {
+    "word": "認知",
+    "reading": "にんち",
+    "meaning": "recognition, cognition",
+    "exampleSentence": "高齢者の認知機能を維持するための研究が進んでいる。",
+    "exampleTranslation": "Research is progressing on maintaining cognitive function in the elderly."
+  },
+  {
+    "word": "念頭",
+    "reading": "ねんとう",
+    "meaning": "mind, attention",
+    "exampleSentence": "常に顧客のニーズを念頭に置いて行動すべきだ。",
+    "exampleTranslation": "We should always act with the customer's needs in mind."
+  },
+  {
+    "word": "把握",
+    "reading": "はあく",
+    "meaning": "grasp, understanding",
+    "exampleSentence": "まず現状を正確に把握することが重要だ。",
+    "exampleTranslation": "First, it's important to accurately grasp the current situation."
+  },
+  {
+    "word": "配慮",
+    "reading": "はいりょ",
+    "meaning": "consideration, thoughtfulness",
+    "exampleSentence": "彼の配慮にはいつも感謝している。",
+    "exampleTranslation": "I am always grateful for his consideration."
+  },
+  {
+    "word": "発足",
+    "reading": "はっそく",
+    "meaning": "establishment, inauguration",
+    "exampleSentence": "この委員会は昨年の四月に発足した。",
+    "exampleTranslation": "This committee was established in April of last year."
+  },
+  {
+    "word": "幅広い",
+    "reading": "はばひろい",
+    "meaning": "wide-ranging, broad",
+    "exampleSentence": "彼は幅広い知識を持っている。",
+    "exampleTranslation": "He has a wide range of knowledge."
+  },
+  {
+    "word": "控える",
+    "reading": "ひかえる",
+    "meaning": "to refrain, to be restrained, to be imminent",
+    "exampleSentence": "試験を控えて、彼は遊ぶのを控えている。",
+    "exampleTranslation": "With exams coming up, he's refraining from playing."
+  },
+  {
+    "word": "沈滞",
+    "reading": "ちんたい",
+    "meaning": "stagnation, dullness",
+    "exampleSentence": "長引く沈滞から脱却するためには大胆な政策が必要だ。",
+    "exampleTranslation": "Bold policies are needed to escape from the prolonged stagnation."
+  },
+  {
+    "word": "頻繁",
+    "reading": "ひんぱん",
+    "meaning": "frequent",
+    "exampleSentence": "最近、彼と連絡を取る頻繁さが減った。",
+    "exampleTranslation": "Recently, the frequency of contacting him has decreased."
+  },
+  {
+    "word": "付随",
+    "reading": "ふずい",
+    "meaning": "accompanying, incidental",
+    "exampleSentence": "この契約には付随的な条件がいくつかある。",
+    "exampleTranslation": "There are several incidental conditions in this contract."
+  },
+  {
+    "word": "腐敗",
+    "reading": "ふはい",
+    "meaning": "corruption, decay",
+    "exampleSentence": "政治の腐敗を一掃する必要がある。",
+    "exampleTranslation": "We need to eradicate political corruption."
+  },
+  {
+    "word": "部分",
+    "reading": "ぶぶん",
+    "meaning": "part, portion",
+    "exampleSentence": "問題の一部の部分だけを見ても全体像はわからない。",
+    "exampleTranslation": "Looking at only part of the problem won't give you the whole picture."
+  },
+  {
+    "word": "分析",
+    "reading": "ぶんせき",
+    "meaning": "analysis",
+    "exampleSentence": "データの分析結果を明日の会議で発表する。",
+    "exampleTranslation": "We will present the data analysis results at tomorrow's meeting."
+  },
+  {
+    "word": "弊害",
+    "reading": "へいがい",
+    "meaning": "harmful effect, evil",
+    "exampleSentence": "長時間労働は健康に様々な弊害をもたらす。",
+    "exampleTranslation": "Long working hours bring various harmful effects to health."
+  },
+  {
+    "word": "変化",
+    "reading": "へんか",
+    "meaning": "change, variation",
+    "exampleSentence": "社会の急速な変化に対応するのは容易ではない。",
+    "exampleTranslation": "It is not easy to cope with rapid social changes."
+  },
+  {
+    "word": "偏向",
+    "reading": "へんこう",
+    "meaning": "bias,倾向",
+    "exampleSentence": "その報道には偏向が見られると批判された。",
+    "exampleTranslation": "The reporting was criticized for showing bias."
+  },
+  {
+    "word": "補足",
+    "reading": "ほそく",
+    "meaning": "supplement,补充",
+    "exampleSentence": "先ほどの説明に補足させていただきます。",
+    "exampleTranslation": "Allow me to add a supplement to my earlier explanation."
+  },
+  {
+    "word": "保有",
+    "reading": "ほゆう",
+    "meaning": "possession, holding",
+    "exampleSentence": "同社は大量の現金を保有している。",
+    "exampleTranslation": "The company holds a large amount of cash."
+  },
+  {
+    "word": "没落",
+    "reading": "ぼつらく",
+    "meaning": "ruin, downfall",
+    "exampleSentence": "その一族は戦争で没落した。",
+    "exampleTranslation": "That family fell into ruin because of the war."
+  },
+  {
+    "word": "摩擦",
+    "reading": "まさつ",
+    "meaning": "friction, conflict",
+    "exampleSentence": "両国の間には貿易摩擦が生じている。",
+    "exampleTranslation": "Trade friction has arisen between the two countries."
+  },
+  {
+    "word": "末期",
+    "reading": "まっき",
+    "meaning": "last period, final stage",
+    "exampleSentence": "その文明は末期状態にあった。",
+    "exampleTranslation": "That civilization was in its final stages."
+  },
+  {
+    "word": "密集",
+    "reading": "みっしゅう",
+    "meaning": "dense, crowded",
+    "exampleSentence": "人口が密集した都市部では感染症が広がりやすい。",
+    "exampleTranslation": "In densely populated urban areas, infectious diseases spread easily."
+  },
+  {
+    "word": "密度",
+    "reading": "みつど",
+    "meaning": "density",
+    "exampleSentence": "この地域の人口密度は全国平均を上回っている。",
+    "exampleTranslation": "The population density of this region exceeds the national average."
+  },
+  {
+    "word": "綿密",
+    "reading": "めんみつ",
+    "meaning": "detailed, meticulous",
+    "exampleSentence": "綿密な調査の結果、新たな事実が判明した。",
+    "exampleTranslation": "As a result of a detailed investigation, new facts came to light."
+  },
+  {
+    "word": "免税",
+    "reading": "めんぜい",
+    "meaning": "tax exemption, duty-free",
+    "exampleSentence": "空港の免税店で買い物をした。",
+    "exampleTranslation": "I shopped at the duty-free store at the airport."
+  },
+  {
+    "word": "矛盾",
+    "reading": "むじゅん",
+    "meaning": "contradiction",
+    "exampleSentence": "彼の言動には矛盾が多い。",
+    "exampleTranslation": "There are many contradictions in his words and actions."
+  },
+  {
+    "word": "命名",
+    "reading": "めいめい",
+    "meaning": "naming, designation",
+    "exampleSentence": "新しい元素に彼の名が命名された。",
+    "exampleTranslation": "The new element was named after him."
+  },
+  {
+    "word": "目安",
+    "reading": "めやす",
+    "meaning": "standard, guideline, rough estimate",
+    "exampleSentence": "完成の目安は来月の下旬です。",
+    "exampleTranslation": "The rough estimate for completion is the end of next month."
+  },
+  {
+    "word": "朦朧",
+    "reading": "もうろう",
+    "meaning": "dim, hazy,朦胧",
+    "exampleSentence": "酒に酔って意識が朦朧としている。",
+    "exampleTranslation": "I'm drunk and my consciousness is hazy."
+  },
+  {
+    "word": "野心的",
+    "reading": "やしんてき",
+    "meaning": "ambitious",
+    "exampleSentence": "彼の野心的な計画には驚かされた。",
+    "exampleTranslation": "I was surprised by his ambitious plan."
+  },
+  {
+    "word": "優位",
+    "reading": "ゆうい",
+    "meaning": "superiority, advantage",
+    "exampleSentence": "この分野では日本企業が優位に立っている。",
+    "exampleTranslation": "Japanese companies hold a superior position in this field."
+  },
+  {
+    "word": "有能",
+    "reading": "ゆうのう",
+    "meaning": "capable, competent",
+    "exampleSentence": "彼女は有能なリーダーとして知られている。",
+    "exampleTranslation": "She is known as a capable leader."
+  },
+  {
+    "word": "誘致",
+    "reading": "ゆうち",
+    "meaning": "invitation, attraction",
+    "exampleSentence": "市は企業誘致に積極的に取り組んでいる。",
+    "exampleTranslation": "The city is actively working to attract businesses."
+  },
+  {
+    "word": "融合",
+    "reading": "ゆうごう",
+    "meaning": "fusion, merger",
+    "exampleSentence": "異なる文化の融合から新しい価値が生まれる。",
+    "exampleTranslation": "New values are born from the fusion of different cultures."
+  },
+  {
+    "word": "要因",
+    "reading": "よういん",
+    "meaning": "cause, factor",
+    "exampleSentence": "この問題の要因は複雑で単純に説明できない。",
+    "exampleTranslation": "The factors behind this problem are complex and cannot be simply explained."
+  },
+  {
+    "word": "用途",
+    "reading": "ようと",
+    "meaning": "use, application",
+    "exampleSentence": "この製品は多様な用途に対応している。",
+    "exampleTranslation": "This product supports a variety of applications."
+  },
+  {
+    "word": "抑制",
+    "reading": "よくせい",
+    "meaning": "suppression, control",
+    "exampleSentence": "インフレを抑制するために金利が引き上げられた。",
+    "exampleTranslation": "Interest rates were raised to suppress inflation."
+  },
+  {
+    "word": "余地",
+    "reading": "よち",
+    "meaning": "room, scope,余地",
+    "exampleSentence": "この計画には改善の余地がまだある。",
+    "exampleTranslation": "There is still room for improvement in this plan."
+  },
+  {
+    "word": "予防",
+    "reading": "よぼう",
+    "meaning": "prevention",
+    "exampleSentence": "病気の予防には十分な睡眠とバランスの取れた食事が重要だ。",
+    "exampleTranslation": "Adequate sleep and a balanced diet are important for disease prevention."
+  },
+  {
+    "word": "来歴",
+    "reading": "らいれき",
+    "meaning": "history, background",
+    "exampleSentence": "この作品の来歴について詳しく調べている。",
+    "exampleTranslation": "I am researching the provenance of this work in detail."
+  },
+  {
+    "word": "乱暴",
+    "reading": "らんぼう",
+    "meaning": "rough, violent",
+    "exampleSentence": "彼の乱暴な物言いに腹が立った。",
+    "exampleTranslation": "I got angry at his rough way of speaking."
+  },
+  {
+    "word": "利点",
+    "reading": "りてん",
+    "meaning": "advantage, merit",
+    "exampleSentence": "この方法の利点はコストが低いことだ。",
+    "exampleTranslation": "The advantage of this method is its low cost."
+  },
+  {
+    "word": "臨時",
+    "reading": "りんじ",
+    "meaning": "temporary, special",
+    "exampleSentence": "臨時列車が運行されることになった。",
+    "exampleTranslation": "It was decided that a temporary train would be operated."
+  },
+  {
+    "word": "例年",
+    "reading": "れいねん",
+    "meaning": "usual, average year",
+    "exampleSentence": "今年の冬は例年に比べて暖かい。",
+    "exampleTranslation": "This winter is warmer compared to an average year."
+  },
+  {
+    "word": "連鎖",
+    "reading": "れんさ",
+    "meaning": "chain,连锁",
+    "exampleSentence": "その事件は悲劇的な連鎖を引き起こした。",
+    "exampleTranslation": "That incident triggered a tragic chain of events."
+  },
+  {
+    "word": "露骨",
+    "reading": "ろこつ",
+    "meaning": "blunt,露骨, explicit",
+    "exampleSentence": "彼は露骨に嫌な顔をした。",
+    "exampleTranslation": "He made an openly disgusted face."
+  },
+  {
+    "word": "論争",
+    "reading": "ろんそう",
+    "meaning": "controversy, dispute",
+    "exampleSentence": "その法案をめぐって激しい論争が繰り広げられた。",
+    "exampleTranslation": "A heated controversy unfolded over the bill."
+  },
+  {
+    "word": "悪化",
+    "reading": "あっか",
+    "meaning": "deterioration, worsening",
+    "exampleSentence": "病状が急激に悪化したため、緊急手術が行われた。",
+    "exampleTranslation": "An emergency surgery was performed because his condition rapidly deteriorated."
+  },
+  {
+    "word": "圧倒",
+    "reading": "あっとう",
+    "meaning": "overwhelming",
+    "exampleSentence": "彼は圧倒的な強さで相手を打ち負かした。",
+    "exampleTranslation": "He defeated his opponent with overwhelming strength."
+  },
+  {
+    "word": "安泰",
+    "reading": "あんたい",
+    "meaning": "safety, security",
+    "exampleSentence": "現状が永遠に安泰であるとは限らない。",
+    "exampleTranslation": "The current situation may not remain secure forever."
+  },
+  {
+    "word": "萎縮",
+    "reading": "いしゅく",
+    "meaning": "shrinkage,萎缩, intimidation",
+    "exampleSentence": "批判を恐れて萎縮してしまうのはよくない。",
+    "exampleTranslation": "It's not good to shrink back in fear of criticism."
+  },
+  {
+    "word": "逸話",
+    "reading": "いつわ",
+    "meaning": "anecdote, episode",
+    "exampleSentence": "彼の若い頃の逸話を聞かせてもらった。",
+    "exampleTranslation": "I got to hear anecdotes from when he was young."
+  },
+  {
+    "word": "寓意",
+    "reading": "ぐうい",
+    "meaning": "allegory,寓意",
+    "exampleSentence": "この物語には深い寓意が込められている。",
+    "exampleTranslation": "This story contains a deep allegory."
+  },
+  {
+    "word": "運用",
+    "reading": "うんよう",
+    "meaning": "operation, management",
+    "exampleSentence": "資金の運用は専門家に任せたほうがいい。",
+    "exampleTranslation": "It's better to leave fund management to the experts."
+  },
+  {
+    "word": "栄枯盛衰",
+    "reading": "えいこせいすい",
+    "meaning": "rise and fall, vicissitudes",
+    "exampleSentence": "歴史は栄枯盛衰の繰り返しである。",
+    "exampleTranslation": "History is a repetition of rise and fall."
+  },
+  {
+    "word": "汚染",
+    "reading": "おせん",
+    "meaning": "pollution, contamination",
+    "exampleSentence": "工場からの排水による環境汚染が深刻な問題になっている。",
+    "exampleTranslation": "Environmental pollution from factory wastewater has become a serious problem."
+  },
+  {
+    "word": "温存",
+    "reading": "おんぞん",
+    "meaning": "preservation, conservation",
+    "exampleSentence": "体力を温存するために、今日は早めに休むことにした。",
+    "exampleTranslation": "I decided to rest early today to preserve my energy."
+  },
+  {
+    "word": "改廃",
+    "reading": "かいはい",
+    "meaning": "revision and abolition",
+    "exampleSentence": "時代に合わない法律は改廃すべきだ。",
+    "exampleTranslation": "Laws that don't fit the times should be revised or abolished."
+  },
+  {
+    "word": "開拓",
+    "reading": "かいたく",
+    "meaning": "development, reclamation",
+    "exampleSentence": "新市場を開拓するために海外進出を決めた。",
+    "exampleTranslation": "We decided to expand overseas to develop new markets."
+  },
+  {
+    "word": "介護",
+    "reading": "かいご",
+    "meaning": "nursing care",
+    "exampleSentence": "高齢化社会において介護の問題はますます重要になっている。",
+    "exampleTranslation": "Nursing care issues are becoming increasingly important in an aging society."
+  },
+  {
+    "word": "改修",
+    "reading": "かいしゅう",
+    "meaning": "repair, renovation",
+    "exampleSentence": "この建物は大規模な改修工事が行われている。",
+    "exampleTranslation": "Large-scale renovation work is being done on this building."
+  },
+  {
+    "word": "該当",
+    "reading": "がいとう",
+    "meaning": "applicable, corresponding",
+    "exampleSentence": "この条件に該当する方は申し出てください。",
+    "exampleTranslation": "If this condition applies to you, please come forward."
+  },
+  {
+    "word": "楽観",
+    "reading": "らっかん",
+    "meaning": "optimism",
+    "exampleSentence": "彼は何事にも楽観的な態度を崩さない。",
+    "exampleTranslation": "He never fails to maintain an optimistic attitude toward everything."
+  },
+  {
+    "word": "感慨",
+    "reading": "かんがい",
+    "meaning": "deep emotion,感慨",
+    "exampleSentence": "卒業式で感慨無量だった。",
+    "exampleTranslation": "I was filled with deep emotion at the graduation ceremony."
+  },
+  {
+    "word": "簡潔",
+    "reading": "かんけつ",
+    "meaning": "concise, brief",
+    "exampleSentence": "彼のスピーチは簡潔でわかりやすかった。",
+    "exampleTranslation": "His speech was concise and easy to understand."
+  },
+  {
+    "word": "観念",
+    "reading": "かんねん",
+    "meaning": "idea, notion, resignation",
+    "exampleSentence": "彼は成功を完全に観念したようだ。",
+    "exampleTranslation": "He seems to have completely given up on success."
+  },
+  {
+    "word": "欺瞞",
+    "reading": "ぎまん",
+    "meaning": "deception, fraud",
+    "exampleSentence": "その政治家の欺瞞的な発言に国民は怒った。",
+    "exampleTranslation": "The public was angered by the politician's deceptive statements."
+  },
+  {
+    "word": "逆境",
+    "reading": "ぎゃっきょう",
+    "meaning": "adversity,逆境",
+    "exampleSentence": "彼は逆境に負けずに夢を追い続けた。",
+    "exampleTranslation": "He continued to pursue his dreams without succumbing to adversity."
+  },
+  {
+    "word": "救命",
+    "reading": "きゅうめい",
+    "meaning": "life-saving",
+    "exampleSentence": "救命措置のおかげで一命を取り留めた。",
+    "exampleTranslation": "Thanks to life-saving measures, he was able to hold onto his life."
+  },
+  {
+    "word": "供給",
+    "reading": "きょうきゅう",
+    "meaning": "supply",
+    "exampleSentence": "需要に対して供給が追いついていない。",
+    "exampleTranslation": "Supply is not keeping up with demand."
+  },
+  {
+    "word": "境遇",
+    "reading": "きょうぐう",
+    "meaning": "circumstances, situation",
+    "exampleSentence": "人の境遇は生まれ育った環境に大きく左右される。",
+    "exampleTranslation": "A person's circumstances are greatly influenced by the environment they grew up in."
+  },
+  {
+    "word": "協調",
+    "reading": "きょうちょう",
+    "meaning": "cooperation, harmony",
+    "exampleSentence": "チームワークにはメンバー間の協調が不可欠だ。",
+    "exampleTranslation": "Cooperation among members is essential for teamwork."
+  },
+  {
+    "word": "拒否",
+    "reading": "きょひ",
+    "meaning": "refusal, rejection",
+    "exampleSentence": "彼はその申し出をきっぱりと拒否した。",
+    "exampleTranslation": "He flatly refused the offer."
+  },
+  {
+    "word": "勤勉",
+    "reading": "きんべん",
+    "meaning": "diligence, industry",
+    "exampleSentence": "彼の成功は勤勉の賜物である。",
+    "exampleTranslation": "His success is the fruit of diligence."
+  },
+  {
+    "word": "区別",
+    "reading": "くべつ",
+    "meaning": "distinction, difference",
+    "exampleSentence": "この二つの言葉の区別があいまいだ。",
+    "exampleTranslation": "The distinction between these two words is unclear."
+  },
+  {
+    "word": "経緯",
+    "reading": "けいい",
+    "meaning": "details, circumstances",
+    "exampleSentence": "このプロジェクトに至った経緯を説明します。",
+    "exampleTranslation": "I will explain the circumstances that led to this project."
+  },
+  {
+    "word": "敬遠",
+    "reading": "けいえん",
+    "meaning": "keeping at a distance, shunning",
+    "exampleSentence": "彼は話題が変わると敬遠気味になった。",
+    "exampleTranslation": "He tended to distance himself when the topic changed."
+  },
+  {
+    "word": "契約",
+    "reading": "けいやく",
+    "meaning": "contract, agreement",
+    "exampleSentence": "契約の更新を来月に控えている。",
+    "exampleTranslation": "We have the contract renewal coming up next month."
+  },
+  {
+    "word": "見地",
+    "reading": "けんち",
+    "meaning": "point of view, standpoint",
+    "exampleSentence": "法的な見地からこの問題を検討する必要がある。",
+    "exampleTranslation": "We need to examine this issue from a legal standpoint."
+  },
+  {
+    "word": "原状",
+    "reading": "げんじょう",
+    "meaning": "original state, status quo ante",
+    "exampleSentence": "借りた物は原状に戻して返却するのが礼儀だ。",
+    "exampleTranslation": "It's polite to return borrowed items to their original state."
+  },
+  {
+    "word": "公表",
+    "reading": "こうひょう",
+    "meaning": "official announcement, publication",
+    "exampleSentence": "調査結果は来週公表される予定だ。",
+    "exampleSentence": "The survey results are scheduled to be published next week."
+  },
+  {
+    "word": "公正",
+    "reading": "こうせい",
+    "meaning": "fairness, justice",
+    "exampleSentence": "公正な審査が行われることを期待する。",
+    "exampleTranslation": "I expect a fair examination to be conducted."
+  },
+  {
+    "word": "誇張",
+    "reading": "こちょう",
+    "meaning": "exaggeration",
+    "exampleSentence": "彼の話は誇張が多くて信じられない。",
+    "exampleTranslation": "His stories have too many exaggerations and can't be believed."
+  },
+  {
+    "word": "故障",
+    "reading": "こしょう",
+    "meaning": "breakdown, malfunction",
+    "exampleSentence": "エアコンの故障で部屋がとても暑い。",
+    "exampleTranslation": "The room is very hot because the air conditioner is broken."
+  },
+  {
+    "word": "混同",
+    "reading": "こんどう",
+    "meaning": "confusion, mixing up",
+    "exampleSentence": "この二つの概念を混同してはいけない。",
+    "exampleTranslation": "You must not confuse these two concepts."
+  },
+  {
+    "word": "削除",
+    "reading": "さくじょ",
+    "meaning": "deletion, removal",
+    "exampleSentence": "個人情報はすぐに削除してください。",
+    "exampleTranslation": "Please delete the personal information immediately."
+  },
+  {
+    "word": "残虐",
+    "reading": "ざんぎゃく",
+    "meaning": "cruelty, brutality",
+    "exampleSentence": "その残虐な行為は世界中から非難された。",
+    "exampleTranslation": "The brutal act was condemned from around the world."
+  },
+  {
+    "word": "思索",
+    "reading": "しさく",
+    "meaning": "thought, contemplation",
+    "exampleSentence": "彼は人生の意味について思索を巡らせた。",
+    "exampleTranslation": "He pondered over the meaning of life."
+  },
+  {
+    "word": "支配",
+    "reading": "しはい",
+    "meaning": "control, domination",
+    "exampleSentence": "その国は長年独裁者に支配されていた。",
+    "exampleTranslation": "That country was dominated by a dictator for many years."
+  },
+  {
+    "word": "周辺",
+    "reading": "しゅうへん",
+    "meaning": "surroundings, periphery",
+    "exampleSentence": "駅周辺には多くの店がある。",
+    "exampleTranslation": "There are many shops around the station."
+  },
+  {
+    "word": "渋滞",
+    "reading": "じゅうたい",
+    "meaning": "traffic jam, congestion",
+    "exampleSentence": "高速道路は連休の影響で激しく渋滞している。",
+    "exampleTranslation": "The expressway is heavily congested due to the long weekend."
+  },
+  {
+    "word": "重視",
+    "reading": "じゅうし",
+    "meaning": "emphasis, putting importance on",
+    "exampleSentence": "当社は顧客満足を何よりも重視している。",
+    "exampleTranslation": "Our company places the highest importance on customer satisfaction."
+  },
+  {
+    "word": "純粋",
+    "reading": "じゅんすい",
+    "meaning": "pure, genuine",
+    "exampleSentence": "彼の動機は純粋なものだった。",
+    "exampleTranslation": "His motives were pure."
+  },
+  {
+    "word": "称賛",
+    "reading": "しょうさん",
+    "meaning": "praise, acclaim",
+    "exampleSentence": "彼の功績は広く称賛されている。",
+    "exampleTranslation": "His achievements are widely praised."
+  },
+  {
+    "word": "情境",
+    "reading": "じょうきょう",
+    "meaning": "circumstances, situation",
+    "exampleSentence": "この詩は当時の社会情境を反映している。",
+    "exampleTranslation": "This poem reflects the social circumstances of the time."
+  },
+  {
+    "word": "食欲",
+    "reading": "しょくよく",
+    "meaning": "appetite",
+    "exampleSentence": "暑すぎて食欲がまったくない。",
+    "exampleTranslation": "It's so hot that I have no appetite at all."
+  },
+  {
+    "word": "深化",
+    "reading": "しんか",
+    "meaning": "deepening, intensification",
+    "exampleSentence": "両国の関係はより一層深化した。",
+    "exampleTranslation": "The relationship between the two countries has deepened even further."
+  },
+  {
+    "word": "審議",
+    "reading": "しんぎ",
+    "meaning": "deliberation, discussion",
+    "exampleSentence": "国会でその法案が審議されている。",
+    "exampleTranslation": "The bill is being deliberated in the Diet."
+  },
+  {
+    "word": "衰退",
+    "reading": "すいたい",
+    "meaning": "decline, decay",
+    "exampleSentence": "伝統産業の衰退が深刻な問題となっている。",
+    "exampleTranslation": "The decline of traditional industries has become a serious problem."
+  },
+  {
+    "word": "推薦",
+    "reading": "すいせん",
+    "meaning": "recommendation",
+    "exampleSentence": "彼を次のプロジェクトリーダーに推薦します。",
+    "exampleTranslation": "I recommend him as the next project leader."
+  },
+  {
+    "word": "整然",
+    "reading": "せいぜん",
+    "meaning": "orderly, neat",
+    "exampleSentence": "資料は整然と整理されていた。",
+    "exampleTranslation": "The documents were arranged in an orderly manner."
+  },
+  {
+    "word": "説得",
+    "reading": "せっとく",
+    "meaning": "persuasion",
+    "exampleSentence": "彼を説得するのに三日間かかった。",
+    "exampleTranslation": "It took three days to persuade him."
+  },
+  {
+    "word": "潜在",
+    "reading": "せんざい",
+    "meaning": "latency, potential",
+    "exampleSentence": "この地域には潜在的な成長力がある。",
+    "exampleTranslation": "This region has latent growth potential."
+  },
+  {
+    "word": "促進",
+    "reading": "そくしん",
+    "meaning": "promotion, acceleration",
+    "exampleSentence": "この薬は血行を促進する効果がある。",
+    "exampleTranslation": "This medicine has the effect of promoting blood circulation."
+  },
+  {
+    "word": "そのもの",
+    "reading": "そのもの",
+    "meaning": "itself, very",
+    "exampleSentence": "彼は誠実そのものの人だ。",
+    "exampleTranslation": "He is sincerity itself."
+  },
+  {
+    "word": "耐性",
+    "reading": "たいせい",
+    "meaning": "resistance, tolerance",
+    "exampleSentence": "この細菌は抗生物質に対する耐性を持っている。",
+    "exampleTranslation": "This bacteria has resistance to antibiotics."
+  },
+  {
+    "word": "退化",
+    "reading": "たいか",
+    "meaning": "degeneration, regression",
+    "exampleSentence": "使わない機能は退化していく。",
+    "exampleTranslation": "Functions that are not used degenerate over time."
+  },
+  {
+    "word": "妥協",
+    "reading": "だきょう",
+    "meaning": "compromise",
+    "exampleSentence": "両者の意見が対立し、妥協点を見つけるのに苦労した。",
+    "exampleTranslation": "Their opinions clashed, and it was difficult to find a compromise."
+  },
+  {
+    "word": "棚上げ",
+    "reading": "たなあげ",
+    "meaning": "shelving, postponement",
+    "exampleSentence": "その問題は一旦棚上げにすることになった。",
+    "exampleTranslation": "It was decided to shelve that issue for now."
+  },
+  {
+    "word": "段階",
+    "reading": "だんかい",
+    "meaning": "stage, phase, step",
+    "exampleSentence": "プロジェクトは最終段階に入っている。",
+    "exampleTranslation": "The project has entered its final stage."
+  },
+  {
+    "word": "蓄える",
+    "reading": "たくわえる",
+    "meaning": "to store, to save, to lay up",
+    "exampleSentence": "彼は老後のために十分な資金を蓄えている。",
+    "exampleTranslation": "He has saved enough funds for his retirement."
+  },
+  {
+    "word": "抽象",
+    "reading": "ちゅうしょう",
+    "meaning": "abstract",
+    "exampleSentence": "この概念は抽象的で理解しにくい。",
+    "exampleTranslation": "This concept is abstract and difficult to understand."
+  },
+  {
+    "word": "注目",
+    "reading": "ちゅうもく",
+    "meaning": "attention,注目",
+    "exampleSentence": "この新技術は世界中から注目を集めている。",
+    "exampleTranslation": "This new technology is attracting attention from around the world."
+  },
+  {
+    "word": "沈着",
+    "reading": "ちんちゃく",
+    "meaning": "calmness, composure",
+    "exampleSentence": "彼はどんな時でも沈着冷静だ。",
+    "exampleTranslation": "He is calm and composed at all times."
+  },
+  {
+    "word": "追跡",
+    "reading": "ついせき",
+    "meaning": "tracking, pursuit",
+    "exampleSentence": "警察は事件の犯人を追跡している。",
+    "exampleTranslation": "The police are tracking the perpetrator of the case."
+  },
+  {
+    "word": "訂正",
+    "reading": "ていせい",
+    "meaning": "correction, revision",
+    "exampleSentence": "先ほどの発言を訂正させてください。",
+    "exampleTranslation": "Allow me to correct my earlier statement."
+  },
+  {
+    "word": "適宜",
+    "reading": "てきぎ",
+    "meaning": "as appropriate, suitably",
+    "exampleSentence": "必要に応じて適宜対応してください。",
+    "exampleTranslation": "Please respond as appropriate according to necessity."
+  },
+  {
+    "word": "徹底",
+    "reading": "てってい",
+    "meaning": "thoroughness, completeness",
+    "exampleSentence": "安全対策を徹底する必要がある。",
+    "exampleTranslation": "We need to thoroughly implement safety measures."
+  },
+  {
+    "word": "展開",
+    "reading": "てんかい",
+    "meaning": "development, deployment",
+    "exampleSentence": "事件は予想外の展開を見せた。",
+    "exampleTranslation": "The case took an unexpected turn."
+  },
+  {
+    "word": "度重なる",
+    "reading": "たびかさなる",
+    "meaning": "repeated, frequent",
+    "exampleSentence": "度重なる失敗に彼は落ち込んでいた。",
+    "exampleTranslation": "He was depressed by repeated failures."
+  },
+  {
+    "word": "当初",
+    "reading": "とうしょ",
+    "meaning": "initial, at first",
+    "exampleSentence": "当初の予定では来月完成するはずだった。",
+    "exampleTranslation": "According to the initial plan, it was supposed to be completed next month."
+  },
+  {
+    "word": "透明",
+    "reading": "とうめい",
+    "meaning": "transparency",
+    "exampleSentence": "この会社は経営の透明性を重視している。",
+    "exampleTranslation": "This company values transparency in management."
+  },
+  {
+    "word": "動揺",
+    "reading": "どうよう",
+    "meaning": "shock, disturbance,动摇",
+    "exampleSentence": "その知らせを聞いて彼女は激しく動揺した。",
+    "exampleTranslation": "She was greatly shaken when she heard the news."
+  },
+  {
+    "word": "特有",
+    "reading": "とくゆう",
+    "meaning": "peculiar, characteristic",
+    "exampleSentence": "この地域に特有の文化が今も残っている。",
+    "exampleTranslation": "A culture peculiar to this region still remains today."
+  },
+  {
+    "word": "突如",
+    "reading": "とつじょ",
+    "meaning": "suddenly, abruptly",
+    "exampleSentence": "突如として彼の姿は消えた。",
+    "exampleTranslation": "He suddenly vanished."
+  },
+  {
+    "word": "鈍感",
+    "reading": "どんかん",
+    "meaning": "insensitive, dull",
+    "exampleSentence": "彼は空気を読めない鈍感な人だ。",
+    "exampleTranslation": "He is an insensitive person who can't read the room."
+  },
+  {
+    "word": "懐かしむ",
+    "reading": "なつかしむ",
+    "meaning": "to look back with nostalgia",
+    "exampleSentence": "彼は故郷の思い出を懐かしんだ。",
+    "exampleTranslation": "He looked back nostalgically on memories of his hometown."
+  }
+]

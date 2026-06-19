@@ -1,0 +1,650 @@
+[
+  {
+    "character": "悪",
+    "onyomi": "アク",
+    "kunyomi": "わる(い)",
+    "strokeCount": 11,
+    "meaning": "bad, evil",
+    "compounds": "悪人(あくにん), 悪い(わるい), 悪化(あっか)"
+  },
+  {
+    "character": "安",
+    "onyomi": "アン",
+    "kunyomi": "やす(い)",
+    "strokeCount": 6,
+    "meaning": "peaceful, cheap",
+    "compounds": "安全(あんぜん), 安心(あんしん), 安い(やすい)"
+  },
+  {
+    "character": "暗",
+    "onyomi": "アン",
+    "kunyomi": "くら(い)",
+    "strokeCount": 13,
+    "meaning": "dark",
+    "compounds": "暗い(くらい), 暗記(あんき), 暗号(あんごう)"
+  },
+  {
+    "character": "医",
+    "onyomi": "イ",
+    "kunyomi": "",
+    "strokeCount": 7,
+    "meaning": "medicine, doctor",
+    "compounds": "医者(いしゃ), 医学(いがく), 医院(いいん)"
+  },
+  {
+    "character": "育",
+    "onyomi": "イク",
+    "kunyomi": "そだ(つ), はぐく(む)",
+    "strokeCount": 8,
+    "meaning": "raise, grow",
+    "compounds": "教育(きょういく), 育つ(そだつ), 育児(いくじ)"
+  },
+  {
+    "character": "員",
+    "onyomi": "イン",
+    "kunyomi": "",
+    "strokeCount": 10,
+    "meaning": "member",
+    "compounds": "社員(しゃいん), 店員(てんいん), 会員(かいいん)"
+  },
+  {
+    "character": "運",
+    "onyomi": "ウン",
+    "kunyomi": "はこ(ぶ)",
+    "strokeCount": 12,
+    "meaning": "carry, fortune",
+    "compounds": "運転(うんてん), 運ぶ(はこぶ), 運命(うんめい)"
+  },
+  {
+    "character": "営",
+    "onyomi": "エイ",
+    "kunyomi": "いとな(む)",
+    "strokeCount": 12,
+    "meaning": "manage, run",
+    "compounds": "営業(えいぎょう), 経営(けいえい), 営む(いとなむ)"
+  },
+  {
+    "character": "駅",
+    "onyomi": "エキ",
+    "kunyomi": "",
+    "strokeCount": 14,
+    "meaning": "station",
+    "compounds": "駅前(えきまえ), 駅員(えきいん), 駅弁(えきべん)"
+  },
+  {
+    "character": "央",
+    "onyomi": "オウ",
+    "kunyomi": "",
+    "strokeCount": 5,
+    "meaning": "center",
+    "compounds": "中央(ちゅうおう), 中央線(ちゅうおうせん), 央(おう)"
+  },
+  {
+    "character": "温",
+    "onyomi": "オン",
+    "kunyomi": "あたた(かい)",
+    "strokeCount": 12,
+    "meaning": "warm",
+    "compounds": "温度(おんど), 温泉(おんせん), 温かい(あたたかい)"
+  },
+  {
+    "character": "荷",
+    "onyomi": "カ",
+    "kunyomi": "に",
+    "strokeCount": 10,
+    "meaning": "load, baggage",
+    "compounds": "荷物(にもつ), 入荷(にゅうか), 出荷(しゅっか)"
+  },
+  {
+    "character": "界",
+    "onyomi": "カイ",
+    "kunyomi": "",
+    "strokeCount": 9,
+    "meaning": "world, boundary",
+    "compounds": "世界(せかい), 境界(きょうかい), 業界(ぎょうかい)"
+  },
+  {
+    "character": "階",
+    "onyomi": "カイ",
+    "kunyomi": "",
+    "strokeCount": 12,
+    "meaning": "floor, storey, stairs",
+    "compounds": "階段(かいだん), 階級(かいきゅう), 地階(ちかい)"
+  },
+  {
+    "character": "寒",
+    "onyomi": "カン",
+    "kunyomi": "さむ(い)",
+    "strokeCount": 12,
+    "meaning": "cold",
+    "compounds": "寒い(さむい), 寒気(さむけ), 寒帯(かんたい)"
+  },
+  {
+    "character": "悲",
+    "onyomi": "ヒ",
+    "kunyomi": "かな(しい)",
+    "strokeCount": 12,
+    "meaning": "sad",
+    "compounds": "悲しい(かなしい), 悲劇(ひげき), 悲痛(ひつう)"
+  },
+  {
+    "character": "願",
+    "onyomi": "ガン",
+    "kunyomi": "ねが(い)",
+    "strokeCount": 19,
+    "meaning": "wish, request",
+    "compounds": "願い(ねがい), 願望(がんぼう), 祈願(きがん)"
+  },
+  {
+    "character": "季",
+    "onyomi": "キ",
+    "kunyomi": "",
+    "strokeCount": 8,
+    "meaning": "season",
+    "compounds": "季節(きせつ), 四季(しき), 季語(きご)"
+  },
+  {
+    "character": "紀",
+    "onyomi": "キ",
+    "kunyomi": "",
+    "strokeCount": 9,
+    "meaning": "era, chronicle",
+    "compounds": "世紀(せいき), 紀行(きこう), 紀元(きげん)"
+  },
+  {
+    "character": "客",
+    "onyomi": "キャク",
+    "kunyomi": "",
+    "strokeCount": 9,
+    "meaning": "guest, customer",
+    "compounds": "お客様(おきゃくさま), 観客(かんきゃく), 客人(きゃくじん)"
+  },
+  {
+    "character": "究",
+    "onyomi": "キュウ",
+    "kunyomi": "きわ(める)",
+    "strokeCount": 7,
+    "meaning": "research, investigation",
+    "compounds": "研究(けんきゅう), 究極(きゅうきょく), 探究(たんきゅう)"
+  },
+  {
+    "character": "急",
+    "onyomi": "キュウ",
+    "kunyomi": "いそ(ぐ)",
+    "strokeCount": 9,
+    "meaning": "hurry, urgent",
+    "compounds": "急ぐ(いそぐ), 急行(きゅうこう), 急病(きゅうびょう)"
+  },
+  {
+    "character": "局",
+    "onyomi": "キョク",
+    "kunyomi": "",
+    "strokeCount": 7,
+    "meaning": "office, situation",
+    "compounds": "郵便局(ゆうびんきょく), 局長(きょくちょう), 当局(とうきょく)"
+  },
+  {
+    "character": "勤",
+    "onyomi": "キン",
+    "kunyomi": "つと(める)",
+    "strokeCount": 12,
+    "meaning": "work, serve",
+    "compounds": "勤める(つとめる), 勤務(きんむ), 通勤(つうきん)"
+  },
+  {
+    "character": "均",
+    "onyomi": "キン",
+    "kunyomi": "",
+    "strokeCount": 7,
+    "meaning": "equal, average",
+    "compounds": "平均(へいきん), 均等(きんとう), 均衡(きんこう)"
+  },
+  {
+    "character": "禁",
+    "onyomi": "キン",
+    "kunyomi": "",
+    "strokeCount": 13,
+    "meaning": "forbid",
+    "compounds": "禁止(きんし), 禁煙(きんえん), 禁物(きんもつ)"
+  },
+  {
+    "character": "芸",
+    "onyomi": "ゲイ",
+    "kunyomi": "",
+    "strokeCount": 7,
+    "meaning": "art, performance",
+    "compounds": "芸術(げいじゅつ), 芸能(げいのう), 園芸(えんげい)"
+  },
+  {
+    "character": "犬",
+    "onyomi": "ケン",
+    "kunyomi": "いぬ",
+    "strokeCount": 4,
+    "meaning": "dog",
+    "compounds": "犬(いぬ), 愛犬(あいけん), 野犬(やけん)"
+  },
+  {
+    "character": "欠",
+    "onyomi": "ケツ",
+    "kunyomi": "か(ける)",
+    "strokeCount": 4,
+    "meaning": "lack, gap",
+    "compounds": "欠ける(かける), 欠点(けってん), 欠席(けっせき)"
+  },
+  {
+    "character": "件",
+    "onyomi": "ケン",
+    "kunyomi": "",
+    "strokeCount": 6,
+    "meaning": "matter, affair",
+    "compounds": "事件(じけん), 条件(じょうけん), 件名(けんめい)"
+  },
+  {
+    "character": "庫",
+    "onyomi": "コ",
+    "kunyomi": "くら",
+    "strokeCount": 10,
+    "meaning": "storehouse",
+    "compounds": "車庫(しゃこ), 倉庫(そうこ), 在庫(ざいこ)"
+  },
+  {
+    "character": "候",
+    "onyomi": "コウ",
+    "kunyomi": "そうろう",
+    "strokeCount": 10,
+    "meaning": "weather, candidate",
+    "compounds": "天候(てんこう), 候補(こうほ), 気候(きこう)"
+  },
+  {
+    "character": "港",
+    "onyomi": "コウ",
+    "kunyomi": "みなと",
+    "strokeCount": 12,
+    "meaning": "harbor",
+    "compounds": "港(みなと), 空港(くうこう), 漁港(ぎょこう)"
+  },
+  {
+    "character": "在",
+    "onyomi": "ザイ",
+    "kunyomi": "あ(る)",
+    "strokeCount": 6,
+    "meaning": "exist, located",
+    "compounds": "現在(げんざい), 在宅(ざいたく), 在学(ざいがく)"
+  },
+  {
+    "character": "坂",
+    "onyomi": "ハン",
+    "kunyomi": "さか",
+    "strokeCount": 7,
+    "meaning": "slope, hill",
+    "compounds": "坂(さか), 坂道(さかみち), 急坂(きゅうはん)"
+  },
+  {
+    "character": "産",
+    "onyomi": "サン",
+    "kunyomi": "う(む)",
+    "strokeCount": 11,
+    "meaning": "birth, product",
+    "compounds": "生産(せいさん), 産業(さんぎょう), 産地(さんち)"
+  },
+  {
+    "character": "残",
+    "onyomi": "ザン",
+    "kunyomi": "のこ(る)",
+    "strokeCount": 10,
+    "meaning": "remain, leftover",
+    "compounds": "残る(のこる), 残業(ざんぎょう), 残念(ざんねん)"
+  },
+  {
+    "character": "死",
+    "onyomi": "シ",
+    "kunyomi": "し(ぬ)",
+    "strokeCount": 6,
+    "meaning": "death",
+    "compounds": "死ぬ(しぬ), 死亡(しぼう), 死体(したい)"
+  },
+  {
+    "character": "師",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "strokeCount": 10,
+    "meaning": "teacher, expert",
+    "compounds": "教師(きょうし), 医師(いし), 師匠(ししょう)"
+  },
+  {
+    "character": "詩",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "strokeCount": 13,
+    "meaning": "poetry",
+    "compounds": "詩(し), 詩人(しじん), 詩集(ししゅう)"
+  },
+  {
+    "character": "資",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "strokeCount": 13,
+    "meaning": "resources, capital",
+    "compounds": "資源(しげん), 資本(しほん), 資産(しさん)"
+  },
+  {
+    "character": "式",
+    "onyomi": "シキ",
+    "kunyomi": "",
+    "strokeCount": 6,
+    "meaning": "style, ceremony",
+    "compounds": "式(しき), 公式(こうしき), 形式(けいしき)"
+  },
+  {
+    "character": "実",
+    "onyomi": "ジツ",
+    "kunyomi": "み, みの(る)",
+    "strokeCount": 8,
+    "meaning": "truth, fruit",
+    "compounds": "実(み), 事実(じじつ), 実験(じっけん)"
+  },
+  {
+    "character": "主",
+    "onyomi": "シュ",
+    "kunyomi": "ぬし, おも",
+    "strokeCount": 5,
+    "meaning": "main, master",
+    "compounds": "主人(しゅじん), 主に(おもに), 主要(しゅよう)"
+  },
+  {
+    "character": "取",
+    "onyomi": "シュ",
+    "kunyomi": "と(る)",
+    "strokeCount": 8,
+    "meaning": "take",
+    "compounds": "取る(とる), 取材(しゅざい), 取得(しゅとく)"
+  },
+  {
+    "character": "酒",
+    "onyomi": "シュ",
+    "kunyomi": "さけ, さか",
+    "strokeCount": 10,
+    "meaning": "alcohol",
+    "compounds": "酒(さけ), 日本酒(にほんしゅ), 酒屋(さかや)"
+  },
+  {
+    "character": "種",
+    "onyomi": "シュ",
+    "kunyomi": "たね",
+    "strokeCount": 14,
+    "meaning": "kind, seed",
+    "compounds": "種類(しゅるい), 種(たね), 品種(ひんしゅ)"
+  },
+  {
+    "character": "習",
+    "onyomi": "シュウ",
+    "kunyomi": "なら(う)",
+    "strokeCount": 11,
+    "meaning": "learn",
+    "compounds": "習う(ならう), 学習(がくしゅう), 習慣(しゅうかん)"
+  },
+  {
+    "character": "集",
+    "onyomi": "シュウ",
+    "kunyomi": "あつ(まる)",
+    "strokeCount": 12,
+    "meaning": "gather",
+    "compounds": "集まる(あつまる), 集合(しゅうごう), 集団(しゅうだん)"
+  },
+  {
+    "character": "住",
+    "onyomi": "ジュウ",
+    "kunyomi": "す(む)",
+    "strokeCount": 7,
+    "meaning": "dwell, live",
+    "compounds": "住む(すむ), 住所(じゅうしょ), 住宅(じゅうたく)"
+  },
+  {
+    "character": "重",
+    "onyomi": "ジュウ, チョウ",
+    "kunyomi": "おも(い), かさ(ねる)",
+    "strokeCount": 9,
+    "meaning": "heavy, important",
+    "compounds": "重い(おもい), 重要(じゅうよう), 重力(じゅうりょく)"
+  },
+  {
+    "character": "宿",
+    "onyomi": "シュク",
+    "kunyomi": "やど",
+    "strokeCount": 11,
+    "meaning": "inn, lodging",
+    "compounds": "宿(やど), 宿題(しゅくだい), 民宿(みんしゅく)"
+  },
+  {
+    "character": "術",
+    "onyomi": "ジュツ",
+    "kunyomi": "",
+    "strokeCount": 11,
+    "meaning": "art, technique",
+    "compounds": "美術(びじゅつ), 技術(ぎじゅつ), 手術(しゅじゅつ)"
+  },
+  {
+    "character": "順",
+    "onyomi": "ジュン",
+    "kunyomi": "",
+    "strokeCount": 12,
+    "meaning": "order, sequence",
+    "compounds": "順番(じゅんばん), 順序(じゅんじょ), 不順(ふじゅん)"
+  },
+  {
+    "character": "初",
+    "onyomi": "ショ",
+    "kunyomi": "はじ(め)",
+    "strokeCount": 7,
+    "meaning": "first, beginning",
+    "compounds": "初めて(はじめて), 最初(さいしょ), 初恋(はつこい)"
+  },
+  {
+    "character": "省",
+    "onyomi": "ショウ, セイ",
+    "kunyomi": "はぶ(く)",
+    "strokeCount": 9,
+    "meaning": "ministry, omit",
+    "compounds": "省く(はぶく), 反省(はんせい), 省庁(しょうちょう)"
+  },
+  {
+    "character": "焼",
+    "onyomi": "ショウ",
+    "kunyomi": "や(く)",
+    "strokeCount": 12,
+    "meaning": "burn, bake",
+    "compounds": "焼く(やく), 焼肉(やきにく), 燃焼(ねんしょう)"
+  },
+  {
+    "character": "商",
+    "onyomi": "ショウ",
+    "kunyomi": "あきな(う)",
+    "strokeCount": 11,
+    "meaning": "commerce",
+    "compounds": "商人(しょうにん), 商品(しょうひん), 商業(しょうぎょう)"
+  },
+  {
+    "character": "障",
+    "onyomi": "ショウ",
+    "kunyomi": "さわ(る)",
+    "strokeCount": 14,
+    "meaning": "obstacle, hinder",
+    "compounds": "障害(しょうがい), 障る(さわる), 保障(ほしょう)"
+  },
+  {
+    "character": "蒸",
+    "onyomi": "ジョウ",
+    "kunyomi": "む(す)",
+    "strokeCount": 13,
+    "meaning": "steam",
+    "compounds": "蒸す(むす), 蒸気(じょうき), 蒸発(じょうはつ)"
+  },
+  {
+    "character": "条",
+    "onyomi": "ジョウ",
+    "kunyomi": "",
+    "strokeCount": 7,
+    "meaning": "article, clause",
+    "compounds": "条件(じょうけん), 条約(じょうやく), 条項(じょうこう)"
+  },
+  {
+    "character": "状",
+    "onyomi": "ジョウ",
+    "kunyomi": "",
+    "strokeCount": 7,
+    "meaning": "condition, letter",
+    "compounds": "状態(じょうたい), 状況(じょうきょう), 状態(じょうたい)"
+  },
+  {
+    "character": "信",
+    "onyomi": "シン",
+    "kunyomi": "",
+    "strokeCount": 9,
+    "meaning": "trust, faith",
+    "compounds": "信じる(しんじる), 信用(しんよう), 信号(しんごう)"
+  },
+  {
+    "character": "身",
+    "onyomi": "シン",
+    "kunyomi": "み",
+    "strokeCount": 7,
+    "meaning": "body, oneself",
+    "compounds": "身(み), 出身(しゅっしん), 身長(しんちょう)"
+  },
+  {
+    "character": "世",
+    "onyomi": "セイ, セ",
+    "kunyomi": "よ",
+    "strokeCount": 5,
+    "meaning": "generation, world",
+    "compounds": "世界(せかい), 世話(せわ), 世紀(せいき)"
+  },
+  {
+    "character": "声",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "こえ",
+    "strokeCount": 7,
+    "meaning": "voice",
+    "compounds": "声(こえ), 声援(せいえん), 音声(おんせい)"
+  },
+  {
+    "character": "昔",
+    "onyomi": "セキ",
+    "kunyomi": "むかし",
+    "strokeCount": 8,
+    "meaning": "ancient, old times",
+    "compounds": "昔(むかし), 昔話(むかしばなし), 昔風(むかしふう)"
+  },
+  {
+    "character": "接",
+    "onyomi": "セツ",
+    "kunyomi": "つ(ぐ)",
+    "strokeCount": 11,
+    "meaning": "contact, join",
+    "compounds": "接続(せつぞく), 直接(ちょくせつ), 接客(せっきゃく)"
+  },
+  {
+    "character": "説",
+    "onyomi": "セツ",
+    "kunyomi": "と(く)",
+    "strokeCount": 14,
+    "meaning": "explanation, theory",
+    "compounds": "説明(せつめい), 説く(とく), 小説(しょうせつ)"
+  },
+  {
+    "character": "節",
+    "onyomi": "セツ",
+    "kunyomi": "ふし",
+    "strokeCount": 13,
+    "meaning": "node, season",
+    "compounds": "節(ふし), 季節(きせつ), 節約(せつやく)"
+  },
+  {
+    "character": "先",
+    "onyomi": "セン",
+    "kunyomi": "さき",
+    "strokeCount": 6,
+    "meaning": "ahead, previous",
+    "compounds": "先(さき), 先生(せんせい), 先週(せんしゅう)"
+  },
+  {
+    "character": "専",
+    "onyomi": "セン",
+    "kunyomi": "もっぱ(ら)",
+    "strokeCount": 9,
+    "meaning": "specialize, exclusively",
+    "compounds": "専門(せんもん), 専攻(せんこう), 専用(せんよう)"
+  },
+  {
+    "character": "戦",
+    "onyomi": "セン",
+    "kunyomi": "たたか(う)",
+    "strokeCount": 13,
+    "meaning": "war, fight",
+    "compounds": "戦う(たたかう), 戦争(せんそう), 作戦(さくせん)"
+  },
+  {
+    "character": "浅",
+    "onyomi": "セン",
+    "kunyomi": "あさ(い)",
+    "strokeCount": 9,
+    "meaning": "shallow",
+    "compounds": "浅い(あさい), 浅学(せんがく), 浅草(あさくさ)"
+  },
+  {
+    "character": "相",
+    "onyomi": "ソウ, ショウ",
+    "kunyomi": "あい",
+    "strokeCount": 9,
+    "meaning": "mutual, aspect",
+    "compounds": "相手(あいて), 相談(そうだん), 首相(しゅしょう)"
+  },
+  {
+    "character": "送",
+    "onyomi": "ソウ",
+    "kunyomi": "おく(る)",
+    "strokeCount": 9,
+    "meaning": "send",
+    "compounds": "送る(おくる), 送信(そうしん), 放送(ほうそう)"
+  },
+  {
+    "character": "側",
+    "onyomi": "ソク",
+    "kunyomi": "がわ",
+    "strokeCount": 11,
+    "meaning": "side",
+    "compounds": "側(がわ), 側面(そくめん), 右側(みぎがわ)"
+  },
+  {
+    "character": "族",
+    "onyomi": "ゾク",
+    "kunyomi": "",
+    "strokeCount": 11,
+    "meaning": "tribe, family",
+    "compounds": "家族(かぞく), 民族(みんぞく), 親族(しんぞく)"
+  },
+  {
+    "character": "打",
+    "onyomi": "ダ",
+    "kunyomi": "う(つ)",
+    "strokeCount": 5,
+    "meaning": "hit, strike",
+    "compounds": "打つ(うつ), 打撃(だげき), 打合せ(うちあわせ)"
+  },
+  {
+    "character": "対",
+    "onyomi": "タイ",
+    "kunyomi": "",
+    "strokeCount": 7,
+    "meaning": "opposite, against",
+    "compounds": "対応(たいおう), 反対(はんたい), 対話(たいわ)"
+  },
+  {
+    "character": "代",
+    "onyomi": "ダイ, タイ",
+    "kunyomi": "か(わる)",
+    "strokeCount": 5,
+    "meaning": "substitute, generation",
+    "compounds": "代わる(かわる), 代表(だいひょう), 現代(げんだい)"
+  }
+]

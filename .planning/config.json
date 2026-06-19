@@ -1,0 +1,19 @@
+{
+  "mode": "yolo",
+  "granularity": "standard",
+  "parallelization": false,
+  "commit_docs": true,
+  "model_profile": "inherit",
+  "workflow": {
+    "research": false,
+    "plan_check": false,
+    "verifier": false,
+    "nyquist_validation": false,
+    "auto_advance": true
+  },
+  "phases": {
+    "count": 6,
+    "current": 6,
+    "status": "done"
+  }
+}

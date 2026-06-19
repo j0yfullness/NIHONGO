@@ -1,0 +1,490 @@
+[
+  {
+    "character": "印",
+    "onyomi": "イン",
+    "kunyomi": "しるし",
+    "strokeCount": 5,
+    "meaning": "stamp, mark, seal",
+    "compounds": "印象(いんしょう), 印刷(いんさつ), 印鑑(いんかん)"
+  },
+  {
+    "character": "因",
+    "onyomi": "イン",
+    "kunyomi": "よる",
+    "strokeCount": 6,
+    "meaning": "cause, factor, reason",
+    "compounds": "原因(げんいん), 要因(よういん), 因果(いんが)"
+  },
+  {
+    "character": "解",
+    "onyomi": "カイ,ゲ",
+    "kunyomi": "とく, とける, ほどく",
+    "strokeCount": 13,
+    "meaning": "solve, untie, dissolve",
+    "compounds": "解決(かいけつ), 理解(りかい), 解説(かいせつ)"
+  },
+  {
+    "character": "課",
+    "onyomi": "カ",
+    "kunyomi": "",
+    "strokeCount": 15,
+    "meaning": "section, lesson, task",
+    "compounds": "課題(かだい), 課長(かちょう), 授業(じゅぎょう)"
+  },
+  {
+    "character": "可",
+    "onyomi": "カ",
+    "kunyomi": "",
+    "strokeCount": 5,
+    "meaning": "possible, passable, can",
+    "compounds": "可能(かのう), 許可(きょか), 可決(かけつ)"
+  },
+  {
+    "character": "刊",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "strokeCount": 5,
+    "meaning": "publish, carve, print",
+    "compounds": "刊行(かんこう), 週刊(しゅうかん), 月刊(げっかん)"
+  },
+  {
+    "character": "官",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "strokeCount": 8,
+    "meaning": "government official, bureaucrat",
+    "compounds": "官僚(かんりょう), 警官(けいかん), 官庁(かんちょう)"
+  },
+  {
+    "character": "観",
+    "onyomi": "カン",
+    "kunyomi": "みる",
+    "strokeCount": 18,
+    "meaning": "view, observe, appearance",
+    "compounds": "観光(かんこう), 観点(かんてん), 観察(かんさつ)"
+  },
+  {
+    "character": "願",
+    "onyomi": "ガン",
+    "kunyomi": "ねがう",
+    "strokeCount": 19,
+    "meaning": "request, wish, desire",
+    "compounds": "願望(がんぼう), 願書(がんしょ), 志願(しがん)"
+  },
+  {
+    "character": "議",
+    "onyomi": "ギ",
+    "kunyomi": "",
+    "strokeCount": 20,
+    "meaning": "deliberation, discussion",
+    "compounds": "議会(ぎかい), 会議(かいぎ), 議論(ぎろん)"
+  },
+  {
+    "character": "技",
+    "onyomi": "ギ",
+    "kunyomi": "わざ",
+    "strokeCount": 7,
+    "meaning": "skill, technique, art",
+    "compounds": "技術(ぎじゅつ), 技能(ぎのう), 特技(とくぎ)"
+  },
+  {
+    "character": "逆",
+    "onyomi": "ギャク",
+    "kunyomi": "さか, さからう",
+    "strokeCount": 9,
+    "meaning": "inverted, reverse, opposite",
+    "compounds": "逆転(ぎゃくてん), 逆算(ぎゃくさん), 相反(そうはん)"
+  },
+  {
+    "character": "久",
+    "onyomi": "キュウ,ク",
+    "kunyomi": "ひさしい",
+    "strokeCount": 3,
+    "meaning": "long time, long-lasting",
+    "compounds": "永久(えいきゅう), 久々(ひさびさ), 長久(ちょうきゅう)"
+  },
+  {
+    "character": "旧",
+    "onyomi": "キュウ",
+    "kunyomi": "",
+    "strokeCount": 5,
+    "meaning": "old times, former, old-fashioned",
+    "compounds": "旧友(きゅうゆう), 新旧(しんきゅう), 復旧(ふっきゅう)"
+  },
+  {
+    "character": "響",
+    "onyomi": "キョウ",
+    "kunyomi": "ひびく",
+    "strokeCount": 20,
+    "meaning": "echo, sound, resonance",
+    "compounds": "影響(えいきょう), 反響(はんきょう), 響き(ひびき)"
+  },
+  {
+    "character": "境",
+    "onyomi": "キョウ,ケイ",
+    "kunyomi": "さかい",
+    "strokeCount": 14,
+    "meaning": "boundary, situation, environment",
+    "compounds": "環境(かんきょう), 国境(こっきょう), 境界(きょうかい)"
+  },
+  {
+    "character": "恐",
+    "onyomi": "キョウ",
+    "kunyomi": "おそれる, こわい",
+    "strokeCount": 10,
+    "meaning": "fear, dread, awe",
+    "compounds": "恐怖(きょうふ), 恐縮(きょうしゅく), 恐竜(きょうりゅう)"
+  },
+  {
+    "character": "禁",
+    "onyomi": "キン",
+    "kunyomi": "",
+    "strokeCount": 13,
+    "meaning": "prohibition, ban, forbid",
+    "compounds": "禁止(きんし), 禁煙(きんえん), 厳禁(げんきん)"
+  },
+  {
+    "character": "吸",
+    "onyomi": "キュウ",
+    "kunyomi": "すう",
+    "strokeCount": 6,
+    "meaning": "suck, absorb, inhale",
+    "compounds": "吸収(きゅうしゅう), 呼吸(こきゅう), 吸引(きゅういん)"
+  },
+  {
+    "character": "況",
+    "onyomi": "キョウ",
+    "kunyomi": "",
+    "strokeCount": 8,
+    "meaning": "condition, situation, state",
+    "compounds": "状況(じょうきょう), 実況(じっきょう), 不況(ふきょう)"
+  },
+  {
+    "character": "芸",
+    "onyomi": "ゲイ",
+    "kunyomi": "",
+    "strokeCount": 7,
+    "meaning": "art, performance, craft",
+    "compounds": "芸術(げいじゅつ), 芸能(げいのう), 文芸(ぶんげい)"
+  },
+  {
+    "character": "候",
+    "onyomi": "コウ",
+    "kunyomi": "そうろう",
+    "strokeCount": 10,
+    "meaning": "climate, candidate, wait on",
+    "compounds": "候補(こうほ), 気候(きこう), 候選(こうせん)"
+  },
+  {
+    "character": "構",
+    "onyomi": "コウ",
+    "kunyomi": "かまえる, かまう",
+    "strokeCount": 14,
+    "meaning": "construct, posture, care about",
+    "compounds": "構造(こうぞう), 結構(けっこう), 構想(こうそう)"
+  },
+  {
+    "character": "骨",
+    "onyomi": "コツ",
+    "kunyomi": "ほね",
+    "strokeCount": 10,
+    "meaning": "bone, frame, knack",
+    "compounds": "骨折(こっせつ), 骨格(こっかく), 骨子(こっし)"
+  },
+  {
+    "character": "混",
+    "onyomi": "コン",
+    "kunyomi": "まじる, こむ",
+    "strokeCount": 11,
+    "meaning": "mix, blend, confuse",
+    "compounds": "混乱(こんらん), 混雑(こんざつ), 混合(こんごう)"
+  },
+  {
+    "character": "在",
+    "onyomi": "ザイ",
+    "kunyomi": "ある",
+    "strokeCount": 6,
+    "meaning": "exist, be located, reside",
+    "compounds": "存在(そんざい), 現在(げんざい), 在宅(ざいたく)"
+  },
+  {
+    "character": "財",
+    "onyomi": "ザイ,サイ",
+    "kunyomi": "",
+    "strokeCount": 10,
+    "meaning": "wealth, property, assets",
+    "compounds": "財産(ざいさん), 経済(けいざい), 財政(ざいせい)"
+  },
+  {
+    "character": "細",
+    "onyomi": "サイ",
+    "kunyomi": "ほそい, こまかい",
+    "strokeCount": 11,
+    "meaning": "thin, slender, detailed",
+    "compounds": "詳細(しょうさい), 細心(さいしん), 細菌(さいきん)"
+  },
+  {
+    "character": "策",
+    "onyomi": "サク",
+    "kunyomi": "",
+    "strokeCount": 12,
+    "meaning": "plan, policy, strategy",
+    "compounds": "政策(せいさく), 対策(たいさく), 策略(さくりゃく)"
+  },
+  {
+    "character": "資",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "strokeCount": 13,
+    "meaning": "resources, capital, qualification",
+    "compounds": "資金(しきん), 資格(しかく), 資源(しげん)"
+  },
+  {
+    "character": "識",
+    "onyomi": "シキ",
+    "kunyomi": "",
+    "strokeCount": 19,
+    "meaning": "knowledge, discern, recognize",
+    "compounds": "知識(ちしき), 意識(いしき), 識別(しきべつ)"
+  },
+  {
+    "character": "失",
+    "onyomi": "シツ",
+    "kunyomi": "うしなう",
+    "strokeCount": 5,
+    "meaning": "lose, error, miss",
+    "compounds": "失敗(しっぱい), 失礼(しつれい), 失業(しつぎょう)"
+  },
+  {
+    "character": "借",
+    "onyomi": "シャク",
+    "kunyomi": "かりる",
+    "strokeCount": 10,
+    "meaning": "borrow, lend, rent",
+    "compounds": "借金(しゃっきん), 借用(しゃくよう), 借地(しゃくち)"
+  },
+  {
+    "character": "祝",
+    "onyomi": "シュク",
+    "kunyomi": "いわう",
+    "strokeCount": 9,
+    "meaning": "celebration, congratulate",
+    "compounds": "祝日(しゅくじつ), 祝賀(しゅくが), 祝儀(しゅうぎ)"
+  },
+  {
+    "character": "術",
+    "onyomi": "ジュツ",
+    "kunyomi": "",
+    "strokeCount": 11,
+    "meaning": "art, technique, method",
+    "compounds": "技術(ぎじゅつ), 美術(びじゅつ), 戦術(せんじゅつ)"
+  },
+  {
+    "character": "賞",
+    "onyomi": "ショウ",
+    "kunyomi": "",
+    "strokeCount": 15,
+    "meaning": "prize, reward, award",
+    "compounds": "賞品(しょうひん), 賞金(しょうきん), 賞味(しょうみ)"
+  },
+  {
+    "character": "証",
+    "onyomi": "ショウ",
+    "kunyomi": "あかし",
+    "strokeCount": 12,
+    "meaning": "evidence, proof, certificate",
+    "compounds": "証明(しょうめい), 保証(ほしょう), 証拠(しょうこ)"
+  },
+  {
+    "character": "招",
+    "onyomi": "ショウ",
+    "kunyomi": "まねく",
+    "strokeCount": 8,
+    "meaning": "beckon, invite, cause",
+    "compounds": "招待(しょうたい), 招集(しょうしゅう), 招き(まねき)"
+  },
+  {
+    "character": "職",
+    "onyomi": "ショク",
+    "kunyomi": "",
+    "strokeCount": 18,
+    "meaning": "employment, occupation",
+    "compounds": "職業(しょくぎょう), 職場(しょくば), 職員(しょくいん)"
+  },
+  {
+    "character": "真",
+    "onyomi": "シン",
+    "kunyomi": "ま",
+    "strokeCount": 10,
+    "meaning": "truth, reality, genuine",
+    "compounds": "真実(しんじつ), 真剣(しんけん), 真理(しんり)"
+  },
+  {
+    "character": "性",
+    "onyomi": "セイ,ショウ",
+    "kunyomi": "さが",
+    "strokeCount": 8,
+    "meaning": "nature, gender, character",
+    "compounds": "性格(せいかく), 男性(だんせい), 可能性(かのうせい)"
+  },
+  {
+    "character": "政",
+    "onyomi": "セイ",
+    "kunyomi": "まつりごと",
+    "strokeCount": 9,
+    "meaning": "politics, government",
+    "compounds": "政治(せいじ), 政府(せいふ), 政策(せいさく)"
+  },
+  {
+    "character": "整",
+    "onyomi": "セイ",
+    "kunyomi": "ととのえる, ととのう",
+    "strokeCount": 16,
+    "meaning": "organize, arrange, adjust",
+    "compounds": "整理(せいり), 整備(せいび), 整列(せいれつ)"
+  },
+  {
+    "character": "争",
+    "onyomi": "ソウ",
+    "kunyomi": "あらそう",
+    "strokeCount": 6,
+    "meaning": "conflict, dispute, compete",
+    "compounds": "競争(きょうそう), 戦争(せんそう), 争議(そうぎ)"
+  },
+  {
+    "character": "想",
+    "onyomi": "ソウ",
+    "kunyomi": "おもう",
+    "strokeCount": 13,
+    "meaning": "thought, imagine, conceive",
+    "compounds": "想像(そうぞう), 発想(はっそう), 予想(よそう)"
+  },
+  {
+    "character": "続",
+    "onyomi": "ゾク",
+    "kunyomi": "つづく, つづける",
+    "strokeCount": 13,
+    "meaning": "continue, follow, resume",
+    "compounds": "連続(れんぞく), 継続(けいぞく), 持続(じぞく)"
+  },
+  {
+    "character": "増",
+    "onyomi": "ゾウ",
+    "kunyomi": "ふえる, ます",
+    "strokeCount": 14,
+    "meaning": "increase, add, gain",
+    "compounds": "増加(ぞうか), 増大(ぞうだい), 増産(ぞうさん)"
+  },
+  {
+    "character": "対",
+    "onyomi": "タイ,ツイ",
+    "kunyomi": "",
+    "strokeCount": 7,
+    "meaning": "opposite, against, versus",
+    "compounds": "対応(たいおう), 反対(はんたい), 対話(たいわ)"
+  },
+  {
+    "character": "担",
+    "onyomi": "タン",
+    "kunyomi": "になう",
+    "strokeCount": 8,
+    "meaning": "carry, bear, shoulder",
+    "compounds": "担当(たんとう), 負担(ふたん), 担架(たんか)"
+  },
+  {
+    "character": "著",
+    "onyomi": "チョ",
+    "kunyomi": "あらわす, いちじるしい",
+    "strokeCount": 11,
+    "meaning": "write, notable, remarkable",
+    "compounds": "著者(ちょしゃ), 著名(ちょめい), 著書(ちょしょ)"
+  },
+  {
+    "character": "提",
+    "onyomi": "テイ",
+    "kunyomi": "さげる",
+    "strokeCount": 12,
+    "meaning": "propose, carry, present",
+    "compounds": "提出(ていしゅつ), 提案(ていあん), 提供(ていきょう)"
+  },
+  {
+    "character": "適",
+    "onyomi": "テキ",
+    "kunyomi": "かなう",
+    "strokeCount": 14,
+    "meaning": "suitable, proper, fit",
+    "compounds": "適当(てきとう), 適切(てきせつ), 快適(かいてき)"
+  },
+  {
+    "character": "導",
+    "onyomi": "ドウ",
+    "kunyomi": "みちびく",
+    "strokeCount": 15,
+    "meaning": "guide, lead, conduct",
+    "compounds": "指導(しどう), 導入(どうにゅう), 誘導(ゆうどう)"
+  },
+  {
+    "character": "任",
+    "onyomi": "ニン",
+    "kunyomi": "まかせる, まかす",
+    "strokeCount": 6,
+    "meaning": "responsibility, duty, entrust",
+    "compounds": "責任(せきにん), 担任(たんにん), 任命(にんめい)"
+  },
+  {
+    "character": "認",
+    "onyomi": "ニン",
+    "kunyomi": "みとめる",
+    "strokeCount": 14,
+    "meaning": "recognize, approve, admit",
+    "compounds": "認識(にんしき), 確認(かくにん), 認可(にんか)"
+  },
+  {
+    "character": "富",
+    "onyomi": "フ,フウ",
+    "kunyomi": "とむ, とみ",
+    "strokeCount": 12,
+    "meaning": "wealth, enrich, abundant",
+    "compounds": "豊富(ほうふ), 富裕(ふゆう), 富国(ふこく)"
+  },
+  {
+    "character": "報",
+    "onyomi": "ホウ",
+    "kunyomi": "むくいる",
+    "strokeCount": 12,
+    "meaning": "report, repay, reward",
+    "compounds": "報告(ほうこく), 報道(ほうどう), 報酬(ほうしゅう)"
+  },
+  {
+    "character": "防",
+    "onyomi": "ボウ",
+    "kunyomi": "ふせぐ",
+    "strokeCount": 7,
+    "meaning": "prevent, defend, protect",
+    "compounds": "防止(ぼうし), 予防(よぼう), 防衛(ぼうえい)"
+  },
+  {
+    "character": "望",
+    "onyomi": "ボウ,モウ",
+    "kunyomi": "のぞむ, のぞみ",
+    "strokeCount": 11,
+    "meaning": "hope, desire, expect",
+    "compounds": "希望(きぼう), 展望(てんぼう), 望遠鏡(ぼうえんきょう)"
+  },
+  {
+    "character": "役",
+    "onyomi": "ヤク,エキ",
+    "kunyomi": "",
+    "strokeCount": 7,
+    "meaning": "role, service, duty",
+    "compounds": "役割(やくわり), 役員(やくいん), 主役(しゅやく)"
+  },
+  {
+    "character": "要",
+    "onyomi": "ヨウ",
+    "kunyomi": "いる, かなめ",
+    "strokeCount": 9,
+    "meaning": "need, important, essential",
+    "compounds": "必要(ひつよう), 要求(ようきゅう), 重要(じゅうよう)"
+  }
+]

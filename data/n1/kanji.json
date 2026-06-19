@@ -1,0 +1,338 @@
+[
+  {
+    "character": "耗",
+    "onyomi": "モウ",
+    "kunyomi": "へ(る)",
+    "strokeCount": 10,
+    "meaning": "consume, diminish",
+    "compounds": "消耗(しょうもう), 消耗品(しょうもうひん)"
+  },
+  {
+    "character": "卓",
+    "onyomi": "タク",
+    "kunyomi": "たか(い)",
+    "strokeCount": 8,
+    "meaning": "eminent, table",
+    "compounds": "卓越(たくえつ), 卓球(たっきゅう)"
+  },
+  {
+    "character": "逼",
+    "onyomi": "ヒツ",
+    "kunyomi": "せま(る)",
+    "strokeCount": 12,
+    "meaning": "urge, press, compel",
+    "compounds": "逼迫(ひっぱく), 威逼(いひつ)"
+  },
+  {
+    "character": "陥",
+    "onyomi": "カン",
+    "kunyomi": "おちい(る)、おとしい(れる)",
+    "strokeCount": 10,
+    "meaning": "collapse, fall into, trap",
+    "compounds": "陥没(かんぼつ), 欠陥(けっかん)"
+  },
+  {
+    "character": "醸",
+    "onyomi": "ジョウ",
+    "kunyomi": "かも(す)",
+    "strokeCount": 20,
+    "meaning": "brew, cause, foster",
+    "compounds": "醸成(じょうせい), 醸造(じょうぞう)"
+  },
+  {
+    "character": "汚",
+    "onyomi": "オ",
+    "kunyomi": "けが(す)、よご(す)、きたな(い)",
+    "strokeCount": 6,
+    "meaning": "dirty, pollute",
+    "compounds": "汚染(おせん), 汚職(おしょく)"
+  },
+  {
+    "character": "蔽",
+    "onyomi": "ヘイ",
+    "kunyomi": "おお(う)",
+    "strokeCount": 15,
+    "meaning": "cover, conceal",
+    "compounds": "隠蔽(いんぺい), 遮蔽(しゃへい)"
+  },
+  {
+    "character": "該",
+    "onyomi": "ガイ",
+    "kunyomi": "カイ",
+    "strokeCount": 13,
+    "meaning": "corresponding, applicable",
+    "compounds": "該当(がいとう), 該博(がいはく)"
+  },
+  {
+    "character": "軌",
+    "onyomi": "キ",
+    "kunyomi": "わだち",
+    "strokeCount": 9,
+    "meaning": "rut, track, trajectory",
+    "compounds": "軌跡(きせき), 軌道(きどう)"
+  },
+  {
+    "character": "拒",
+    "onyomi": "キョ",
+    "kunyomi": "こば(む)",
+    "strokeCount": 8,
+    "meaning": "refuse, reject",
+    "compounds": "拒否(きょひ), 拒絶(きょぜつ)"
+  },
+  {
+    "character": "衡",
+    "onyomi": "コウ",
+    "kunyomi": "コウ",
+    "strokeCount": 16,
+    "meaning": "balance, equilibrium",
+    "compounds": "均衡(きんこう), 平衡(へいこう)"
+  },
+  {
+    "character": "蛍",
+    "onyomi": "ケイ",
+    "kunyomi": "ほたる",
+    "strokeCount": 11,
+    "meaning": "firefly",
+    "compounds": "蛍光灯(けいこうとう), 蛍雪(けいせつ)"
+  },
+  {
+    "character": "掲",
+    "onyomi": "ケイ",
+    "kunyomi": "かか(げる)",
+    "strokeCount": 11,
+    "meaning": "put up, display, publish",
+    "compounds": "掲載(けいさい), 掲示(けいじ)"
+  },
+  {
+    "character": "激",
+    "onyomi": "ゲキ",
+    "kunyomi": "はげ(しい)",
+    "strokeCount": 16,
+    "meaning": "violent, intense, severe",
+    "compounds": "激減(げきげん), 激怒(げきど)"
+  },
+  {
+    "character": "兼",
+    "onyomi": "ケン",
+    "kunyomi": "か(ねる)",
+    "strokeCount": 10,
+    "meaning": "concurrent, combine",
+    "compounds": "兼務(けんむ), 兼任(けんにん)"
+  },
+  {
+    "character": "巧",
+    "onyomi": "コウ",
+    "kunyomi": "たく(み)",
+    "strokeCount": 5,
+    "meaning": "skillful, adroit",
+    "compounds": "巧妙(こうみょう), 巧拙(こうせつ)"
+  },
+  {
+    "character": "促",
+    "onyomi": "ソク",
+    "kunyomi": "うなが(す)",
+    "strokeCount": 9,
+    "meaning": "urge, prompt, stimulate",
+    "compounds": "催促(さいそく), 促進(そくしん)"
+  },
+  {
+    "character": "詐",
+    "onyomi": "サ",
+    "kunyomi": "いつわ(る)",
+    "strokeCount": 12,
+    "meaning": "lie, deceive, fraud",
+    "compounds": "詐欺(さぎ), 詐称(さしょう)"
+  },
+  {
+    "character": "暫",
+    "onyomi": "ザン",
+    "kunyomi": "しばら(く)",
+    "strokeCount": 15,
+    "meaning": "temporarily, for a while",
+    "compounds": "暫定(ざんてい), 暫く(しばらく)"
+  },
+  {
+    "character": "執",
+    "onyomi": "シツ、シュウ",
+    "kunyomi": "と(る)",
+    "strokeCount": 11,
+    "meaning": "hold, carry out, adhere",
+    "compounds": "執着(しゅうちゃく), 執行(しっこう)"
+  },
+  {
+    "character": "潤",
+    "onyomi": "ジュン",
+    "kunyomi": "うるお(う)、うるお(す)",
+    "strokeCount": 15,
+    "meaning": "moisture, profit, benefit",
+    "compounds": "潤沢(じゅんたく), 潤滑(じゅんかつ)"
+  },
+  {
+    "character": "渉",
+    "onyomi": "ショウ",
+    "kunyomi": "わた(る)",
+    "strokeCount": 11,
+    "meaning": "ford, cross, concern",
+    "compounds": "渉外(しょうがい), 干渉(かんしょう)"
+  },
+  {
+    "character": "譲",
+    "onyomi": "ジョウ",
+    "kunyomi": "ゆず(る)",
+    "strokeCount": 24,
+    "meaning": "yield, concede, transfer",
+    "compounds": "譲歩(じょうほ), 譲渡(じょうと)"
+  },
+  {
+    "character": "衰",
+    "onyomi": "スイ",
+    "kunyomi": "おとろ(える)",
+    "strokeCount": 13,
+    "meaning": "decline, wane, weaken",
+    "compounds": "衰退(すいたい), 老化(ろうか)"
+  },
+  {
+    "character": "是",
+    "onyomi": "ゼ",
+    "kunyomi": "ゼ",
+    "strokeCount": 9,
+    "meaning": "right, correct, justice",
+    "compounds": "是正(ぜせい), 是非(ぜひ)"
+  },
+  {
+    "character": "疎",
+    "onyomi": "ソ",
+    "kunyomi": "うと(い)、うと(む)、まば(ら)",
+    "strokeCount": 12,
+    "meaning": "sparse, alienated, negligent",
+    "compounds": "疎外(そがい), 疎遠(そえん)"
+  },
+  {
+    "character": "胎",
+    "onyomi": "タイ",
+    "kunyomi": "タイ",
+    "strokeCount": 9,
+    "meaning": "womb, embryo, origin",
+    "compounds": "胎動(たいどう), 胎児(たいじ)"
+  },
+  {
+    "character": "抵",
+    "onyomi": "テイ",
+    "kunyomi": "テイ",
+    "strokeCount": 8,
+    "meaning": "resist, reach, oppose",
+    "compounds": "抵触(ていしょく), 抵抗(ていこう)"
+  },
+  {
+    "character": "蔓",
+    "onyomi": "マン",
+    "kunyomi": "つる",
+    "strokeCount": 14,
+    "meaning": "vine, spread, creep",
+    "compounds": "蔓延(まんえん), 蔓草(つるくさ)"
+  },
+  {
+    "character": "曽",
+    "onyomi": "ソウ、ゾ",
+    "kunyomi": "かつ(て)",
+    "strokeCount": 11,
+    "meaning": "once, former, previously",
+    "compounds": "未曾有(みぞう), 曽祖父(そうそふ)"
+  },
+  {
+    "character": "濫",
+    "onyomi": "ラン",
+    "kunyomi": "みだ(りに)",
+    "strokeCount": 17,
+    "meaning": "excessive, overflow, abuse",
+    "compounds": "濫用(らんよう), 濫発(らんぱつ)"
+  },
+  {
+    "character": "倫",
+    "onyomi": "リン",
+    "kunyomi": "リン",
+    "strokeCount": 10,
+    "meaning": "ethics, companion",
+    "compounds": "倫理(りんり), 倫敦(ロンドン)"
+  },
+  {
+    "character": "瑠",
+    "onyomi": "ル",
+    "kunyomi": "ル",
+    "strokeCount": 14,
+    "meaning": "lapis lazuli",
+    "compounds": "瑠璃(るり), 瑠璃色(るりいろ)"
+  },
+  {
+    "character": "憫",
+    "onyomi": "ビン",
+    "kunyomi": "あわ(れむ)",
+    "strokeCount": 15,
+    "meaning": "pity, compassion",
+    "compounds": "憐憫(れんびん), 憫笑(びんしょう)"
+  },
+  {
+    "character": "苛",
+    "onyomi": "カ",
+    "kunyomi": "いじ(める)、さいな(む)",
+    "strokeCount": 8,
+    "meaning": "harass, torment, harsh",
+    "compounds": "苛酷(かこく), 苛立ち(いらだち)"
+  },
+  {
+    "character": "寡",
+    "onyomi": "カ",
+    "kunyomi": "すく(ない)",
+    "strokeCount": 14,
+    "meaning": "few, widow, taciturn",
+    "compounds": "寡黙(かもく), 寡婦(かふ)"
+  },
+  {
+    "character": "閑",
+    "onyomi": "カン",
+    "kunyomi": "カン",
+    "strokeCount": 12,
+    "meaning": "leisure, quiet, idle",
+    "compounds": "閑散(かんさん), 閑静(かんせい)"
+  },
+  {
+    "character": "欺",
+    "onyomi": "ギ",
+    "kunyomi": "あざむ(く)",
+    "strokeCount": 12,
+    "meaning": "deceive, cheat",
+    "compounds": "欺瞞(ぎまん), 詐欺(さぎ)"
+  },
+  {
+    "character": "希",
+    "onyomi": "キ",
+    "kunyomi": "キ",
+    "strokeCount": 7,
+    "meaning": "hope, rare, beg",
+    "compounds": "希薄(きはく), 希少(きしょう)"
+  },
+  {
+    "character": "萎",
+    "onyomi": "イ",
+    "kunyomi": "な(える)、しお(れる)",
+    "strokeCount": 11,
+    "meaning": "wilt, wither, sag",
+    "compounds": "萎縮(いしゅく), 萎れ(しおれ)"
+  },
+  {
+    "character": "匿",
+    "onyomi": "トク",
+    "kunyomi": "かく(まう)",
+    "strokeCount": 10,
+    "meaning": "hide, conceal, shelter",
+    "compounds": "隠匿(いんとく), 匿名(とくめい)"
+  },
+  {
+    "character": "隻",
+    "onyomi": "セキ",
+    "kunyomi": "セキ",
+    "strokeCount": 10,
+    "meaning": "vessel, one of a pair",
+    "compounds": "一隻(いっせき), 艦隻(かんせき)"
+  }
+]

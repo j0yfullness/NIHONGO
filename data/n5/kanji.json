@@ -1,0 +1,898 @@
+[
+  {
+    "character": "一",
+    "onyomi": "イチ",
+    "kunyomi": "ひと(つ)",
+    "strokeCount": 1,
+    "meaning": "one",
+    "compounds": "一つ(ひとつ)、一人(ひとり)"
+  },
+  {
+    "character": "二",
+    "onyomi": "ニ",
+    "kunyomi": "ふた(つ)",
+    "strokeCount": 2,
+    "meaning": "two",
+    "compounds": "二つ(ふたつ)、二人(ふたり)"
+  },
+  {
+    "character": "三",
+    "onyomi": "サン",
+    "kunyomi": "み(つ)",
+    "strokeCount": 3,
+    "meaning": "three",
+    "compounds": "三つ(みっつ)、三月(さんがつ)"
+  },
+  {
+    "character": "四",
+    "onyomi": "シ",
+    "kunyomi": "よ(つ)、よん",
+    "strokeCount": 5,
+    "meaning": "four",
+    "compounds": "四つ(よっつ)、四月(しがつ)"
+  },
+  {
+    "character": "五",
+    "onyomi": "ゴ",
+    "kunyomi": "いつ(つ)",
+    "strokeCount": 4,
+    "meaning": "five",
+    "compounds": "五つ(いつつ)、五月(ごがつ)"
+  },
+  {
+    "character": "六",
+    "onyomi": "ロク",
+    "kunyomi": "む(つ)",
+    "strokeCount": 4,
+    "meaning": "six",
+    "compounds": "六つ(むっつ)、六月(ろくがつ)"
+  },
+  {
+    "character": "七",
+    "onyomi": "シチ",
+    "kunyomi": "なな(つ)",
+    "strokeCount": 2,
+    "meaning": "seven",
+    "compounds": "七つ(ななつ)、七月(しちがつ)"
+  },
+  {
+    "character": "八",
+    "onyomi": "ハチ",
+    "kunyomi": "や(つ)",
+    "strokeCount": 2,
+    "meaning": "eight",
+    "compounds": "八つ(やっつ)、八月(はちがつ)"
+  },
+  {
+    "character": "九",
+    "onyomi": "キュウ",
+    "kunyomi": "ここの(つ)",
+    "strokeCount": 2,
+    "meaning": "nine",
+    "compounds": "九つ(ここのつ)、九月(くがつ)"
+  },
+  {
+    "character": "十",
+    "onyomi": "ジュウ",
+    "kunyomi": "とお",
+    "strokeCount": 2,
+    "meaning": "ten",
+    "compounds": "十(じゅう)、十分(じゅうぶん)"
+  },
+  {
+    "character": "百",
+    "onyomi": "ヒャク",
+    "kunyomi": "",
+    "strokeCount": 6,
+    "meaning": "hundred",
+    "compounds": "百(ひゃく)、百円(ひゃくえん)"
+  },
+  {
+    "character": "千",
+    "onyomi": "セン",
+    "kunyomi": "ち",
+    "strokeCount": 3,
+    "meaning": "thousand",
+    "compounds": "千(せん)、千円(せんえん)"
+  },
+  {
+    "character": "万",
+    "onyomi": "マン",
+    "kunyomi": "",
+    "strokeCount": 3,
+    "meaning": "ten thousand",
+    "compounds": "一万(いちまん)、万年筆(まんねんひつ)"
+  },
+  {
+    "character": "日",
+    "onyomi": "ニチ、ジツ",
+    "kunyomi": "ひ、か",
+    "strokeCount": 4,
+    "meaning": "day, sun",
+    "compounds": "日曜日(にちようび)、毎日(まいにち)"
+  },
+  {
+    "character": "月",
+    "onyomi": "ゲツ、ガツ",
+    "kunyomi": "つき",
+    "strokeCount": 4,
+    "meaning": "month, moon",
+    "compounds": "月曜日(げつようび)、今月(こんげつ)"
+  },
+  {
+    "character": "火",
+    "onyomi": "カ",
+    "kunyomi": "ひ",
+    "strokeCount": 4,
+    "meaning": "fire",
+    "compounds": "火曜日(かようび)、火事(かじ)"
+  },
+  {
+    "character": "水",
+    "onyomi": "スイ",
+    "kunyomi": "みず",
+    "strokeCount": 4,
+    "meaning": "water",
+    "compounds": "水曜日(すいようび)、水(みず)"
+  },
+  {
+    "character": "木",
+    "onyomi": "モク、ボク",
+    "kunyomi": "き",
+    "strokeCount": 4,
+    "meaning": "tree, wood",
+    "compounds": "木曜日(もくようび)、木(き)"
+  },
+  {
+    "character": "金",
+    "onyomi": "キン、コン",
+    "kunyomi": "かね",
+    "strokeCount": 8,
+    "meaning": "gold, money",
+    "compounds": "金曜日(きんようび)、お金(おかね)"
+  },
+  {
+    "character": "土",
+    "onyomi": "ド、ト",
+    "kunyomi": "つち",
+    "strokeCount": 3,
+    "meaning": "earth, soil",
+    "compounds": "土曜日(どようび)、土地(とち)"
+  },
+  {
+    "character": "年",
+    "onyomi": "ネン",
+    "kunyomi": "とし",
+    "strokeCount": 6,
+    "meaning": "year",
+    "compounds": "今年(ことし)、去年(きょねん)"
+  },
+  {
+    "character": "時",
+    "onyomi": "ジ",
+    "kunyomi": "とき",
+    "strokeCount": 10,
+    "meaning": "time, hour",
+    "compounds": "時間(じかん)、時計(とけい)"
+  },
+  {
+    "character": "分",
+    "onyomi": "ブン、フン",
+    "kunyomi": "わ(ける)",
+    "strokeCount": 4,
+    "meaning": "minute, part",
+    "compounds": "十分(じゅうぶん)、自分(じぶん)"
+  },
+  {
+    "character": "半",
+    "onyomi": "ハン",
+    "kunyomi": "なか(ば)",
+    "strokeCount": 5,
+    "meaning": "half",
+    "compounds": "半分(はんぶん)、半年(はんとし)"
+  },
+  {
+    "character": "今",
+    "onyomi": "コン、キン",
+    "kunyomi": "いま",
+    "strokeCount": 4,
+    "meaning": "now, present",
+    "compounds": "今日(きょう)、今週(こんしゅう)"
+  },
+  {
+    "character": "毎",
+    "onyomi": "マイ",
+    "kunyomi": "ごと",
+    "strokeCount": 6,
+    "meaning": "every, each",
+    "compounds": "毎日(まいにち)、毎週(まいしゅう)"
+  },
+  {
+    "character": "週",
+    "onyomi": "シュウ",
+    "kunyomi": "",
+    "strokeCount": 11,
+    "meaning": "week",
+    "compounds": "週末(しゅうまつ)、今週(こんしゅう)"
+  },
+  {
+    "character": "曜",
+    "onyomi": "ヨウ",
+    "kunyomi": "",
+    "strokeCount": 18,
+    "meaning": "day of the week",
+    "compounds": "日曜日(にちようび)、月曜日(げつようび)"
+  },
+  {
+    "character": "人",
+    "onyomi": "ジン、ニン",
+    "kunyomi": "ひと",
+    "strokeCount": 2,
+    "meaning": "person",
+    "compounds": "日本人(にほんじん)、大人(おとな)"
+  },
+  {
+    "character": "男",
+    "onyomi": "ダン、ナン",
+    "kunyomi": "おとこ",
+    "strokeCount": 7,
+    "meaning": "man",
+    "compounds": "男の人(おとこのひと)、男性(だんせい)"
+  },
+  {
+    "character": "女",
+    "onyomi": "ジョ、ニョ",
+    "kunyomi": "おんな",
+    "strokeCount": 3,
+    "meaning": "woman",
+    "compounds": "女の人(おんなのひと)、女性(じょせい)"
+  },
+  {
+    "character": "子",
+    "onyomi": "シ、ス",
+    "kunyomi": "こ",
+    "strokeCount": 3,
+    "meaning": "child",
+    "compounds": "子ども(こども)、女の子(おんなのこ)"
+  },
+  {
+    "character": "友",
+    "onyomi": "ユウ",
+    "kunyomi": "とも",
+    "strokeCount": 4,
+    "meaning": "friend",
+    "compounds": "友だち(ともだち)、友人(ゆうじん)"
+  },
+  {
+    "character": "先",
+    "onyomi": "セン",
+    "kunyomi": "さき",
+    "strokeCount": 6,
+    "meaning": "previous, ahead",
+    "compounds": "先生(せんせい)、先週(せんしゅう)"
+  },
+  {
+    "character": "生",
+    "onyomi": "セイ、ショウ",
+    "kunyomi": "い(きる)、う(まれる)",
+    "strokeCount": 5,
+    "meaning": "life, birth",
+    "compounds": "先生(せんせい)、学生(がくせい)"
+  },
+  {
+    "character": "学",
+    "onyomi": "ガク",
+    "kunyomi": "まな(ぶ)",
+    "strokeCount": 8,
+    "meaning": "study, learning",
+    "compounds": "学生(がくせい)、学校(がっこう)"
+  },
+  {
+    "character": "名",
+    "onyomi": "メイ、ミョウ",
+    "kunyomi": "な",
+    "strokeCount": 6,
+    "meaning": "name",
+    "compounds": "名前(なまえ)、有名(ゆうめい)"
+  },
+  {
+    "character": "白",
+    "onyomi": "ハク、ビャク",
+    "kunyomi": "しろ、しろ(い)",
+    "strokeCount": 5,
+    "meaning": "white",
+    "compounds": "白い(しろい)、白(しろ)"
+  },
+  {
+    "character": "上",
+    "onyomi": "ジョウ、ショウ",
+    "kunyomi": "うえ、あ(げる)",
+    "strokeCount": 3,
+    "meaning": "up, above",
+    "compounds": "上(うえ)、上手(じょうず)"
+  },
+  {
+    "character": "下",
+    "onyomi": "カ、ゲ",
+    "kunyomi": "した、さ(げる)",
+    "strokeCount": 3,
+    "meaning": "down, below",
+    "compounds": "下(した)、下手(へた)"
+  },
+  {
+    "character": "中",
+    "onyomi": "チュウ",
+    "kunyomi": "なか",
+    "strokeCount": 4,
+    "meaning": "middle, inside",
+    "compounds": "中(なか)、中国(ちゅうごく)"
+  },
+  {
+    "character": "外",
+    "onyomi": "ガイ、ゲ",
+    "kunyomi": "そと、ほか",
+    "strokeCount": 5,
+    "meaning": "outside",
+    "compounds": "外(そと)、外国(がいこく)"
+  },
+  {
+    "character": "前",
+    "onyomi": "ゼン",
+    "kunyomi": "まえ",
+    "strokeCount": 9,
+    "meaning": "front, before",
+    "compounds": "前(まえ)、名前(なまえ)"
+  },
+  {
+    "character": "後",
+    "onyomi": "ゴ、コウ",
+    "kunyomi": "あと、うし(ろ)",
+    "strokeCount": 9,
+    "meaning": "after, behind",
+    "compounds": "後(あと)、午後(ごご)"
+  },
+  {
+    "character": "右",
+    "onyomi": "ウ、ユウ",
+    "kunyomi": "みぎ",
+    "strokeCount": 5,
+    "meaning": "right",
+    "compounds": "右(みぎ)、右手(みぎて)"
+  },
+  {
+    "character": "左",
+    "onyomi": "サ",
+    "kunyomi": "ひだり",
+    "strokeCount": 5,
+    "meaning": "left",
+    "compounds": "左(ひだり)、左手(ひだりて)"
+  },
+  {
+    "character": "東",
+    "onyomi": "トウ",
+    "kunyomi": "ひがし",
+    "strokeCount": 8,
+    "meaning": "east",
+    "compounds": "東(ひがし)、東京(とうきょう)"
+  },
+  {
+    "character": "西",
+    "onyomi": "セイ、サイ",
+    "kunyomi": "にし",
+    "strokeCount": 6,
+    "meaning": "west",
+    "compounds": "西(にし)、西口(にしぐち)"
+  },
+  {
+    "character": "南",
+    "onyomi": "ナン",
+    "kunyomi": "みなみ",
+    "strokeCount": 9,
+    "meaning": "south",
+    "compounds": "南(みなみ)、南口(みなみぐち)"
+  },
+  {
+    "character": "北",
+    "onyomi": "ホク",
+    "kunyomi": "きた",
+    "strokeCount": 5,
+    "meaning": "north",
+    "compounds": "北(きた)、北海道(ほっかいどう)"
+  },
+  {
+    "character": "口",
+    "onyomi": "コウ、ク",
+    "kunyomi": "くち",
+    "strokeCount": 3,
+    "meaning": "mouth, entrance",
+    "compounds": "入口(いりぐち)、出口(でぐち)"
+  },
+  {
+    "character": "門",
+    "onyomi": "モン",
+    "kunyomi": "かど",
+    "strokeCount": 8,
+    "meaning": "gate",
+    "compounds": "門(もん)、専門(せんもん)"
+  },
+  {
+    "character": "国",
+    "onyomi": "コク",
+    "kunyomi": "くに",
+    "strokeCount": 8,
+    "meaning": "country",
+    "compounds": "外国(がいこく)、中国(ちゅうごく)"
+  },
+  {
+    "character": "山",
+    "onyomi": "サン",
+    "kunyomi": "やま",
+    "strokeCount": 3,
+    "meaning": "mountain",
+    "compounds": "山(やま)、富士山(ふじさん)"
+  },
+  {
+    "character": "川",
+    "onyomi": "セン",
+    "kunyomi": "かわ",
+    "strokeCount": 3,
+    "meaning": "river",
+    "compounds": "川(かわ)、小川(おがわ)"
+  },
+  {
+    "character": "田",
+    "onyomi": "デン",
+    "kunyomi": "た",
+    "strokeCount": 5,
+    "meaning": "rice field",
+    "compounds": "田中(たなか)、田んぼ(たんぼ)"
+  },
+  {
+    "character": "海",
+    "onyomi": "カイ",
+    "kunyomi": "うみ",
+    "strokeCount": 9,
+    "meaning": "sea, ocean",
+    "compounds": "海(うみ)、海外(かいがい)"
+  },
+  {
+    "character": "空",
+    "onyomi": "クウ",
+    "kunyomi": "そら、あ(く)",
+    "strokeCount": 8,
+    "meaning": "sky, empty",
+    "compounds": "空(そら)、空港(くうこう)"
+  },
+  {
+    "character": "行",
+    "onyomi": "コウ、ギョウ",
+    "kunyomi": "い(く)、おこな(う)",
+    "strokeCount": 6,
+    "meaning": "go, carry out",
+    "compounds": "行く(いく)、銀行(ぎんこう)"
+  },
+  {
+    "character": "来",
+    "onyomi": "ライ",
+    "kunyomi": "く(る)",
+    "strokeCount": 7,
+    "meaning": "come",
+    "compounds": "来る(くる)、来年(らいねん)"
+  },
+  {
+    "character": "出",
+    "onyomi": "シュツ、スイ",
+    "kunyomi": "で(る)、だ(す)",
+    "strokeCount": 5,
+    "meaning": "exit, put out",
+    "compounds": "出口(でぐち)、出る(でる)"
+  },
+  {
+    "character": "入",
+    "onyomi": "ニュウ",
+    "kunyomi": "い(る)、はい(る)",
+    "strokeCount": 2,
+    "meaning": "enter",
+    "compounds": "入口(いりぐち)、入る(はいる)"
+  },
+  {
+    "character": "見",
+    "onyomi": "ケン",
+    "kunyomi": "み(る)",
+    "strokeCount": 7,
+    "meaning": "see",
+    "compounds": "見る(みる)、花見(はなみ)"
+  },
+  {
+    "character": "聞",
+    "onyomi": "ブン",
+    "kunyomi": "き(く)",
+    "strokeCount": 14,
+    "meaning": "hear, ask",
+    "compounds": "聞く(きく)、新聞(しんぶん)"
+  },
+  {
+    "character": "言",
+    "onyomi": "ゲン、ゴン",
+    "kunyomi": "い(う)、こと",
+    "strokeCount": 7,
+    "meaning": "say, word",
+    "compounds": "言う(いう)、言葉(ことば)"
+  },
+  {
+    "character": "話",
+    "onyomi": "ワ",
+    "kunyomi": "はな(す)、はなし",
+    "strokeCount": 13,
+    "meaning": "speak, talk",
+    "compounds": "話す(はなす)、電話(でんわ)"
+  },
+  {
+    "character": "読",
+    "onyomi": "ドク",
+    "kunyomi": "よ(む)",
+    "strokeCount": 14,
+    "meaning": "read",
+    "compounds": "読む(よむ)、読書(どくしょ)"
+  },
+  {
+    "character": "書",
+    "onyomi": "ショ",
+    "kunyomi": "か(く)",
+    "strokeCount": 10,
+    "meaning": "write",
+    "compounds": "書く(かく)、辞書(じしょ)"
+  },
+  {
+    "character": "食",
+    "onyomi": "ショク、ジキ",
+    "kunyomi": "た(べる)",
+    "strokeCount": 9,
+    "meaning": "eat, food",
+    "compounds": "食べる(たべる)、食べ物(たべもの)"
+  },
+  {
+    "character": "飲",
+    "onyomi": "イン",
+    "kunyomi": "の(む)",
+    "strokeCount": 12,
+    "meaning": "drink",
+    "compounds": "飲む(のむ)、飲み物(のみもの)"
+  },
+  {
+    "character": "買",
+    "onyomi": "バイ",
+    "kunyomi": "か(う)",
+    "strokeCount": 12,
+    "meaning": "buy",
+    "compounds": "買う(かう)、買い物(かいもの)"
+  },
+  {
+    "character": "物",
+    "onyomi": "ブツ、モツ",
+    "kunyomi": "もの",
+    "strokeCount": 8,
+    "meaning": "thing",
+    "compounds": "物(もの)、食べ物(たべもの)"
+  },
+  {
+    "character": "立",
+    "onyomi": "リツ、リュウ",
+    "kunyomi": "た(つ)",
+    "strokeCount": 5,
+    "meaning": "stand",
+    "compounds": "立つ(たつ)、立派(りっぱ)"
+  },
+  {
+    "character": "休",
+    "onyomi": "キュウ",
+    "kunyomi": "やす(む)",
+    "strokeCount": 6,
+    "meaning": "rest",
+    "compounds": "休む(やすむ)、休み(やすみ)"
+  },
+  {
+    "character": "歩",
+    "onyomi": "ホ、ブ",
+    "kunyomi": "ある(く)",
+    "strokeCount": 8,
+    "meaning": "walk",
+    "compounds": "歩く(あるく)、散歩(さんぽ)"
+  },
+  {
+    "character": "作",
+    "onyomi": "サク、サ",
+    "kunyomi": "つく(る)",
+    "strokeCount": 7,
+    "meaning": "make, create",
+    "compounds": "作る(つくる)、作文(さくぶん)"
+  },
+  {
+    "character": "大",
+    "onyomi": "ダイ、タイ",
+    "kunyomi": "おお(きい)",
+    "strokeCount": 3,
+    "meaning": "big",
+    "compounds": "大きい(おおきい)、大学(だいがく)"
+  },
+  {
+    "character": "小",
+    "onyomi": "ショウ",
+    "kunyomi": "ちい(さい)、こ",
+    "strokeCount": 3,
+    "meaning": "small",
+    "compounds": "小さい(ちいさい)、小学校(しょうがっこう)"
+  },
+  {
+    "character": "高",
+    "onyomi": "コウ",
+    "kunyomi": "たか(い)",
+    "strokeCount": 10,
+    "meaning": "high, expensive",
+    "compounds": "高い(たかい)、高校(こうこう)"
+  },
+  {
+    "character": "長",
+    "onyomi": "チョウ",
+    "kunyomi": "なが(い)",
+    "strokeCount": 8,
+    "meaning": "long",
+    "compounds": "長い(ながい)、校長(こうちょう)"
+  },
+  {
+    "character": "新",
+    "onyomi": "シン",
+    "kunyomi": "あたら(しい)",
+    "strokeCount": 13,
+    "meaning": "new",
+    "compounds": "新しい(あたらしい)、新聞(しんぶん)"
+  },
+  {
+    "character": "古",
+    "onyomi": "コ",
+    "kunyomi": "ふる(い)",
+    "strokeCount": 5,
+    "meaning": "old",
+    "compounds": "古い(ふるい)、中古(ちゅうこ)"
+  },
+  {
+    "character": "多",
+    "onyomi": "タ",
+    "kunyomi": "おお(い)",
+    "strokeCount": 6,
+    "meaning": "many, much",
+    "compounds": "多い(おおい)、多分(たぶん)"
+  },
+  {
+    "character": "少",
+    "onyomi": "ショウ",
+    "kunyomi": "すく(ない)、すこ(し)",
+    "strokeCount": 4,
+    "meaning": "few, little",
+    "compounds": "少ない(すくない)、少し(すこし)"
+  },
+  {
+    "character": "安",
+    "onyomi": "アン",
+    "kunyomi": "やす(い)",
+    "strokeCount": 6,
+    "meaning": "cheap, peaceful",
+    "compounds": "安い(やすい)、安心(あんしん)"
+  },
+  {
+    "character": "天",
+    "onyomi": "テン",
+    "kunyomi": "あめ",
+    "strokeCount": 4,
+    "meaning": "heaven, sky",
+    "compounds": "天気(てんき)、天(あめ)"
+  },
+  {
+    "character": "気",
+    "onyomi": "キ、ケ",
+    "kunyomi": "",
+    "strokeCount": 6,
+    "meaning": "spirit, energy",
+    "compounds": "天気(てんき)、気持ち(きもち)"
+  },
+  {
+    "character": "円",
+    "onyomi": "エン",
+    "kunyomi": "まる(い)",
+    "strokeCount": 4,
+    "meaning": "circle, yen",
+    "compounds": "円(えん)、百円(ひゃくえん)"
+  },
+  {
+    "character": "店",
+    "onyomi": "テン",
+    "kunyomi": "みせ",
+    "strokeCount": 8,
+    "meaning": "store, shop",
+    "compounds": "店(みせ)、喫茶店(きっさてん)"
+  },
+  {
+    "character": "雨",
+    "onyomi": "ウ",
+    "kunyomi": "あめ",
+    "strokeCount": 8,
+    "meaning": "rain",
+    "compounds": "雨(あめ)、大雨(おおあめ)"
+  },
+  {
+    "character": "花",
+    "onyomi": "カ",
+    "kunyomi": "はな",
+    "strokeCount": 7,
+    "meaning": "flower",
+    "compounds": "花(はな)、花見(はなみ)"
+  },
+  {
+    "character": "林",
+    "onyomi": "リン",
+    "kunyomi": "はやし",
+    "strokeCount": 8,
+    "meaning": "grove",
+    "compounds": "林(はやし)、林(りん)"
+  },
+  {
+    "character": "森",
+    "onyomi": "シン",
+    "kunyomi": "もり",
+    "strokeCount": 12,
+    "meaning": "forest",
+    "compounds": "森(もり)、森林(しんりん)"
+  },
+  {
+    "character": "電",
+    "onyomi": "デン",
+    "kunyomi": "",
+    "strokeCount": 13,
+    "meaning": "electricity",
+    "compounds": "電話(でんわ)、電車(でんしゃ)"
+  },
+  {
+    "character": "車",
+    "onyomi": "シャ",
+    "kunyomi": "くるま",
+    "strokeCount": 7,
+    "meaning": "car, vehicle",
+    "compounds": "車(くるま)、電車(でんしゃ)"
+  },
+  {
+    "character": "道",
+    "onyomi": "ドウ",
+    "kunyomi": "みち",
+    "strokeCount": 12,
+    "meaning": "road, way",
+    "compounds": "道(みち)、道路(どうろ)"
+  },
+  {
+    "character": "足",
+    "onyomi": "ソク",
+    "kunyomi": "あし、た(りる)",
+    "strokeCount": 7,
+    "meaning": "foot, leg, enough",
+    "compounds": "足(あし)、足りる(たりる)"
+  },
+  {
+    "character": "手",
+    "onyomi": "シュ",
+    "kunyomi": "て",
+    "strokeCount": 4,
+    "meaning": "hand",
+    "compounds": "手(て)、上手(じょうず)"
+  },
+  {
+    "character": "目",
+    "onyomi": "モク",
+    "kunyomi": "め",
+    "strokeCount": 5,
+    "meaning": "eye",
+    "compounds": "目(め)、目的(もくてき)"
+  },
+  {
+    "character": "耳",
+    "onyomi": "ジ",
+    "kunyomi": "みみ",
+    "strokeCount": 6,
+    "meaning": "ear",
+    "compounds": "耳(みみ)"
+  },
+  {
+    "character": "体",
+    "onyomi": "タイ",
+    "kunyomi": "からだ",
+    "strokeCount": 7,
+    "meaning": "body",
+    "compounds": "体(からだ)、大体(だいたい)"
+  },
+  {
+    "character": "会",
+    "onyomi": "カイ",
+    "kunyomi": "あ(う)",
+    "strokeCount": 6,
+    "meaning": "meet, society",
+    "compounds": "会う(あう)、会社(かいしゃ)"
+  },
+  {
+    "character": "社",
+    "onyomi": "シャ",
+    "kunyomi": "やしろ",
+    "strokeCount": 7,
+    "meaning": "company, shrine",
+    "compounds": "会社(かいしゃ)、社会(しゃかい)"
+  },
+  {
+    "character": "校",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "strokeCount": 10,
+    "meaning": "school",
+    "compounds": "学校(がっこう)、高校(こうこう)"
+  },
+  {
+    "character": "本",
+    "onyomi": "ホン",
+    "kunyomi": "もと",
+    "strokeCount": 5,
+    "meaning": "book, origin",
+    "compounds": "本(ほん)、日本(にほん)"
+  },
+  {
+    "character": "文",
+    "onyomi": "ブン、モン",
+    "kunyomi": "ふみ",
+    "strokeCount": 4,
+    "meaning": "sentence, literature",
+    "compounds": "文(ぶん)、文字(もじ)"
+  },
+  {
+    "character": "字",
+    "onyomi": "ジ",
+    "kunyomi": "あざ",
+    "strokeCount": 6,
+    "meaning": "character, letter",
+    "compounds": "字(じ)、文字(もじ)"
+  },
+  {
+    "character": "語",
+    "onyomi": "ゴ",
+    "kunyomi": "かた(る)",
+    "strokeCount": 14,
+    "meaning": "language, word",
+    "compounds": "日本語(にほんご)、英語(えいご)"
+  },
+  {
+    "character": "正",
+    "onyomi": "セイ、ショウ",
+    "kunyomi": "ただ(しい)",
+    "strokeCount": 5,
+    "meaning": "correct, proper",
+    "compounds": "正しい(ただしい)、正解(せいかい)"
+  },
+  {
+    "character": "間",
+    "onyomi": "カン、ケン",
+    "kunyomi": "あいだ、ま",
+    "strokeCount": 12,
+    "meaning": "interval, between",
+    "compounds": "時間(じかん)、間(あいだ)"
+  },
+  {
+    "character": "何",
+    "onyomi": "カ",
+    "kunyomi": "なに、なん",
+    "strokeCount": 7,
+    "meaning": "what",
+    "compounds": "何(なに)、何人(なんにん)"
+  },
+  {
+    "character": "私",
+    "onyomi": "シ",
+    "kunyomi": "わたし、わたくし",
+    "strokeCount": 7,
+    "meaning": "I, private",
+    "compounds": "私(わたし)、私立(しりつ)"
+  }
+]

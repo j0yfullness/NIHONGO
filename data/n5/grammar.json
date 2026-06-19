@@ -1,0 +1,632 @@
+[
+  {
+    "pattern": "〜は〜です",
+    "explanation": "Indicates that something is something else. Marks the topic and states what it is.",
+    "usageRules": "Noun A + は + Noun B + です",
+    "exampleSentence": "わたしはがくせいです。",
+    "exampleTranslation": "I am a student."
+  },
+  {
+    "pattern": "〜は〜じゃないです",
+    "explanation": "Negative form indicating something is not something else.",
+    "usageRules": "Noun A + は + Noun B + じゃないです / ではありません",
+    "exampleSentence": "これはほんじゃないです。",
+    "exampleTranslation": "This is not a book."
+  },
+  {
+    "pattern": "〜は〜でした",
+    "explanation": "Past tense affirmative. Indicates that something was something else.",
+    "usageRules": "Noun A + は + Noun B + でした",
+    "exampleSentence": "きのうはたいようびでした。",
+    "exampleTranslation": "Yesterday was Sunday."
+  },
+  {
+    "pattern": "〜は〜じゃなかったです",
+    "explanation": "Past tense negative. Indicates that something was not something else.",
+    "usageRules": "Noun A + は + Noun B + じゃなかったです / ではありませんでした",
+    "exampleSentence": "きのうはやすみじゃなかったです。",
+    "exampleTranslation": "Yesterday was not a holiday."
+  },
+  {
+    "pattern": "〜は〜ですか",
+    "explanation": "Question form. Asks whether something is something else.",
+    "usageRules": "Noun A + は + Noun B + ですか",
+    "exampleSentence": "あなたはにほんじんですか。",
+    "exampleTranslation": "Are you Japanese?"
+  },
+  {
+    "pattern": "〜の〜",
+    "explanation": "Possessive or attributive particle. Links two nouns to show possession or relationship.",
+    "usageRules": "Noun A + の + Noun B",
+    "exampleSentence": "これはわたしのほんです。",
+    "exampleTranslation": "This is my book."
+  },
+  {
+    "pattern": "この/その/あの〜",
+    "explanation": "Demonstrative determiners. この (this near me), その (that near you), あの (that over there).",
+    "usageRules": "この/その/あの + Noun",
+    "exampleSentence": "あのひとはだれですか。",
+    "exampleTranslation": "Who is that person over there?"
+  },
+  {
+    "pattern": "ここ/そこ/あそこ",
+    "explanation": "Demonstrative pronouns for places. ここ (here), そこ (there), あそこ (over there).",
+    "usageRules": "ここ/そこ/あそこ + は + ...",
+    "exampleSentence": "トイレはあそこです。",
+    "exampleTranslation": "The restroom is over there."
+  },
+  {
+    "pattern": "〜は〜が〜",
+    "explanation": "が marks the subject of a sentence while は marks the topic. Used for neutral description or when introducing new information.",
+    "usageRules": "Topic + は + Subject + が + Predicate",
+    "exampleSentence": "かれはあたまがいいです。",
+    "exampleTranslation": "He is smart (lit. As for him, head is good)."
+  },
+  {
+    "pattern": "〜を〜",
+    "explanation": "を marks the direct object of an action verb.",
+    "usageRules": "Noun + を + Verb",
+    "exampleSentence": "りんごをたべます。",
+    "exampleTranslation": "I eat an apple."
+  },
+  {
+    "pattern": "〜に〜",
+    "explanation": "に indicates time or destination. Marks when something happens or where something goes.",
+    "usageRules": "Time/Destination + に + Verb",
+    "exampleSentence": "くじにがっこうにいきます。",
+    "exampleTranslation": "I go to school at nine o'clock."
+  },
+  {
+    "pattern": "〜で〜",
+    "explanation": "で indicates the location of an action or the means by which something is done.",
+    "usageRules": "Location/Means + で + Verb",
+    "exampleSentence": "こうえんでさんぽします。",
+    "exampleTranslation": "I take a walk in the park."
+  },
+  {
+    "pattern": "〜へ〜",
+    "explanation": "へ indicates direction toward a place. Often interchangeable with に for destinations.",
+    "usageRules": "Directional noun + へ + Verb of movement",
+    "exampleSentence": "いえへかえります。",
+    "exampleTranslation": "I go back home."
+  },
+  {
+    "pattern": "〜と〜",
+    "explanation": "と connects nouns together (and) or marks the companion (with).",
+    "usageRules": "Noun A + と + Noun B / Person + と + Verb",
+    "exampleSentence": "ともだちとえいがをみます。",
+    "exampleTranslation": "I watch a movie with my friend."
+  },
+  {
+    "pattern": "〜も〜",
+    "explanation": "も means also or too. Replaces は, が, を when adding similar items.",
+    "usageRules": "Noun + も + Predicate",
+    "exampleSentence": "わたしもにほんごがすきです。",
+    "exampleTranslation": "I also like Japanese."
+  },
+  {
+    "pattern": "〜から〜まで",
+    "explanation": "から marks the starting point (from) and まで marks the ending point (until).",
+    "usageRules": "Time/Place + から + Time/Place + まで",
+    "exampleSentence": "くじからごじまではたらきます。",
+    "exampleTranslation": "I work from nine to five."
+  },
+  {
+    "pattern": "〜だけ",
+    "explanation": "だけ means only or just. Limits the amount or extent.",
+    "usageRules": "Noun/Quantifier + だけ",
+    "exampleSentence": "これだけください。",
+    "exampleTranslation": "Please give me just this."
+  },
+  {
+    "pattern": "〜あげる/〜もらう/〜くれる",
+    "explanation": "Verbs of giving and receiving. あげる (give away), もらう (receive), くれる (give to me).",
+    "usageRules": "Person + に + Object + を + あげる/もらう/くれる",
+    "exampleSentence": "ともだちにプレゼントをあげました。",
+    "exampleTranslation": "I gave a present to my friend."
+  },
+  {
+    "pattern": "〜たい",
+    "explanation": "Expresses desire to do something. Attaches to the masu-stem of a verb.",
+    "usageRules": "Verb-masu-stem + たい",
+    "exampleSentence": "にほんにいきたいです。",
+    "exampleTranslation": "I want to go to Japan."
+  },
+  {
+    "pattern": "〜たことがある",
+    "explanation": "Expresses having done something before. Used with past experience.",
+    "usageRules": "Verb-te-form + たことがある (past) / たことがない (negative)",
+    "exampleSentence": "すしをたべたことがあります。",
+    "exampleTranslation": "I have eaten sushi before."
+  },
+  {
+    "pattern": "〜ている",
+    "explanation": "Indicates an ongoing action (progressive) or a resultant state.",
+    "usageRules": "Verb-te-form + いる",
+    "exampleSentence": "いまほんをよんでいます。",
+    "exampleTranslation": "I am reading a book now."
+  },
+  {
+    "pattern": "〜てください",
+    "explanation": "A polite request. Please do something.",
+    "usageRules": "Verb-te-form + ください",
+    "exampleSentence": "まどをあけてください。",
+    "exampleTranslation": "Please open the window."
+  },
+  {
+    "pattern": "〜てもいいです",
+    "explanation": "Asks or gives permission. May I do something / You may do something.",
+    "usageRules": "Verb-te-form + も + いいです",
+    "exampleSentence": "ここにすわってもいいですか。",
+    "exampleTranslation": "May I sit here?"
+  },
+  {
+    "pattern": "〜てはいけない",
+    "explanation": "Expresses prohibition. Must not do something.",
+    "usageRules": "Verb-te-form + は + いけない / だめ",
+    "exampleSentence": "ここでたべてはいけません。",
+    "exampleTranslation": "You must not eat here."
+  },
+  {
+    "pattern": "〜なければならない",
+    "explanation": "Expresses obligation. Must do something / have to do something.",
+    "usageRules": "Verb-nai-form + なければならない / なくてはいけない",
+    "exampleSentence": "あしたはやくおきなければなりません。",
+    "exampleTranslation": "I must wake up early tomorrow."
+  },
+  {
+    "pattern": "〜なくてもいい",
+    "explanation": "Indicates something is not necessary. Don't have to do something.",
+    "usageRules": "Verb-nai-form + なくてもいい",
+    "exampleSentence": "あしたこなくてもいいです。",
+    "exampleTranslation": "You don't have to come tomorrow."
+  },
+  {
+    "pattern": "〜たほうがいい",
+    "explanation": "Gives advice or recommendation. Had better do something.",
+    "usageRules": "Verb-ta-form + ほうがいい / Verb-nai-form + ない + ほうがいい",
+    "exampleSentence": "くすりをのんだほうがいいです。",
+    "exampleTranslation": "You had better take medicine."
+  },
+  {
+    "pattern": "〜ので",
+    "explanation": "Indicates reason or cause. Because (more polite/softer than から).",
+    "usageRules": "Sentence (plain) + ので + Result",
+    "exampleSentence": "あめがふったので、いきませんでした。",
+    "exampleTranslation": "Because it rained, I didn't go."
+  },
+  {
+    "pattern": "〜から",
+    "explanation": "Indicates reason or cause. Because. More subjective than ので.",
+    "usageRules": "Sentence (plain/polite) + から + Result",
+    "exampleSentence": "おなかがすきましたから、たべましょう。",
+    "exampleTranslation": "Because I'm hungry, let's eat."
+  },
+  {
+    "pattern": "〜が、〜",
+    "explanation": "Connects two clauses with contrast (but) or simply leads into a topic.",
+    "usageRules": "Sentence + が + Sentence",
+    "exampleSentence": "にほんごはむずかしいですが、おもしろいです。",
+    "exampleTranslation": "Japanese is difficult, but it's interesting."
+  },
+  {
+    "pattern": "〜と〜",
+    "explanation": "Indicates a natural conditional. When/if A happens, B naturally follows.",
+    "usageRules": "Sentence (plain, non-past) + と + Result",
+    "exampleSentence": "はるになると、さくらがさきます。",
+    "exampleTranslation": "When spring comes, cherry blossoms bloom."
+  },
+  {
+    "pattern": "〜とき",
+    "explanation": "Indicates the time when something happens. When.",
+    "usageRules": "Verb (plain) / Adjective + とき + Main clause",
+    "exampleSentence": "にほんにいくとき、パスポートがいります。",
+    "exampleTranslation": "When going to Japan, you need a passport."
+  },
+  {
+    "pattern": "〜まえに",
+    "explanation": "Expresses doing something before another action. Before.",
+    "usageRules": "Verb (dictionary form) / Noun + の + まえに",
+    "exampleSentence": "たべるまえに、てをあらいます。",
+    "exampleTranslation": "I wash my hands before eating."
+  },
+  {
+    "pattern": "〜あとに",
+    "explanation": "Expresses doing something after another action. After.",
+    "usageRules": "Verb-ta-form / Noun + の + あとに",
+    "exampleSentence": "しごとのあとに、ジムにいきます。",
+    "exampleTranslation": "I go to the gym after work."
+  },
+  {
+    "pattern": "〜てから",
+    "explanation": "Indicates that one action happens after another. After doing.",
+    "usageRules": "Verb-te-form + から",
+    "exampleSentence": "てをあらってから、たべます。",
+    "exampleTranslation": "After washing hands, I eat."
+  },
+  {
+    "pattern": "〜たり〜たりする",
+    "explanation": "Lists representative activities. Do things like A and B (among others).",
+    "usageRules": "Verb-ta-form + り + Verb-ta-form + り + する",
+    "exampleSentence": "にちようびはほんをよんだり、さんぽしたりします。",
+    "exampleTranslation": "On Sundays I do things like reading books and taking walks."
+  },
+  {
+    "pattern": "〜くなる/になる",
+    "explanation": "Indicates a change of state. Become (something).",
+    "usageRules": "い-Adjective (remove い) + く + なる / な-Adjective + に + なる / Noun + に + なる",
+    "exampleSentence": "さむくなりました。",
+    "exampleTranslation": "It became cold."
+  },
+  {
+    "pattern": "〜くする/にする",
+    "explanation": "Indicates making something a certain way or deciding on something.",
+    "usageRules": "い-Adjective (remove い) + く + する / な-Adjective + に + する / Noun + に + する",
+    "exampleSentence": "へやをきれいにします。",
+    "exampleTranslation": "I will clean the room (make it clean)."
+  },
+  {
+    "pattern": "〜すぎる",
+    "explanation": "Indicates doing something excessively. Too much.",
+    "usageRules": "Verb-masu-stem + すぎる / い-Adjective (remove い) + すぎる / な-Adjective + すぎる",
+    "exampleSentence": "たべすぎました。",
+    "exampleTranslation": "I ate too much."
+  },
+  {
+    "pattern": "〜やすい/〜にくい",
+    "explanation": "Indicates ease or difficulty of an action. Easy/difficult to do.",
+    "usageRules": "Verb-masu-stem + やすい / Verb-masu-stem + にくい",
+    "exampleSentence": "このじてんしゃはのりやすいです。",
+    "exampleTranslation": "This bicycle is easy to ride."
+  },
+  {
+    "pattern": "〜ましょう",
+    "explanation": "Volitional form. Let's do something. Offers a suggestion or invitation.",
+    "usageRules": "Verb-masu-stem + ましょう",
+    "exampleSentence": "いっしょにこうえんにいきましょう。",
+    "exampleTranslation": "Let's go to the park together."
+  },
+  {
+    "pattern": "〜ませんか",
+    "explanation": "Polite invitation. Won't you do something? More tentative than ましょう.",
+    "usageRules": "Verb-masu-stem + ませんか",
+    "exampleSentence": "いっしょにごはんをたべませんか。",
+    "exampleTranslation": "Won't you eat with me?"
+  },
+  {
+    "pattern": "〜ましょうか",
+    "explanation": "Offering to do something for someone. Shall I do something?",
+    "usageRules": "Verb-masu-stem + ましょうか",
+    "exampleSentence": "まどをしめましょうか。",
+    "exampleTranslation": "Shall I close the window?"
+  },
+  {
+    "pattern": "〜をください",
+    "explanation": "A polite request for an item. Please give me something.",
+    "usageRules": "Noun + をください",
+    "exampleSentence": "みずをください。",
+    "exampleTranslation": "Please give me water."
+  },
+  {
+    "pattern": "〜をおねがいします",
+    "explanation": "A polite request for a service or item. Please handle this / I'd like this.",
+    "usageRules": "Noun + をおねがいします",
+    "exampleSentence": "コーヒーをおねがいします。",
+    "exampleTranslation": "Coffee, please."
+  },
+  {
+    "pattern": "〜をしっていますか",
+    "explanation": "Asks if someone knows something. Do you know?",
+    "usageRules": "Noun + を + しっていますか / しっています (know) / しりません (don't know)",
+    "exampleSentence": "あのひとをしっていますか。",
+    "exampleTranslation": "Do you know that person?"
+  },
+  {
+    "pattern": "〜がほしい",
+    "explanation": "Expresses desire to possess something. Want something.",
+    "usageRules": "Noun + が + ほしい",
+    "exampleSentence": "あたらしいけいたいがほしいです。",
+    "exampleTranslation": "I want a new phone."
+  },
+  {
+    "pattern": "〜と思う",
+    "explanation": "Expresses an opinion or thought. I think that...",
+    "usageRules": "Sentence (plain) + と思う / と思います",
+    "exampleSentence": "あしたはあめだとおもいます。",
+    "exampleTranslation": "I think it will rain tomorrow."
+  },
+  {
+    "pattern": "〜と言う",
+    "explanation": "Quotes what someone said. Someone said that...",
+    "usageRules": "Quote (plain) + と + 言う / 言いました",
+    "exampleSentence": "かのじょはあしたくるといいました。",
+    "exampleTranslation": "She said she will come tomorrow."
+  },
+  {
+    "pattern": "〜のです/〜んです",
+    "explanation": "Adds explanatory or emphatic tone. It is that... / The reason is...",
+    "usageRules": "Sentence (plain) + のです / んです (more conversational)",
+    "exampleSentence": "あたまがいたいんです。",
+    "exampleTranslation": "It's that I have a headache (explaining why I look unwell)."
+  },
+  {
+    "pattern": "〜のを/〜ことを〜",
+    "explanation": "Nominalization. Turns a verb or adjective into a noun phrase.",
+    "usageRules": "Verb (plain) + の/こと + Particle",
+    "exampleSentence": "ほんをよむのがすきです。",
+    "exampleTranslation": "I like reading books."
+  },
+  {
+    "pattern": "〜ことができる",
+    "explanation": "Expresses ability. Can do something / be able to do something.",
+    "usageRules": "Verb (dictionary form) + ことができる",
+    "exampleSentence": "にほんごをはなすことができます。",
+    "exampleTranslation": "I can speak Japanese."
+  },
+  {
+    "pattern": "〜てくれますか",
+    "explanation": "A polite request asking someone to do something for you. Will you do for me?",
+    "usageRules": "Verb-te-form + くれますか",
+    "exampleSentence": "てつだってくれますか。",
+    "exampleTranslation": "Will you help me?"
+  },
+  {
+    "pattern": "〜させてください",
+    "explanation": "Asks for permission to do something. Please let me do something.",
+    "usageRules": "Verb-causative-form + て + ください",
+    "exampleSentence": "じゆうにさせてください。",
+    "exampleTranslation": "Please let me do as I like."
+  },
+  {
+    "pattern": "〜なさい",
+    "explanation": "A command or instruction, softer than imperative. Do something.",
+    "usageRules": "Verb-masu-stem + なさい",
+    "exampleSentence": "しゅくだいをしなさい。",
+    "exampleTranslation": "Do your homework."
+  },
+  {
+    "pattern": "〜でしょう",
+    "explanation": "Expresses probability or conjecture. Probably / I think.",
+    "usageRules": "Sentence (plain) + でしょう",
+    "exampleSentence": "あしたもあめでしょう。",
+    "exampleTranslation": "It will probably rain tomorrow too."
+  },
+  {
+    "pattern": "〜かもしれない",
+    "explanation": "Expresses possibility. Might / may / perhaps.",
+    "usageRules": "Sentence (plain) + かもしれない",
+    "exampleSentence": "かれはくるかもしれません。",
+    "exampleTranslation": "He might come."
+  },
+  {
+    "pattern": "〜はずです",
+    "explanation": "Expresses something expected based on information. Should be / supposed to be.",
+    "usageRules": "Sentence (plain) + はずです / はずがない (negative)",
+    "exampleSentence": "かれはしっているはずです。",
+    "exampleTranslation": "He should know."
+  },
+  {
+    "pattern": "〜つもりです",
+    "explanation": "Expresses intention. Intend to do something / plan to do something.",
+    "usageRules": "Verb (dictionary form) + つもりです / Verb-nai-form + つもりです",
+    "exampleSentence": "にほんにりゅうがくするつもりです。",
+    "exampleTranslation": "I intend to study abroad in Japan."
+  },
+  {
+    "pattern": "〜たいと思います",
+    "explanation": "Expresses a wish or desire politely. I think I want to / I would like to.",
+    "usageRules": "Verb-masu-stem + たい + と思います",
+    "exampleSentence": "にほんごをべんきょうしたいとおもいます。",
+    "exampleTranslation": "I think I want to study Japanese."
+  },
+  {
+    "pattern": "〜ても〜",
+    "explanation": "Expresses even if / although. Concessive clause.",
+    "usageRules": "Verb-te-form + も + Clause / い-Adjective-te-form + も",
+    "exampleSentence": "あめがふっても、いきます。",
+    "exampleTranslation": "Even if it rains, I will go."
+  },
+  {
+    "pattern": "〜しか〜ない",
+    "explanation": "Expresses limitation. Only / nothing but. Used with negative verb.",
+    "usageRules": "Noun + しか + Negative verb",
+    "exampleSentence": "ごひゃくえんしかもっていません。",
+    "exampleTranslation": "I only have 500 yen."
+  },
+  {
+    "pattern": "〜より〜",
+    "explanation": "Used for comparisons. Than.",
+    "usageRules": "Noun A + より + Noun B + のほうが + Adjective / Noun A + より + Adjective",
+    "exampleSentence": "にほんごよりえいごのほうがかんたんです。",
+    "exampleTranslation": "English is easier than Japanese."
+  },
+  {
+    "pattern": "〜のほうが〜",
+    "explanation": "Indicates that one thing is more than another. More... than...",
+    "usageRules": "Noun A + より + Noun B + のほうが + Adjective",
+    "exampleSentence": "くるまよりじてんしゃのほうがはやいです。",
+    "exampleTranslation": "The bicycle is faster than the car."
+  },
+  {
+    "pattern": "〜と〜とどちらが〜",
+    "explanation": "Asking which one is more between two items. Which is more?",
+    "usageRules": "Noun A + と + Noun B + と + どちらが + Adjective + か",
+    "exampleSentence": "ねこといぬとどちらがすきですか。",
+    "exampleTranslation": "Which do you like more, cats or dogs?"
+  },
+  {
+    "pattern": "Counter: 〜つ",
+    "explanation": "Generic counter for things (up to 10). Used for small objects and abstract items.",
+    "usageRules": "Number + つ",
+    "exampleSentence": "りんごをみっつください。",
+    "exampleTranslation": "Please give me three apples."
+  },
+  {
+    "pattern": "Counter: 〜人",
+    "explanation": "Counter for people.",
+    "usageRules": "Number (special readings) + 人 (にん)",
+    "exampleSentence": "かぞくはよにんです。",
+    "exampleTranslation": "My family has four people."
+  },
+  {
+    "pattern": "Counter: 〜枚",
+    "explanation": "Counter for flat objects such as paper, plates, stamps, etc.",
+    "usageRules": "Number + 枚 (まい)",
+    "exampleSentence": "かみをごまいください。",
+    "exampleTranslation": "Please give me five sheets of paper."
+  },
+  {
+    "pattern": "Counter: 〜匹",
+    "explanation": "Counter for small animals, fish, insects.",
+    "usageRules": "Number + 匹 (ひき/ぴき/びき)",
+    "exampleSentence": "ねこがにひきいます。",
+    "exampleTranslation": "There are two cats."
+  },
+  {
+    "pattern": "あまり〜ない",
+    "explanation": "Used with a negative verb to mean not very / not much.",
+    "usageRules": "あまり + Negative verb/adjective",
+    "exampleSentence": "さしみはあまりすきじゃないです。",
+    "exampleTranslation": "I don't like sashimi very much."
+  },
+  {
+    "pattern": "Quantifier + も",
+    "explanation": "Indicates an unexpectedly large (or small) quantity. As many as / as few as.",
+    "usageRules": "Quantifier + も + Verb (affirmative for large amount, negative for small amount)",
+    "exampleSentence": "ともだちがじゅうにんもきました。",
+    "exampleTranslation": "As many as ten friends came."
+  },
+  {
+    "pattern": "〜か〜か",
+    "explanation": "Presents alternatives. Whether A or B.",
+    "usageRules": "Sentence A (plain) + か + Sentence B (plain) + か + Predicate",
+    "exampleSentence": "いくかかないか、まだわかりません。",
+    "exampleTranslation": "I don't know yet whether I'll go or not."
+  },
+  {
+    "pattern": "Question word + か",
+    "explanation": "Indefinite pronoun. Someone (だれか), somewhere (どこか), something (なにか).",
+    "usageRules": "Question word (だれ/どこ/なに) + か + Particle/Verb",
+    "exampleSentence": "どこかにかぎをおとしました。",
+    "exampleTranslation": "I dropped the key somewhere."
+  },
+  {
+    "pattern": "Question word + も",
+    "explanation": "Negative universal. No one (だれも〜ない), nowhere (どこも〜ない), nothing (なにも〜ない).",
+    "usageRules": "Question word + も + Negative verb",
+    "exampleSentence": "きょうしつだれもいません。",
+    "exampleTranslation": "There is no one in the classroom."
+  },
+  {
+    "pattern": "Question word + も (affirmative)",
+    "explanation": "Universal affirmative. Everyone (だれも), everywhere (どこも), everything (なんでも).",
+    "usageRules": "Question word + も + Affirmative verb",
+    "exampleSentence": "かれはなんでもたべます。",
+    "exampleTranslation": "He eats everything."
+  },
+  {
+    "pattern": "〜はどうですか",
+    "explanation": "Asking for opinion or suggestion. How about / what do you think of?",
+    "usageRules": "Noun + はどうですか",
+    "exampleSentence": "このレストランはどうですか。",
+    "exampleTranslation": "How about this restaurant?"
+  },
+  {
+    "pattern": "〜が好きです",
+    "explanation": "Expresses liking something. Like something.",
+    "usageRules": "Noun + が + 好き (すき) + です",
+    "exampleSentence": "わたしはくるまがすきです。",
+    "exampleTranslation": "I like cars."
+  },
+  {
+    "pattern": "〜が上手/下手",
+    "explanation": "Expresses skill level. Good at / bad at something.",
+    "usageRules": "Noun + が + 上手 (じょうず) / 下手 (へた) + です",
+    "exampleSentence": "かのじょはりょうりがじょうずです。",
+    "exampleTranslation": "She is good at cooking."
+  },
+  {
+    "pattern": "〜にいく/〜にくる",
+    "explanation": "Expresses going/coming somewhere in order to do something.",
+    "usageRules": "Verb-masu-stem + に + いく / くる",
+    "exampleSentence": "ほんをかりに、としょかんにいきます。",
+    "exampleTranslation": "I'm going to the library to borrow a book."
+  },
+  {
+    "pattern": "〜はじめる",
+    "explanation": "Indicates beginning of an action. Start doing something.",
+    "usageRules": "Verb-masu-stem + はじめる",
+    "exampleSentence": "にほんごのべんきょうをはじめました。",
+    "exampleTranslation": "I started studying Japanese."
+  },
+  {
+    "pattern": "〜だす",
+    "explanation": "Indicates starting or beginning an action suddenly. Start / begin to.",
+    "usageRules": "Verb-masu-stem + だす",
+    "exampleSentence": "こどもがないだしました。",
+    "exampleTranslation": "The child started crying."
+  },
+  {
+    "pattern": "〜つづける",
+    "explanation": "Indicates continuing an action. Continue doing something.",
+    "usageRules": "Verb-masu-stem + つづける",
+    "exampleSentence": "いちじかんあるきつづけました。",
+    "exampleTranslation": "I continued walking for one hour."
+  },
+  {
+    "pattern": "〜おわる",
+    "explanation": "Indicates completion of an action. Finish doing something.",
+    "usageRules": "Verb-masu-stem + おわる",
+    "exampleSentence": "しゅくだいをおわらせました。",
+    "exampleTranslation": "I finished my homework (causative)."
+  },
+  {
+    "pattern": "〜たいです",
+    "explanation": "Polite expression of wanting to do something.",
+    "usageRules": "Verb-masu-stem + たいです",
+    "exampleSentence": "いまはごはんをたべたいです。",
+    "exampleTranslation": "I want to eat now."
+  },
+  {
+    "pattern": "〜なくてはいけない",
+    "explanation": "Expresses obligation. Must do / have to do (alternative form).",
+    "usageRules": "Verb-nai-form (remove ない) + くてはいけない",
+    "exampleSentence": "くすりをのまなくてはいけません。",
+    "exampleTranslation": "I must take medicine."
+  },
+  {
+    "pattern": "〜がいます/〜があります",
+    "explanation": "Existence. がいる for living things, がある for inanimate objects.",
+    "usageRules": "Place + に + Living thing + がいる / Thing + がある",
+    "exampleSentence": "つくえのうえにほんがあります。",
+    "exampleTranslation": "There is a book on the desk."
+  },
+  {
+    "pattern": "〜にのる",
+    "explanation": "Expresses riding or boarding a vehicle.",
+    "usageRules": "Vehicle + に + のる",
+    "exampleSentence": "でんしゃにのります。",
+    "exampleTranslation": "I ride the train."
+  },
+  {
+    "pattern": "〜をおりる",
+    "explanation": "Expresses getting off a vehicle.",
+    "usageRules": "Vehicle + を + おりる",
+    "exampleSentence": "バスをおりました。",
+    "exampleTranslation": "I got off the bus."
+  },
+  {
+    "pattern": "〜のなかで〜がいちばん〜",
+    "explanation": "Superlative comparison. Among X, Y is the most.",
+    "usageRules": "Group + のなかで + Subject + が + いちばん + Adjective",
+    "exampleSentence": "このなかでどれがいちばんたかいですか。",
+    "exampleTranslation": "Among these, which is the most expensive?"
+  },
+  {
+    "pattern": "〜や〜など",
+    "explanation": "Listing items with や implies a non-exhaustive list (and other things).",
+    "usageRules": "Noun A + や + Noun B + など + Particle",
+    "exampleSentence": "くるまやバイクなどがあります。",
+    "exampleTranslation": "There are things like cars and motorcycles."
+  }
+]

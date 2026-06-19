@@ -1,0 +1,65 @@
+[
+  {
+    "title": "丁寧語 (Teineigo) — Polite Language",
+    "japanese": "です・ます体",
+    "reading": "です・ますたい",
+    "meaning": "The basic polite form used in most formal situations",
+    "explanation": "Teineigo is the standard polite form used when speaking with strangers, superiors, or in formal settings. It replaces the plain form (だ・である) with です for nouns/ adjectives and ます for verbs.",
+    "examples": "[{\"japanese\":\"これは本です。\",\"reading\":\"これはほんです。\",\"meaning\":\"This is a book.\"},{\"japanese\":\"明日会社に行きます。\",\"reading\":\"あしたかいしゃにいきます。\",\"meaning\":\"I will go to the company tomorrow.\"},{\"japanese\":\"そのニュースを知っています。\",\"reading\":\"そのニュースをしっています。\",\"meaning\":\"I know that news.\"}]",
+    "order": 1
+  },
+  {
+    "title": "尊敬語 (Sonkeigo) — Honorific Language",
+    "japanese": "相手を高める表現",
+    "reading": "あいてをたかめるひょうげん",
+    "meaning": "Elevates the person you are speaking about/ to",
+    "explanation": "Sonkeigo shows respect by elevating the status of the person being referred to. Used when talking about customers, superiors, or people you respect. Verbs have special honorific forms or use the pattern お〜になる / 〜れる.",
+    "examples": "[{\"japanese\":\"社長はもうお帰りになりました。\",\"reading\":\"しゃちょうはもうおかえりになりました。\",\"meaning\":\"The president has already gone home (honorific).\"},{\"japanese\":\"お客様がお見えになりました。\",\"reading\":\"おきゃくさまがおみえになりました。\",\"meaning\":\"A customer has arrived (honorific).\"},{\"japanese\":\"何を召し上がりますか。\",\"reading\":\"なにをめしあがりますか。\",\"meaning\":\"What would you like to eat/ drink? (honorific)\"}]",
+    "order": 2
+  },
+  {
+    "title": "謙譲語 (Kenjougo) — Humble Language",
+    "japanese": "自分を低める表現",
+    "reading": "じぶんをひくめるひょうげん",
+    "meaning": "Humbles yourself to show respect to others",
+    "explanation": "Kenjougo lowers your own status to elevate the listener or the person you are speaking about. Used when describing your own actions to a superior or customer. Pattern: お〜する / ご〜する, or use special humble verb forms.",
+    "examples": "[{\"japanese\":\"私が資料をお持ちします。\",\"reading\":\"わたしがしりょうをおもちします。\",\"meaning\":\"I will bring the documents (humble).\"},{\"japanese\":\"明日ご連絡いたします。\",\"reading\":\"あしたごれんらくいたします。\",\"meaning\":\"I will contact you tomorrow (humble).\"},{\"japanese\":\"社長に申し上げたいことがあります。\",\"reading\":\"しゃちょうにもうしあげたいことがあります。\",\"meaning\":\"I have something to tell the president (humble).\"}]",
+    "order": 3
+  },
+  {
+    "title": "尊敬語 動詞一覧 — Common Honorific Verbs",
+    "japanese": "よく使う尊敬語動詞",
+    "reading": "よくつかうそんけいごどうし",
+    "meaning": "Common honorific verb substitutions",
+    "explanation": "Many common verbs have special honorific forms that must be memorized. The pattern is: お + ます-stem + になる, or use the special forms below.",
+    "examples": "[{\"japanese\":\"行く → いらっしゃる／おいでになる\",\"reading\":\"いく → いらっしゃる／おいでになる\",\"meaning\":\"to go (honorific)\"},{\"japanese\":\"見る → ご覧になる\",\"reading\":\"みる → ごらんになる\",\"meaning\":\"to see/ watch (honorific)\"},{\"japanese\":\"言う → おっしゃる\",\"reading\":\"いう → おっしゃる\",\"meaning\":\"to say (honorific)\"},{\"japanese\":\"食べる → 召し上がる\",\"reading\":\"たべる → めしあがる\",\"meaning\":\"to eat (honorific)\"},{\"japanese\":\"知っている → ご存知だ\",\"reading\":\"しっている → ごぞんじだ\",\"meaning\":\"to know (honorific)\"},{\"japanese\":\"来る → おいでになる／見える\",\"reading\":\"くる → おいでになる／みえる\",\"meaning\":\"to come (honorific)\"}]",
+    "order": 4
+  },
+  {
+    "title": "謙譲語 動詞一覧 — Common Humble Verbs",
+    "japanese": "よく使う謙譲語動詞",
+    "reading": "よくつかうけんじょうごどうし",
+    "meaning": "Common humble verb substitutions",
+    "explanation": "Like sonkeigo, many common verbs have special humble forms. Pattern: お + ます-stem + する / いたす, or use special forms below. Use these when referring to your own actions.",
+    "examples": "[{\"japanese\":\"行く → 伺う／参る\",\"reading\":\"いく → うかがう／まいる\",\"meaning\":\"to go/ visit (humble)\"},{\"japanese\":\"見る → 拝見する\",\"reading\":\"みる → はいけんする\",\"meaning\":\"to see/ look at (humble)\"},{\"japanese\":\"言う → 申す／申し上げる\",\"reading\":\"いう → もうす／もうしあげる\",\"meaning\":\"to say (humble)\"},{\"japanese\":\"食べる → いただく\",\"reading\":\"たべる → いただく\",\"meaning\":\"to eat/ receive (humble)\"},{\"japanese\":\"知っている → 存じている\",\"reading\":\"しっている → ぞんじている\",\"meaning\":\"to know (humble)\"},{\"japanese\":\"会う → お目にかかる\",\"reading\":\"あう → おめにかかる\",\"meaning\":\"to meet (humble)\"}]",
+    "order": 5
+  },
+  {
+    "title": "ビジネスメールの敬語 — Keigo in Business Emails",
+    "japanese": "メールで使う敬語表現",
+    "reading": "メールでつかうけいごひょうげん",
+    "meaning": "Keigo patterns commonly used in business emails",
+    "explanation": "Business emails in Japanese require specific keigo patterns for opening, closing, and making requests. The level of formality depends on the relationship with the recipient.",
+    "examples": "[{\"japanese\":\"いつもお世話になっております。\",\"reading\":\"いつもおせわになっております。\",\"meaning\":\"Thank you for your continued support (standard email opening).\"},{\"japanese\":\"拝啓　時下ますますご清栄のこととお慶び申し上げます。\",\"reading\":\"はいけい　じかますますごせいえいのこととおよろこびもうしあげます。\",\"meaning\":\"Dear Sir/ Madam, I hope this letter finds you well (formal opening).\"},{\"japanese\":\"恐れ入りますが、〜していただけますでしょうか。\",\"reading\":\"おそれいりますが、〜していただけますでしょうか。\",\"meaning\":\"I am sorry to trouble you, but could you please...? (polite request)\"},{\"japanese\":\"ご確認のほど、よろしくお願いいたします。\",\"reading\":\"ごかくにんのほど、よろしくおねがいいたします。\",\"meaning\":\"We would appreciate your confirmation (polite closing).\"},{\"japanese\":\"取り急ぎご連絡申し上げます。\",\"reading\":\"とりいそぎごれんらくもうしあげます。\",\"meaning\":\"I am writing to you urgently (urgent email opening).\"}]",
+    "order": 6
+  },
+  {
+    "title": "電話対応の敬語 — Keigo on the Phone",
+    "japanese": "電話で使う敬語表現",
+    "reading": "でんわでつかうけいごひょうげん",
+    "meaning": "Keigo patterns for phone conversations",
+    "explanation": "Phone calls require specific keigo because you cannot rely on visual cues. Proper phone keigo includes greeting, identifying yourself, confirming information, and closing the call politely.",
+    "examples": "[{\"japanese\":\"お世話になっております。○○会社の△△でございます。\",\"reading\":\"おせわになっております。○○がいしゃの△△でございます。\",\"meaning\":\"Thank you for your business. This is △△ from ○○ Company.\"},{\"japanese\":\"少々お待ちくださいませ。\",\"reading\":\"しょうしょうおまちくださいませ。\",\"meaning\":\"Please hold for a moment (polite).\"},{\"japanese\":\"恐れ入りますが、もう一度おっしゃっていただけますでしょうか。\",\"reading\":\"おそれいりますが、もういちどおっしゃっていただけますでしょうか。\",\"meaning\":\"I apologize, but could you please say that again?\"},{\"japanese\":\"かしこまりました。承知いたしました。\",\"reading\":\"かしこまりました。しょうちいたしました。\",\"meaning\":\"Understood. I acknowledge that (polite confirmation).\"}]",
+    "order": 7
+  }
+]
